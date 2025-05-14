@@ -1,5 +1,3 @@
-# MoralFablesAnonymous
-
 Anonymous repository for the MoralFables dataset.
 
 Content:
