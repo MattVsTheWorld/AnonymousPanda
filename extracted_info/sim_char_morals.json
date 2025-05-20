@@ -1,0 +1,3557 @@
+{
+    "aesop_section_1_5": {
+        "alt_moral": "Never trust a known deceiver.",
+        "original_moral": "Gratitude is the sign of noble souls.",
+        "sim": 0.16835156083106995
+    },
+    "aesop_section_1_6": {
+        "alt_moral": "Disaster awaits the arrogant person who puts on airs: he will fail to get promoted and will lose his former position as well.",
+        "original_moral": "Appearances are deceptive.",
+        "sim": 0.007437479216605425
+    },
+    "aesop_section_1_8": {
+        "alt_moral": "An enemy in disguise is much more unforgivable than an open enemy.",
+        "original_moral": "There's a time for work and a time for play.",
+        "sim": 0.0226206723600626
+    },
+    "aesop_section_1_15": {
+        "alt_moral": "People that live by example need to look closely at the example they are following.",
+        "original_moral": "In quarreling about the shadow we often lose the substance.",
+        "sim": 0.03598407283425331
+    },
+    "aesop_section_1_18": {
+        "alt_moral": "Watch the actions of your enemy.",
+        "original_moral": "Men often bear little grievances with less courage than they do large misfortunes.",
+        "sim": 0.01900443248450756
+    },
+    "aesop_section_1_21": {
+        "alt_moral": "Each stage of life has its own gifts.",
+        "original_moral": "To be satisfied with one's lot is better than to desire something which one is not fitted to receive",
+        "sim": 0.019322378560900688
+    },
+    "aesop_section_1_22": {
+        "alt_moral": "To be satisfied with one's lot is better than to desire something which one is not fitted to receive.",
+        "original_moral": "Clumsy jesting is no joke.",
+        "sim": -0.009220773354172707
+    },
+    "aesop_section_1_23": {
+        "alt_moral": "The grass is always greener on the other side of the fence.",
+        "original_moral": "An ounce of prevention is worth a pound of cure",
+        "sim": "XXX"
+    },
+    "aesop_section_1_27": {
+        "alt_moral": "It is better to serve in safety than to rule in peril.",
+        "original_moral": "Fine clothes may disguise, but silly words will disclose a fool.",
+        "sim": 0.05459890887141228
+    },
+    "aesop_section_1_30": {
+        "alt_moral": "Happy is the man who learns from the misfortunes of others.",
+        "original_moral": "Wit has always an answer ready.",
+        "sim": -0.006460538599640131
+    },
+    "aesop_section_1_32": {
+        "alt_moral": "People adjust their beliefs based on what is profitable for them.",
+        "original_moral": "Vices are their own punishment.",
+        "sim": 0.1318705976009369
+    },
+    "aesop_section_1_33": {
+        "alt_moral": "There is no thing so worthy of wonderment which does not cease to be a miracle with the passage of timey.",
+        "original_moral": "It's good to be able to laugh at yourself.",
+        "sim": 0.054166048765182495
+    },
+    "aesop_section_1_35": {
+        "alt_moral": "Intent matters more than the outcome.",
+        "original_moral": "You will only injure yourself if you take notice of despicable enemies.",
+        "sim": 0.05990638956427574
+    },
+    "aesop_section_1_36": {
+        "alt_moral": "Trust is not to be given lightly.",
+        "original_moral": "He that is neither one thing nor the other has no friends.",
+        "sim": -0.012660772539675236
+    },
+    "aesop_section_1_39": {
+        "alt_moral": "Don't promise more than you can deliver.",
+        "original_moral": "Misfortune tests the sincerity of friends.",
+        "sim": 0.10569673031568527
+    },
+    "aesop_section_1_41": {
+        "alt_moral": "Nature reveals itself.",
+        "original_moral": "It is easy to propose impossible remedies.",
+        "sim": 0.09541606158018112
+    },
+    "aesop_section_1_42": {
+        "alt_moral": "Be careful what you wish for.",
+        "original_moral": "Each member in his proper sphere must work for the common good",
+        "sim": -0.0018368788296356797
+    },
+    "aesop_section_1_44": {
+        "alt_moral": "A wise person readily tolerates the insolence of strangers when he sees those same strangers mistreating one another.",
+        "original_moral": "Necessity knows no law.",
+        "sim": -0.08257351815700531
+    },
+    "aesop_section_1_49": {
+        "alt_moral": "Know yourself and your limits.",
+        "original_moral": "Be on guard against men who can strike from a distance.",
+        "sim": 0.25426381826400757
+    },
+    "aesop_section_1_51": {
+        "alt_moral": "Avoid overindulgence",
+        "original_moral": "Do not attempt too much at once.",
+        "sim": 0.2363939881324768
+    },
+    "aesop_section_1_52": {
+        "alt_moral": "Those who won't learn from advice must be taught by experience.",
+        "original_moral": "One man's pleasure may be another's pain.",
+        "sim": 0.09101288765668869
+    },
+    "aesop_section_1_54": {
+        "alt_moral": "Avoid overindulgence",
+        "original_moral": "Whatever you do, do with all your might.",
+        "sim": -0.07400092482566833
+    },
+    "aesop_section_1_58": {
+        "alt_moral": "Injuries may be forgiven, but not forgotten.",
+        "original_moral": "Men often applaud an imitation and hiss the real thing.",
+        "sim": 0.09325927495956421
+    },
+    "aesop_section_1_66": {
+        "alt_moral": "Fortune can occasionally bestow favours that exceed a person's hopes and expectations.",
+        "original_moral": "Nature reveals itself.",
+        "sim": 0.07519134134054184
+    },
+    "aesop_section_1_67": {
+        "alt_moral": "aesop_section_1_41",
+        "original_moral": "Nature reveals itself.",
+        "sim": -0.2825791537761688
+    },
+    "aesop_section_1_70": {
+        "alt_moral": "Beware of when the powerful and the deceitful collaborate.",
+        "original_moral": "He who is once deceived is doubly cautious.",
+        "sim": 0.2130044549703598
+    },
+    "aesop_section_1_75": {
+        "alt_moral": "Different people are interested in different things.",
+        "original_moral": "Precious things are for those that can prize them.",
+        "sim": 0.08437733352184296
+    },
+    "aesop_section_1_80": {
+        "alt_moral": "Those who won't learn from advice must be taught by experience.",
+        "original_moral": "Little by little does the trick.",
+        "sim": 0.07673227787017822
+    },
+    "aesop_section_1_84": {
+        "alt_moral": "Those who avoid hardship may miss out on valuable rewards.",
+        "original_moral": "Men often revert to their natural instincts.",
+        "sim": 0.12631964683532715
+    },
+    "aesop_section_1_86": {
+        "alt_moral": "Enemies promises were made to be broken.",
+        "original_moral": "Those who enter by the back stairs may expect to be shown out at the window.",
+        "sim": 0.06367526948451996
+    },
+    "aesop_section_1_90": {
+        "alt_moral": "Each stage of life has its own gifts.",
+        "original_moral": "People often grudge others what they cannot enjoy themselves.",
+        "sim": -0.0013428167439997196
+    },
+    "aesop_section_1_92": {
+        "alt_moral": "Each stage of life has its own gifts.",
+        "original_moral": "He who covets what belongs to another, deservedly loses his own.",
+        "sim": 0.12529121339321136
+    },
+    "aesop_section_1_101": {
+        "alt_moral": "The weak may find a way to avenge a wrong.",
+        "original_moral": "How often do we supply our enemies with the means of our own destruction.",
+        "sim": 0.15080435574054718
+    },
+    "aesop_section_2_2": {
+        "alt_moral": "God is the ultimate judge.",
+        "original_moral": "Do unto others as you would have them do unto you.",
+        "sim": -0.08755334466695786
+    },
+    "aesop_section_2_5": {
+        "alt_moral": "Beware the sort of person who uses tricks.",
+        "original_moral": "If words suffice not, blows must follow.",
+        "sim": -0.03582964465022087
+    },
+    "aesop_section_2_7": {
+        "alt_moral": "The man who treats others well is rewarded by gratitude.",
+        "original_moral": "The greatest kindness will not bind the ungrateful.",
+        "sim": 0.11821740120649338
+    },
+    "aesop_section_2_8": {
+        "alt_moral": "Do unto others what you would have them do unto you.",
+        "original_moral": "Birds of a feather flock together.",
+        "sim": 0.23170310258865356
+    },
+    "aesop_section_2_11": {
+        "alt_moral": "A coward by nature will always be a coward.",
+        "original_moral": "No arguments will give courage to the coward.",
+        "sim": 0.16962923109531403
+    },
+    "aesop_section_2_15": {
+        "alt_moral": "When you are in a man's power you must do as he bids you.",
+        "original_moral": "A little thing in hand is worth more than a great thing in prospect.",
+        "sim": 0.11348509788513184
+    },
+    "aesop_section_2_16": {
+        "alt_moral": "Some never understand the actions of others.",
+        "original_moral": "To do the right thing at the right season is a great art.",
+        "sim": 0.15034951269626617
+    },
+    "aesop_section_2_25": {
+        "alt_moral": "Be yourself and don't pretend to be someone you're not.",
+        "original_moral": "Union is strength.",
+        "sim": -0.031856685876846313
+    },
+    "perry_18": {
+        "alt_moral": "No one should boast when his prowess is a matter of mere circumstance.",
+        "original_moral": "It is foolish to expect help from someone who is naturally unkind.",
+        "sim": 0.3087281286716461
+    },
+    "aesop_section_2_28": {
+        "alt_moral": "A single reliable skill is worth more than a bag of useless tricks",
+        "original_moral": "Better one safe way than a hundred on which you cannot reckon.",
+        "sim": 0.4247400760650635
+    },
+    "aesop_section_2_29": {
+        "alt_moral": "A false friend is the worst kind of enemy.",
+        "original_moral": "Cunning often outwits itself.",
+        "sim": -0.048002563416957855
+    },
+    "aesop_section_2_30": {
+        "alt_moral": "Beware the sort of person who uses tricks.",
+        "original_moral": "Do unto others what you would have them do unto you.",
+        "sim": -0.04373801872134209
+    },
+    "perry_123": {
+        "alt_moral": "Do not trust flatterers.",
+        "original_moral": "Flatters are not to be trusted.",
+        "sim": 0.4652431011199951
+    },
+    "aesop_section_2_32": {
+        "alt_moral": "Flatters are not to be trusted.",
+        "original_moral": "Do not trust flatterers.",
+        "sim": 0.4652431011199951
+    },
+    "aesop_section_2_34": {
+        "alt_moral": "Temptation can lead even the most virtuous individuals to compromise their integrity and values.",
+        "original_moral": "Look before you leap.",
+        "sim": 0.06640994548797607
+    },
+    "aesop_section_2_38": {
+        "alt_moral": "Never trust a known deceiver.",
+        "original_moral": "Consider carefully before changing your situation.",
+        "sim": 0.2356087863445282
+    },
+    "aesop_section_2_48": {
+        "alt_moral": "Better one safe way than a hundred on which you cannot reckon.",
+        "original_moral": "There is as much malice in a wink as in a word.",
+        "sim": 0.09422453492879868
+    },
+    "aesop_section_2_52": {
+        "alt_moral": "Better to endure a small hardship than risk a greater one.",
+        "original_moral": "Better no rule than cruel rule.",
+        "sim": 0.34832364320755005
+    },
+    "aesop_section_2_59": {
+        "alt_moral": "Do not attempt to hide things which cannot be hid.",
+        "original_moral": "Old friends should not be sacrificed for new ones.",
+        "sim": 0.21865494549274445
+    },
+    "aesop_section_2_62": {
+        "alt_moral": "People often grasp for more than they need and thus lose the little they have.",
+        "original_moral": "Greed often overreaches itself.",
+        "sim": 0.23152810335159302
+    },
+    "aesop_section_2_64": {
+        "alt_moral": "He that has many friends, has no friends.",
+        "original_moral": "Necessity is our strongest weapon.",
+        "sim": -0.13791966438293457
+    },
+    "aesop_section_2_67": {
+        "alt_moral": "Better no rule than cruel rule.",
+        "original_moral": "There is always someone worse off than yourself.",
+        "sim": -0.04666890203952789
+    },
+    "aesop_section_2_71": {
+        "alt_moral": "Necessity is our strongest weapon.",
+        "original_moral": "He that has many friends, has no friends.",
+        "sim": -0.13791966438293457
+    },
+    "aesop_section_2_73": {
+        "alt_moral": "Don't promise more than you can deliver.",
+        "original_moral": "We often despise what is most useful to us.",
+        "sim": 0.09540315717458725
+    },
+    "aesop_section_2_74": {
+        "alt_moral": "Take pleasure when thieves destroy themselves.",
+        "original_moral": "Nothing escapes the master's eye",
+        "sim": -0.0817309096455574
+    },
+    "aesop_section_2_76": {
+        "alt_moral": "The conflicts of the wicked are the protection of the good.",
+        "original_moral": "Avoid a remedy that is worse than the disease.",
+        "sim": 0.0008775133755989373
+    },
+    "aesop_section_2_77": {
+        "alt_moral": "gibbs_382_357",
+        "original_moral": "He laughs best that laughs last.",
+        "sim": -0.3662817180156708
+    },
+    "aesop_section_2_80": {
+        "alt_moral": "Jealousy can lead people to foolishly imitate their betters.",
+        "original_moral": "Strife feeds on conflict.",
+        "sim": 0.10408009588718414
+    },
+    "aesop_section_2_81": {
+        "alt_moral": "It's wise and kind to be considerate of one another, for no one knows their own end.",
+        "original_moral": "Self-help is the best help.",
+        "sim": 0.07027997076511383
+    },
+    "aesop_section_2_88": {
+        "alt_moral": "It is better to be injured with impunity, than to put ourselves in the power of another.",
+        "original_moral": "If you allow men to use you for your own purposes, they will use you for theirs.",
+        "sim": -0.014832434244453907
+    },
+    "aesop_section_2_91": {
+        "alt_moral": "One story is good, till another is told.",
+        "original_moral": "The hero is brave in deeds as well as words.",
+        "sim": 0.08296336233615875
+    },
+    "aesop_section_2_92": {
+        "alt_moral": "A little thing in hand is worth more than a great thing in prospect.",
+        "original_moral": "Abstain and enjoy.",
+        "sim": -0.06222645193338394
+    },
+    "aesop_section_3_3": {
+        "alt_moral": "It is a foolish thing to give advice to others while not looking out for oneself.",
+        "original_moral": "The desire for imaginary benefits often involves the loss of present blessings.",
+        "sim": 0.2562142312526703
+    },
+    "aesop_section_3_4": {
+        "alt_moral": "It is very unwise, even for the greatest of men, to provoke the least, as they may find a way to enact revenge.",
+        "original_moral": "Sorrow not over what is lost forever",
+        "sim": -0.030972780659794807
+    },
+    "aesop_section_3_8": {
+        "alt_moral": "Flatters are not to be trusted.",
+        "original_moral": "Youth's first duty is reverence to parents.",
+        "sim": 0.14956392347812653
+    },
+    "aesop_section_3_9": {
+        "alt_moral": "Cunning often outwits itself.",
+        "original_moral": "Self-help is the best help.",
+        "sim": 0.09606350213289261
+    },
+    "aesop_section_3_13": {
+        "alt_moral": "Never trust a known deceiver.",
+        "original_moral": "Try before you trust.",
+        "sim": 0.28096920251846313
+    },
+    "aesop_section_3_24": {
+        "alt_moral": "Wit has always an answer ready.",
+        "original_moral": "Happy is the man who learns from the misfortunes of others.",
+        "sim": -0.006460538599640131
+    },
+    "aesop_section_3_26": {
+        "alt_moral": "Do not neglect the loyalty of old friends to please new acquaintances.",
+        "original_moral": "Small liberties can be large offenses.",
+        "sim": -0.010311519727110863
+    },
+    "aesop_section_3_28": {
+        "alt_moral": "Know yourself and your limits.",
+        "original_moral": "You may share the labours of the great, but you will not share the spoil.",
+        "sim": 0.07557037472724915
+    },
+    "aesop_section_3_32": {
+        "alt_moral": "Never trust a known deceiver.",
+        "original_moral": "Wit always has an answer ready.",
+        "sim": 0.10447300970554352
+    },
+    "aesop_section_3_35": {
+        "alt_moral": "Not all things are suitable for all people.",
+        "original_moral": "Straws show how the wind blows.",
+        "sim": -0.03965887427330017
+    },
+    "aesop_section_3_36": {
+        "alt_moral": "Those who won't learn from advice must be taught by experience.",
+        "original_moral": "Yield to all and you will soon have nothing to yield.",
+        "sim": -0.09319309145212173
+    },
+    "aesop_section_3_37": {
+        "alt_moral": "Be careful what you wish for.",
+        "original_moral": "The man who talks for both sides is not to be trusted by either.",
+        "sim": 0.028106851503252983
+    },
+    "aesop_section_3_39": {
+        "alt_moral": "The hero is brave in deeds as well as words.",
+        "original_moral": "One story is good, till another is told.",
+        "sim": 0.08296336233615875
+    },
+    "aesop_section_3_45": {
+        "alt_moral": "Humble commonalty easily finds safety in obscurity.",
+        "original_moral": "Greatness has its penalties.",
+        "sim": 0.13487811386585236
+    },
+    "aesop_section_3_50": {
+        "alt_moral": "A wise person readily tolerates the insolence of strangers when he sees those same strangers mistreating one another.",
+        "original_moral": "Do not count your chickens before they are hatched.",
+        "sim": -0.05580659583210945
+    },
+    "aesop_section_3_52": {
+        "alt_moral": "We should not to conclude that we are allowed to do to other people's things what is permitted to them in their own houses.",
+        "original_moral": "Try to please all and you end by pleasing none.",
+        "sim": -0.12046021968126297
+    },
+    "aesop_section_3_62": {
+        "alt_moral": "Don't promise big things if you can't deliver.",
+        "original_moral": "Don't make a big fuss over nothing.",
+        "sim": 0.2527378797531128
+    },
+    "aesop_section_3_65": {
+        "alt_moral": "The man who talks for both sides is not to be trusted by either.",
+        "original_moral": "Enemies' promises are made to be broken.",
+        "sim": 0.10360728949308395
+    },
+    "aesop_section_3_66": {
+        "alt_moral": "Easy life and seeming good fortune of others conceal a threat to their welfare.",
+        "original_moral": "Be sure of your pedigree before you boast of it.",
+        "sim": 0.0941377654671669
+    },
+    "aesop_section_3_69": {
+        "alt_moral": "Only untrustworthy people blame the consequences of their own actions on others.",
+        "original_moral": "Enemies promises were made to be broken.",
+        "sim": 0.029612882062792778
+    },
+    "aesop_section_3_70": {
+        "alt_moral": "Those who adapt to the times will emerge unscathed.",
+        "original_moral": "Stoop to conquer.",
+        "sim": 0.02118813805282116
+    },
+    "aesop_section_3_81": {
+        "alt_moral": "Take pleasure when thieves destroy themselves.",
+        "original_moral": "Trouble comes from the direction we least expect it.",
+        "sim": 0.028091244399547577
+    },
+    "aesop_section_3_89": {
+        "alt_moral": "Fine work gets preserved and treasured.",
+        "original_moral": "Be content with your lot; one cannot be first in everything.",
+        "sim": -0.0360485315322876
+    },
+    "aesop_section_3_91": {
+        "alt_moral": "Injuries may be forgiven, but not forgotten.",
+        "original_moral": "Self-interest alone moves some men.",
+        "sim": 0.08013208955526352
+    },
+    "aesop_section_3_97": {
+        "alt_moral": "When fools fight others run away with the prize.",
+        "original_moral": "Those who would mend others, should first mend themselves.",
+        "sim": 0.0809454470872879
+    },
+    "aesop_section_3_98": {
+        "alt_moral": "We must make friends in prosperity if we would have their help in adversity.",
+        "original_moral": "Change of habit cannot alter nature.",
+        "sim": 0.02534010447561741
+    },
+    "aesop_section_4_3": {
+        "alt_moral": "Those who adapt to the times will emerge unscathed.",
+        "original_moral": "Vicious people cannot resist hurting others even when it is not in their own interests",
+        "sim": -0.008812864311039448
+    },
+    "aesop_section_4_4": {
+        "alt_moral": "Those who adapt to the times will emerge unscathed.",
+        "original_moral": "Regardless of our wishes, or even our intent, it is to our Nature alone that we will be faithful.",
+        "sim": 0.018942613154649734
+    },
+    "aesop_section_4_9": {
+        "alt_moral": "Do not try to grasp too much at once.",
+        "original_moral": "One good turn deserves another.",
+        "sim": 0.05192765220999718
+    },
+    "aesop_section_4_10": {
+        "alt_moral": "When people feel grief for their misfortunes, they avoid the place where that grief overtook them.",
+        "original_moral": "It is useless attacking the insensible.",
+        "sim": 0.054845817387104034
+    },
+    "aesop_section_4_13": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Understand what you are doing before you do it.",
+        "sim": -0.01415291428565979
+    },
+    "aesop_section_4_16": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "There is no believing a liar, even when he speaks the truth.",
+        "sim": 0.07287601381540298
+    },
+    "aesop_section_4_18": {
+        "alt_moral": "Better to endure a small hardship than risk a greater one.",
+        "original_moral": "A liar deceives no one but himself.",
+        "sim": -0.08705350756645203
+    },
+    "aesop_section_4_23": {
+        "alt_moral": "A wise person will not attempt anything without having the right means to achieve it.",
+        "original_moral": "Fine work gets preserved and treasured.",
+        "sim": 0.0667690560221672
+    },
+    "aesop_section_4_29": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Two blacks do not make a white.",
+        "sim": -0.0002073340438073501
+    },
+    "aesop_section_4_31": {
+        "alt_moral": "Do not trade what might come, which is uncertain, for present opportunities, which can never be regained.",
+        "original_moral": "Destroy the seed of evil, or it will grow up to your ruin.",
+        "sim": 0.09923078864812851
+    },
+    "aesop_section_4_36": {
+        "alt_moral": "There is nothing more valuable than liberty.",
+        "original_moral": "A bribe in hand betrays mischief at heart.",
+        "sim": 0.15060526132583618
+    },
+    "aesop_section_4_40": {
+        "alt_moral": "Every Season has its own work.",
+        "original_moral": "Every man for himself.",
+        "sim": 0.059841375797986984
+    },
+    "aesop_section_4_42": {
+        "alt_moral": "Tricksters can outsmart the strong.",
+        "original_moral": "Never put yourself in your enemy's clutches.",
+        "sim": 0.04188799113035202
+    },
+    "aesop_section_4_43": {
+        "alt_moral": "Tricksters can outsmart the strong.",
+        "original_moral": "If men had all they wished, they would be often ruined.",
+        "sim": 0.013979132287204266
+    },
+    "aesop_section_4_46": {
+        "alt_moral": "Every tale is not to be believed.",
+        "original_moral": "Everyone is more or less master of his own fate.",
+        "sim": 0.2486005276441574
+    },
+    "aesop_section_4_47": {
+        "alt_moral": "Many pretend to be concerned about some people's demise, when however what they want is for it to come quickly.",
+        "original_moral": "The loiterer often blames delay on his more active friend.",
+        "sim": 0.0808042362332344
+    },
+    "aesop_section_4_49": {
+        "alt_moral": "When people plot against their neighbours, they fall victim to the same sort of plot themselves.",
+        "original_moral": "Obscurity often brings safety.",
+        "sim": -0.03390618413686752
+    },
+    "aesop_section_4_52": {
+        "alt_moral": "Honesty is the best policy.",
+        "original_moral": "He who incites to strife is worse than he who takes part in it.",
+        "sim": 0.05311635136604309
+    },
+    "aesop_section_4_60": {
+        "alt_moral": "Do no overestimate your worth when your fate rests in the hands of the high and the mighty.",
+        "original_moral": "Equals make the best friends.",
+        "sim": "XXX"
+    },
+    "aesop_section_4_61": {
+        "alt_moral": "Do no overestimate your worth when your fate rests in the hands of the high and the mighty.",
+        "original_moral": "The strong and the weak cannot keep company.",
+        "sim": "XXX"
+    },
+    "aesop_section_4_63": {
+        "alt_moral": "Famous beauties are rarely lucky.",
+        "original_moral": "He who shares the danger ought to share the prize.",
+        "sim": 0.023517973721027374
+    },
+    "aesop_section_4_65": {
+        "alt_moral": "True worth should be measured by character and deeds, not by outward appearances.",
+        "original_moral": "It is not only fine feathers that make fine birds.",
+        "sim": 0.09863459318876266
+    },
+    "aesop_section_4_67": {
+        "alt_moral": "Flatters are not to be trusted.",
+        "original_moral": "Quality is better than quantity.",
+        "sim": 0.08799418807029724
+    },
+    "aesop_section_4_72": {
+        "alt_moral": "If you don't speak out for others, there will be nobody left to speak out for you.",
+        "original_moral": "The least outlay is not always the greatest gain.",
+        "sim": -0.13989438116550446
+    },
+    "aesop_section_4_79": {
+        "alt_moral": "Beauty is in the eyes of the beholder.",
+        "original_moral": "An invitation prompted by selfishness is not to be accepted.",
+        "sim": 0.04733521118760109
+    },
+    "aesop_section_4_80": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Do not say anything at any time that you would not say at all times.",
+        "sim": -0.09669122099876404
+    },
+    "aesop_section_4_87": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Men often condemn others for what they see no wrong in doing themselves.",
+        "sim": 0.016298890113830566
+    },
+    "aesop_section_4_88": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Seek to harm and harm shall find you.",
+        "sim": 0.10824643820524216
+    },
+    "aesop_section_4_89": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Appearances are deceptive.",
+        "sim": 0.00558732682839036
+    },
+    "aesop_section_4_94": {
+        "alt_moral": "Honor the customs of the household you enter.",
+        "original_moral": "No gratitude from the wicked.",
+        "sim": -0.0026100492104887962
+    },
+    "aesop_section_4_96": {
+        "alt_moral": "Honor the customs of the household you enter.",
+        "original_moral": "We are made by our teachings in youth.",
+        "sim": 0.1908741593360901
+    },
+    "aesop_section_4_97": {
+        "alt_moral": "There is nothing more valuable than liberty.",
+        "original_moral": "Some things you cannot change.",
+        "sim": -0.006612936034798622
+    },
+    "gibbs_0_119": {
+        "alt_moral": "No mercy should be shown to someone who is wicked, regardless of whether his wickedness is great or small.",
+        "original_moral": "Do not trust the wicked.",
+        "sim": 0.18488150835037231
+    },
+    "gibbs_5_247": {
+        "alt_moral": "No matter how you brag, you can be undone.",
+        "original_moral": "There is always someone else worse off than you.",
+        "sim": 0.1274266242980957
+    },
+    "gibbs_6_216": {
+        "alt_moral": "Only cowards insult dying majesty.",
+        "original_moral": "There is strength in restraint.",
+        "sim": 0.10713332146406174
+    },
+    "gibbs_7_197": {
+        "alt_moral": "We should not be upset by the words of our teachers, since those words are usually the cause of many good things.",
+        "original_moral": "A discerning speaker can deftly turn the insults of his enemies into compliments.",
+        "sim": 0.1717015951871872
+    },
+    "gibbs_8_23": {
+        "alt_moral": "Jealousy can lead people to foolishly imitate their betters.",
+        "original_moral": "Great achievements are often blocked by some small thing which prevents their realization.",
+        "sim": 0.11027135699987411
+    },
+    "gibbs_12_451": {
+        "alt_moral": "Take pleasure when thieves destroy themselves.",
+        "original_moral": "Sometimes a small sacrifice results in a greater good.",
+        "sim": 0.0632045641541481
+    },
+    "gibbs_13_453": {
+        "alt_moral": "Kindness is never wasted.",
+        "original_moral": "Necessity is the mother of invention.",
+        "sim": 0.20606619119644165
+    },
+    "gibbs_15_34": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "When people harbor a criminal they become his first victims without even realizing it.",
+        "sim": 0.1186533272266388
+    },
+    "gibbs_17_537": {
+        "alt_moral": "Be careful what you wish for.",
+        "original_moral": "Resting the mind is essential for clear thinking.",
+        "sim": 0.12791748344898224
+    },
+    "gibbs_19_173": {
+        "alt_moral": "Each stage of life has its own gifts.",
+        "original_moral": "It is unwise to reward when one should punish.",
+        "sim": 0.04556027427315712
+    },
+    "gibbs_22_158": {
+        "alt_moral": "Be careful what you wish for.",
+        "original_moral": "Success leads many astray to their ruin.",
+        "sim": 0.09563347697257996
+    },
+    "gibbs_26_557": {
+        "alt_moral": "He who claims any good for himself takes away from the source of all the good he enjoys.",
+        "original_moral": "People are asking for trouble if they make fun of someone who is better than they are.",
+        "sim": 0.21801303327083588
+    },
+    "gibbs_27_317": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Experience often provides clearer insight than empty predictions.",
+        "sim": 0.04044439643621445
+    },
+    "gibbs_33_492": {
+        "alt_moral": "Do not mock the feelings of old age, as no one can escape them if they go on living.",
+        "original_moral": "A mild disposition can put a stop to vicious behaviour.",
+        "sim": 0.1521727442741394
+    },
+    "gibbs_34_501": {
+        "alt_moral": "You can't please everybody.",
+        "original_moral": "A mother's nurturing is stronger than a stepmother's attentions.",
+        "sim": 0.033770132809877396
+    },
+    "gibbs_37_1": {
+        "alt_moral": "Often there is more good to be found in one man than in a crowd of people.",
+        "original_moral": "Foolish people disregard important business in favour of frivolities.",
+        "sim": 0.13285516202449799
+    },
+    "gibbs_38_179": {
+        "alt_moral": "Flatterers and deceivers are not to be trusted.",
+        "original_moral": "The dishonest, if they act honestly, get no credit.",
+        "sim": 0.11447985470294952
+    },
+    "gibbs_40_293": {
+        "alt_moral": "Honors change behavior.",
+        "original_moral": "Self-help is the best help.",
+        "sim": 0.12945780158042908
+    },
+    "gibbs_49_81": {
+        "alt_moral": "People who have been treated with contempt repay the deed in kind.",
+        "original_moral": "Gratitude should be shown through kindness, not harm.",
+        "sim": 0.08678779751062393
+    },
+    "gibbs_50_138": {
+        "alt_moral": "Tears don't always signify pity.",
+        "original_moral": "When people plot against their neighbours, they fall victim to the same sort of plot themselves.",
+        "sim": -0.06117650866508484
+    },
+    "gibbs_55_360": {
+        "alt_moral": "Watch on all sides.",
+        "original_moral": "Changing your location does not change your state of mind.",
+        "sim": -0.04591551795601845
+    },
+    "gibbs_57_204": {
+        "alt_moral": "It is better to be loved than feared.",
+        "original_moral": "Enviable conditions often have a downside.",
+        "sim": 0.038398586213588715
+    },
+    "gibbs_58_207": {
+        "alt_moral": "You can't please everybody.",
+        "original_moral": "Do no overestimate your worth when your fate rests in the hands of the high and the mighty.",
+        "sim": -0.014870041981339455
+    },
+    "gibbs_59_6": {
+        "alt_moral": "The word of a wicked man can never be trusted.",
+        "original_moral": "Burdens can continue in unexpected ways.",
+        "sim": 0.17379963397979736
+    },
+    "gibbs_61_383": {
+        "alt_moral": "Greedy men chase after profit with such an intensity that they destroy themselves without achieving anything.",
+        "original_moral": "People get themselves into trouble because of their boasting.",
+        "sim": 0.3750922381877899
+    },
+    "gibbs_62_69": {
+        "alt_moral": "No one is so contemptible that he cannot be of use to us in some way.",
+        "original_moral": "Return favors and favors will be bestowed on you.",
+        "sim": -0.14376753568649292
+    },
+    "gibbs_63_515": {
+        "alt_moral": "It is better to endure short-term struggles for long-term benefits than the other way around.",
+        "original_moral": "Nature and instincts can persist despite changes in form or appearance.",
+        "sim": 0.04055254906415939
+    },
+    "gibbs_64_125": {
+        "alt_moral": "Union is strength.",
+        "original_moral": "There's a time for work and a time for play.",
+        "sim": 0.10981269180774689
+    },
+    "gibbs_65_126": {
+        "alt_moral": "Those who work hard to gather resources may find their efforts undone by the greed of others.",
+        "original_moral": "Prepare for the future.",
+        "sim": 0.19352009892463684
+    },
+    "gibbs_66_198": {
+        "alt_moral": "We must make friends in prosperity if we would have their help in adversity.",
+        "original_moral": "Work honestly and you won't be scorned.",
+        "sim": 0.12025485187768936
+    },
+    "gibbs_68_71": {
+        "alt_moral": "It is very unwise, even for the greatest of men, to provoke the least, as they may find a way to enact revenge.",
+        "original_moral": "One good turn deserves another.",
+        "sim": -0.025357432663440704
+    },
+    "gibbs_70_513": {
+        "alt_moral": "Often there is more good to be found in one man than in a crowd of people.",
+        "original_moral": "When someone with a wicked nature changes his appearance, his behaviour remains the same.",
+        "sim": 0.1292123645544052
+    },
+    "gibbs_72_205": {
+        "alt_moral": "Coffers of cash put a stop to honest traffic in praise.",
+        "original_moral": "True value comes from usefulness.",
+        "sim": 0.06504561752080917
+    },
+    "gibbs_77_203": {
+        "alt_moral": "Fortune can occasionally bestow favours that exceed a person's hopes and expectations.",
+        "original_moral": "Brag and nature may bring you down.",
+        "sim": 0.09913983941078186
+    },
+    "gibbs_78_97": {
+        "alt_moral": "Vanity can blind one to their true worth in the eyes of others.",
+        "original_moral": "He who does not conform to courtesy, mostly pays the penalty of his conceited behaviour.",
+        "sim": 0.17381954193115234
+    },
+    "gibbs_80_472": {
+        "alt_moral": "Don't draw a conclusion based on a single observation.",
+        "original_moral": "Do not mock the gods.",
+        "sim": 0.39935562014579773
+    },
+    "gibbs_84_172": {
+        "alt_moral": "Sometimes, Wicked people commit crime in haste but are not punished until much later.",
+        "original_moral": "If people who have previously committed a crime are swiftly punished, then others will become afraid on their account.",
+        "sim": 0.3181054890155792
+    },
+    "gibbs_87_361": {
+        "alt_moral": "Honesty is the best policy.",
+        "original_moral": "Some things you cannot change.",
+        "sim": 0.014215225353837013
+    },
+    "gibbs_89_201": {
+        "alt_moral": "Brag and nature may bring you down.",
+        "original_moral": "Everyone thinks themselves the best.",
+        "sim": 0.04193825647234917
+    },
+    "gibbs_90_278": {
+        "alt_moral": "Easy life and seeming good fortune of others conceal a threat to their welfare.",
+        "original_moral": "Do not take credit for the accomplishments of others.",
+        "sim": 0.20645296573638916
+    },
+    "gibbs_91_583": {
+        "alt_moral": "Intent matters more than the outcome.",
+        "original_moral": "Those who refuse to share and respond with rudeness may face dire consequences for their actions.",
+        "sim": 0.04485752433538437
+    },
+    "gibbs_95_24": {
+        "alt_moral": "Flatterers and deceivers are not to be trusted.",
+        "original_moral": "The true leader proves himself by his qualities.",
+        "sim": 0.076041080057621
+    },
+    "gibbs_96_154": {
+        "alt_moral": "God is the ultimate judge.",
+        "original_moral": "Even a high and mighty person should beware of his inferiors; their ingenuity can find a way to take revenge.",
+        "sim": 0.09920596331357956
+    },
+    "gibbs_97_236": {
+        "alt_moral": "Don't promise more than you can deliver.",
+        "original_moral": "A single reliable skill is worth more than a bag of useless tricks",
+        "sim": 0.09354551136493683
+    },
+    "gibbs_107_36": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "A wicked nature does not produce a good character.",
+        "sim": 0.09511900693178177
+    },
+    "gibbs_109_327": {
+        "alt_moral": "It is better by far to be governed by one chief, than by many.",
+        "original_moral": "Be true to your roots.",
+        "sim": 0.16472426056861877
+    },
+    "gibbs_110_403": {
+        "alt_moral": "People often grasp for more than they need and thus lose the little they have.",
+        "original_moral": "True value is wasted on those who cannot appreciate it.",
+        "sim": 0.1264687329530716
+    },
+    "gibbs_111_41": {
+        "alt_moral": "It is better to be injured with impunity, than to put ourselves in the power of another.",
+        "original_moral": "You should think twice before offering anything to your enemies.",
+        "sim": 0.20250968635082245
+    },
+    "gibbs_113_320": {
+        "alt_moral": "Pick your enemies.",
+        "original_moral": "People are often eager to treat their enemies well in the hopes of gaining something by it.",
+        "sim": 0.19955195486545563
+    },
+    "gibbs_115_480": {
+        "alt_moral": "A learned man has always a fund of riches in himself.",
+        "original_moral": "Self-effort is essential.",
+        "sim": 0.1798580437898636
+    },
+    "gibbs_116_141": {
+        "alt_moral": "Example is more powerful than precept.",
+        "original_moral": "People who treat their friends deceitfully end up hurting themselves instead.",
+        "sim": 0.0792660042643547
+    },
+    "gibbs_117_82": {
+        "alt_moral": "A bad man can come to ruin, but he is able to harm many other people first.",
+        "original_moral": "Some men underrate their best blessings.",
+        "sim": 0.015026740729808807
+    },
+    "gibbs_118_94": {
+        "alt_moral": "No curse weighs more heavily than a guilty conscience.",
+        "original_moral": "True friends are hard to find.",
+        "sim": 0.24132515490055084
+    },
+    "gibbs_119_324": {
+        "alt_moral": "Often there is more good to be found in one man than in a crowd of people.",
+        "original_moral": "Those who pretend to be what they are not, sooner or later, find themselves in deep water.",
+        "sim": 0.08073196560144424
+    },
+    "gibbs_121_166": {
+        "alt_moral": "Wit outshines skill.",
+        "original_moral": "Honor your craft with integrity.",
+        "sim": 0.20677214860916138
+    },
+    "gibbs_122_482": {
+        "alt_moral": "No mercy should be shown to someone who is wicked, regardless of whether his wickedness is great or small.",
+        "original_moral": "We should not call upon the gods in trivial affairs but only in dire necessity.",
+        "sim": 0.1048981249332428
+    },
+    "gibbs_124_209": {
+        "alt_moral": "We are made by our teachings in youth.",
+        "original_moral": "Talking is a waste of time when you can simply provide a demonstration.",
+        "sim": 0.10070203244686127
+    },
+    "gibbs_125_591": {
+        "alt_moral": "Men often revert to their natural instincts.",
+        "original_moral": "Do not let fame get to your head.",
+        "sim": 0.21010546386241913
+    },
+    "gibbs_127_536": {
+        "alt_moral": "Be content with your lot.",
+        "original_moral": "Seize opportunities when they arise.",
+        "sim": 0.4147622287273407
+    },
+    "gibbs_128_100": {
+        "alt_moral": "It's foolish to make decisions without understanding the nature of the matter at hand.",
+        "original_moral": "An invitation prompted by selfishness is not to be accepted.",
+        "sim": 0.2508142292499542
+    },
+    "gibbs_130_434": {
+        "alt_moral": "Do not expect to be defended by someone who cannot offer any protection.",
+        "original_moral": "People often grasp for more than they need and thus lose the little they have.",
+        "sim": "XXX"
+    },
+    "gibbs_131_46": {
+        "alt_moral": "There is nothing more valuable than liberty.",
+        "original_moral": "Expect no reward for serving the wicked.",
+        "sim": 0.24431534111499786
+    },
+    "gibbs_132_349": {
+        "alt_moral": "Embrace your own strengths.",
+        "original_moral": "Do not attempt the impossible.",
+        "sim": 0.39103803038597107
+    },
+    "gibbs_133_525": {
+        "alt_moral": "Be content with your lot.",
+        "original_moral": "Good things happen less often.",
+        "sim": 0.02252616174519062
+    },
+    "gibbs_134_581": {
+        "alt_moral": "Gratitude should be shown through kindness, not harm.",
+        "original_moral": "Expectations can lead to disappointment when reality does not match our desires.",
+        "sim": 0.05039876326918602
+    },
+    "gibbs_136_582": {
+        "alt_moral": "Those who refuse to share and respond with rudeness may face dire consequences for their actions.",
+        "original_moral": "Intent matters more than the outcome.",
+        "sim": 0.04485752433538437
+    },
+    "gibbs_137_584": {
+        "alt_moral": "Do not fight with those who are perfectly capable of fighting back.",
+        "original_moral": "Those who seek to please everybody please nobody.",
+        "sim": 0.10987561196088791
+    },
+    "gibbs_138_288": {
+        "alt_moral": "There is no wealth greater than liberty.",
+        "original_moral": "Precautions are useless after the crisis.",
+        "sim": 0.06071900948882103
+    },
+    "gibbs_139_364": {
+        "alt_moral": "Humble commonalty easily finds safety in obscurity.",
+        "original_moral": "Do not always stick to the same course.",
+        "sim": 0.062253184616565704
+    },
+    "gibbs_140_363": {
+        "alt_moral": "Those who work hard to gather resources may find their efforts undone by the greed of others.",
+        "original_moral": "He that is neither one thing nor the other has no friends.",
+        "sim": -0.021655531600117683
+    },
+    "gibbs_141_500": {
+        "alt_moral": "It is better to be loved than feared.",
+        "original_moral": "Learn from past misfortunes.",
+        "sim": 0.024238787591457367
+    },
+    "gibbs_145_450": {
+        "alt_moral": "The meaning is to be considered, not the mere words.",
+        "original_moral": "Hunger sharpens the wits.",
+        "sim": 0.03241600841283798
+    },
+    "gibbs_148_62": {
+        "alt_moral": "Never trust a known deceiver.",
+        "original_moral": "Sometimes one man toils while another profits.",
+        "sim": 0.02971329167485237
+    },
+    "gibbs_151_79": {
+        "alt_moral": "Evil wishes, like chickens, come home to roost.",
+        "original_moral": "Don't take your friends for foes.",
+        "sim": 0.01351518090814352
+    },
+    "gibbs_154_401": {
+        "alt_moral": "Disaster awaits the arrogant person who puts on airs: he will fail to get promoted and will lose his former position as well.",
+        "original_moral": "What is valued in one group may be dismissed by another.",
+        "sim": 0.03461360186338425
+    },
+    "gibbs_155_178": {
+        "alt_moral": "It's better to ignore an insult from one troublemaker than to bring a whole crowd of trouble upon yourself.",
+        "original_moral": "Pretenders will be found out.",
+        "sim": 0.02005658857524395
+    },
+    "gibbs_156_509": {
+        "alt_moral": "Pretenders will be found out.",
+        "original_moral": "Evil wishes, like chickens, come home to roost.",
+        "sim": 0.1840500831604004
+    },
+    "gibbs_158_351": {
+        "alt_moral": "Be content with your lot.",
+        "original_moral": "No piece of luck can conceal a depraved nature.",
+        "sim": 0.11175759881734848
+    },
+    "gibbs_159_115": {
+        "alt_moral": "We should not pick fights with people stronger than we are.",
+        "original_moral": "Beware of empty promises made during good times.",
+        "sim": 0.25615033507347107
+    },
+    "gibbs_160_332": {
+        "alt_moral": "The weak may find a way to avenge a wrong.",
+        "original_moral": "Disaster awaits the arrogant person who puts on airs: he will fail to get promoted and will lose his former position as well.",
+        "sim": 0.0938568189740181
+    },
+    "gibbs_164_412": {
+        "alt_moral": "Some people are so consumed by hatred that they would rather suffer themselves than see their enemies succeed.",
+        "original_moral": "A learned man has always a fund of riches in himself.",
+        "sim": 0.09877150505781174
+    },
+    "gibbs_167_231": {
+        "alt_moral": "Clothes may disguise a fool, but his words will give him away.",
+        "original_moral": "It is easy to attack those who have fallen from their position of power and glory.",
+        "sim": 0.05404745042324066
+    },
+    "gibbs_170_44": {
+        "alt_moral": "Do not trade what might come, which is uncertain, for present opportunities, which can never be regained.",
+        "original_moral": "Self-preservation can sometimes take precedence over kinship",
+        "sim": -0.0022546194959431887
+    },
+    "gibbs_171_45": {
+        "alt_moral": "Tears don't always signify pity.",
+        "original_moral": "Someone who lays a trap for others will fall victim to it himself.",
+        "sim": -0.014508221298456192
+    },
+    "gibbs_172_137": {
+        "alt_moral": "Tears don't always signify pity.",
+        "original_moral": "People who lay traps for others should be careful not to fall into a trap themselves.",
+        "sim": -0.001718770945444703
+    },
+    "gibbs_173_426": {
+        "alt_moral": "It is very unwise, even for the greatest of men, to provoke the least, as they may find a way to enact revenge.",
+        "original_moral": "Men feel worst when they contribute to their own undoing.",
+        "sim": 0.129073366522789
+    },
+    "gibbs_176_87": {
+        "alt_moral": "People are willing to risk their lives for the sake of some petty profit.",
+        "original_moral": "Households and cities are most likely to be deserted when there are harsh people in charge.",
+        "sim": 0.1568944752216339
+    },
+    "gibbs_178_95": {
+        "alt_moral": "Know your enemies.",
+        "original_moral": "Rushing into pleasant invitations can lead to dire consequences.",
+        "sim": 0.1656569540500641
+    },
+    "gibbs_179_380": {
+        "alt_moral": "What a person does through another is truly their own action.",
+        "original_moral": "Inattentive people quickly notice anything that they think will benefit them, while they are completely unaware of things which are not their immediate concern.",
+        "sim": -0.09997532516717911
+    },
+    "gibbs_180_424": {
+        "alt_moral": "Save a Thief from the Gallows, and he'll cut your Throat.",
+        "original_moral": "Do not laugh at the calamity that befalls your neighbour.",
+        "sim": 0.20971709489822388
+    },
+    "gibbs_181_37": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Evil tendencies are shown in early life.",
+        "sim": 0.11433987319469452
+    },
+    "gibbs_183_388": {
+        "alt_moral": "Don't promise more than you can deliver.",
+        "original_moral": "Rewards do not always accompany a lifetime of good work.",
+        "sim": 0.08919443935155869
+    },
+    "gibbs_184_422": {
+        "alt_moral": "Never trust a known deceiver.",
+        "original_moral": "Only cowards insult dying majesty.",
+        "sim": 0.15082217752933502
+    },
+    "gibbs_185_449": {
+        "alt_moral": "God is the ultimate judge.",
+        "original_moral": "Preparedness for war is the best guarantee of peace.",
+        "sim": 0.18759171664714813
+    },
+    "gibbs_186_61": {
+        "alt_moral": "Be yourself and don't pretend to be someone you're not.",
+        "original_moral": "It is good to set aside our deadly disputes and conflicts, since they put everyone's lives in jeopardy.",
+        "sim": 0.05851404368877411
+    },
+    "gibbs_187_376": {
+        "alt_moral": "hen a man has both an interest and an inclination to betray us, there's no trusting him.",
+        "original_moral": "What you have done to others will likewise be done to you, according to the same measure.",
+        "sim": 0.024373363703489304
+    },
+    "gibbs_189_289": {
+        "alt_moral": "He who claims any good for himself takes away from the source of all the good he enjoys.",
+        "original_moral": "Counsel without help is useless.",
+        "sim": 0.030668847262859344
+    },
+    "gibbs_190_291": {
+        "alt_moral": "Bad neighbours are the first to suffer from the harm they would do to others.",
+        "original_moral": "Anything which is done at the wrong time is liable to be ridiculed.",
+        "sim": 0.19007013738155365
+    },
+    "gibbs_191_540": {
+        "alt_moral": "Do not grasp at more than you need.",
+        "original_moral": "An honest man's word is as good as his oath.",
+        "sim": 0.001367642660625279
+    },
+    "gibbs_192_200": {
+        "alt_moral": "Learn from past misfortunes.",
+        "original_moral": "Better poverty without care, than riches with.",
+        "sim": -0.051749322563409805
+    },
+    "gibbs_194_495": {
+        "alt_moral": "Not all things are suitable for all people.",
+        "original_moral": "Inner beauty is better than outer beauty.",
+        "sim": 0.018334006890654564
+    },
+    "gibbs_195_224": {
+        "alt_moral": "Arrogant fools have no true influence.",
+        "original_moral": "Some men are of more consequence in their own eyes than in the eyes of their neighbors.",
+        "sim": 0.1426182985305786
+    },
+    "gibbs_196_477": {
+        "alt_moral": "People are often quick to make promises, but they do not really expect to have to fulfill them.",
+        "original_moral": "Dishonesty can lead to dire consequences.",
+        "sim": 0.12222016602754593
+    },
+    "gibbs_197_219": {
+        "alt_moral": "The great do not always prevail.",
+        "original_moral": "Some people just won't change.",
+        "sim": 0.11202343553304672
+    },
+    "gibbs_198_242": {
+        "alt_moral": "Educate your children in those arts which are capable of preserving them from want.",
+        "original_moral": "People who enter into contests with unworthy opponents lower their own reputation.",
+        "sim": 0.18343311548233032
+    },
+    "gibbs_199_233": {
+        "alt_moral": "Never trust a known deceiver.",
+        "original_moral": "When you are besieged by powerful people, you are subject to vicious attacks by anyone and everyone.",
+        "sim": 0.08017424494028091
+    },
+    "gibbs_200_55": {
+        "alt_moral": "hen a man has both an interest and an inclination to betray us, there's no trusting him.",
+        "original_moral": "When we form friendships with one another, we must choose allies who can come to our aid in moments of peril.",
+        "sim": 0.19270893931388855
+    },
+    "gibbs_201_59": {
+        "alt_moral": "Never trust a known deceiver.",
+        "original_moral": "Unity is strength, while division invites defeat.",
+        "sim": 0.15933455526828766
+    },
+    "gibbs_203_106": {
+        "alt_moral": "The great do not always prevail.",
+        "original_moral": "Believing your enemies makes you fall victim to their tricks and gets you into trouble.",
+        "sim": 0.008876404725015163
+    },
+    "gibbs_204_165": {
+        "alt_moral": "hen a man has both an interest and an inclination to betray us, there's no trusting him.",
+        "original_moral": "Those who take by force are met with resistance, while those who approach with humility may find unexpected generosity.",
+        "sim": 0.07676705718040466
+    },
+    "gibbs_208_566": {
+        "alt_moral": "What a person does through another is truly their own action.",
+        "original_moral": "It is best to keep negative influences away.",
+        "sim": -0.06700564175844193
+    },
+    "gibbs_213_598": {
+        "alt_moral": "Nature reveals itself.",
+        "original_moral": "Experience teaches valuable lessons and encourages caution.",
+        "sim": 0.10750706493854523
+    },
+    "gibbs_215_354": {
+        "alt_moral": "Great achievements are often blocked by some small thing which prevents their realization.",
+        "original_moral": "Jealousy can lead people to foolishly imitate their betters.",
+        "sim": 0.11027135699987411
+    },
+    "gibbs_216_268": {
+        "alt_moral": "People should not be judged by their appearances, but by their actions.",
+        "original_moral": "Familiarity mollifies even the most terrifying things.",
+        "sim": 0.07569167762994766
+    },
+    "gibbs_217_510": {
+        "alt_moral": "Men would bear their misfortunes more patiently if they considered the ones of others.",
+        "original_moral": "People who grasp for more than they need are deprived of what they have.",
+        "sim": 0.1124480590224266
+    },
+    "gibbs_219_98": {
+        "alt_moral": "He who is once deceived is doubly cautious.",
+        "original_moral": "Beware of when the powerful and the deceitful collaborate.",
+        "sim": 0.2130044549703598
+    },
+    "gibbs_220_118": {
+        "alt_moral": "People are to be judged by their actions, not by their appearance.",
+        "original_moral": "Be cautious with promises made under duress.",
+        "sim": 0.1206035241484642
+    },
+    "gibbs_223_129": {
+        "alt_moral": "Overconfidence often leads people into danger.",
+        "original_moral": "Tyrants need no excuse.",
+        "sim": 0.09990342706441879
+    },
+    "gibbs_224_105": {
+        "alt_moral": "Do not fear death, as it is the final goodbye to all the troubles, pains, and dangers of life.",
+        "original_moral": "Stay focused on your goals.",
+        "sim": 0.1368228942155838
+    },
+    "gibbs_226_128": {
+        "alt_moral": "Quality is more valuable than quantity.",
+        "original_moral": "Gossips are to be seen and not heard.",
+        "sim": 0.029504360631108284
+    },
+    "gibbs_227_435": {
+        "alt_moral": "People are to be judged by their actions, not by their appearance.",
+        "original_moral": "Relying too much on subordinates can lead to unintended consequences.",
+        "sim": 0.1385432630777359
+    },
+    "gibbs_229_113": {
+        "alt_moral": "True friends are hard to come by.",
+        "original_moral": "Look before you leap.",
+        "sim": 0.12267624586820602
+    },
+    "gibbs_230_156": {
+        "alt_moral": "Do unto others what you would have them do unto you.",
+        "original_moral": "One bad turn deserves another.",
+        "sim": -0.09795022010803223
+    },
+    "gibbs_231_187": {
+        "alt_moral": "We must not require what is unreasonable.",
+        "original_moral": "When the evidence is fairly weighed, a colourfully painted lie is quickly refuted by the facts.",
+        "sim": 0.09107900410890579
+    },
+    "gibbs_233_305": {
+        "alt_moral": "When you need someone to lend a hand, mere words are no help at all.",
+        "original_moral": "It is useless attacking the insensible.",
+        "sim": 0.2027478665113449
+    },
+    "gibbs_234_542": {
+        "alt_moral": "Appearances can be deceiving.",
+        "original_moral": "Opposites are utterly incompatible.",
+        "sim": 0.08184065669775009
+    },
+    "gibbs_235_83": {
+        "alt_moral": "Count the cost before you commit yourselves.",
+        "original_moral": "Favor those who do you kindness.",
+        "sim": 0.13409461081027985
+    },
+    "gibbs_236_107": {
+        "alt_moral": "God is the ultimate judge.",
+        "original_moral": "A discerning person is made wise by the misfortunes of his neighbours.",
+        "sim": 0.16371573507785797
+    },
+    "gibbs_237_272": {
+        "alt_moral": "A wise person readily tolerates the insolence of strangers when he sees those same strangers mistreating one another.",
+        "original_moral": "Do not go chasing after things that are useless and unprofitable.",
+        "sim": 0.012808745726943016
+    },
+    "gibbs_238_73": {
+        "alt_moral": "True worth should be measured by character and deeds, not by outward appearances.",
+        "original_moral": "Those who do you a favour you must repay kind.",
+        "sim": "XXX"
+    },
+    "gibbs_239_16": {
+        "alt_moral": "Do not neglect the loyalty of old friends to please new acquaintances.",
+        "original_moral": "The penalty for speaking and for keeping silent is one and the same.",
+        "sim": -0.00038345123175531626
+    },
+    "gibbs_241_408": {
+        "alt_moral": "Consider the consequences of your actions.",
+        "original_moral": "It is better to live in self-sufficient poverty than to be tormented by the worries of wealth.",
+        "sim": 0.10705651342868805
+    },
+    "gibbs_242_592": {
+        "alt_moral": "True friends are hard to come by.",
+        "original_moral": "Men will stand behind a judgment made in error until the actual fact of the matter later compels them to regret their choice.",
+        "sim": 0.024576151743531227
+    },
+    "gibbs_243_519": {
+        "alt_moral": "Sometimes, Wicked people commit crime in haste but are not punished until much later.",
+        "original_moral": "It is natural to be a knave; men must rise above.",
+        "sim": 0.02465702034533024
+    },
+    "gibbs_244_588": {
+        "alt_moral": "He who claims any good for himself takes away from the source of all the good he enjoys.",
+        "original_moral": "Beware of swindlers, as they often exploit the gullibility of others.",
+        "sim": 0.06760822981595993
+    },
+    "gibbs_246_599": {
+        "alt_moral": "There is nothing more valuable than liberty.",
+        "original_moral": "Avoid mischief and taking excessive risks.",
+        "sim": 0.06702125072479248
+    },
+    "gibbs_247_14": {
+        "alt_moral": "Nature reveals itself.",
+        "original_moral": "An alliance made with the high and mighty can never be trusted.",
+        "sim": 0.04298340901732445
+    },
+    "gibbs_249_547": {
+        "alt_moral": "Nature reveals itself.",
+        "original_moral": "Wealth is of little value if one is too afraid to use or enjoy it.",
+        "sim": 0.0029515912756323814
+    },
+    "gibbs_250_251": {
+        "alt_moral": "Beware the sort of person who uses tricks.",
+        "original_moral": "True courage involves overcoming fears, even when faced with intimidation.",
+        "sim": 0.11662791669368744
+    },
+    "gibbs_251_333": {
+        "alt_moral": "perry_584",
+        "original_moral": "Contentment with our lot is an element of happiness.",
+        "sim": -0.41589415073394775
+    },
+    "gibbs_254_296": {
+        "alt_moral": "Do unto others what you would have them do unto you.",
+        "original_moral": "Don't be seduced by deceptive words, they will cause nothing but trouble.",
+        "sim": 0.2108774036169052
+    },
+    "gibbs_256_193": {
+        "alt_moral": "Do not boast to have something you do not.",
+        "original_moral": "The useful is of much more importance and value, than the ornamental.",
+        "sim": -0.09478484094142914
+    },
+    "gibbs_258_302": {
+        "alt_moral": "There is no wealth greater than liberty.",
+        "original_moral": "You should not treat bad people the same way that you treat good people.",
+        "sim": -0.05353016033768654
+    },
+    "gibbs_259_340": {
+        "alt_moral": "It is better to be loved than feared.",
+        "original_moral": "You must not act unnaturally, trying to achieve some impossible thing.",
+        "sim": 0.10008175671100616
+    },
+    "gibbs_260_102": {
+        "alt_moral": "He who covets what belongs to another, deservedly loses his own.",
+        "original_moral": "If you try to deceive someone who has his wits about him, you will waste your time and be made fun of as well.",
+        "sim": 0.18708351254463196
+    },
+    "gibbs_262_168": {
+        "alt_moral": "We must not require what is unreasonable.",
+        "original_moral": "Those who commit grave wrongs cannot escape justice.",
+        "sim": 0.24216419458389282
+    },
+    "gibbs_264_89": {
+        "alt_moral": "Do not boast to have something you do not.",
+        "original_moral": "Vanity can lead to self-destruction.",
+        "sim": 0.02665170468389988
+    },
+    "gibbs_265_326": {
+        "alt_moral": "Do not boast to have something you do not.",
+        "original_moral": "Live your lives in the clothes that suit you.",
+        "sim": -0.03963619843125343
+    },
+    "gibbs_266_475": {
+        "alt_moral": "It is very unwise, even for the greatest of men, to provoke the least, as they may find a way to enact revenge.",
+        "original_moral": "Thieves may find themselves entangled in their own deceit.",
+        "sim": 0.13251632452011108
+    },
+    "gibbs_267_507": {
+        "alt_moral": "Beauty alone does not qualify one for leadership.",
+        "original_moral": "Be content with your lot; one cannot be first in everything.",
+        "sim": 0.20383013784885406
+    },
+    "gibbs_268_328": {
+        "alt_moral": "Be content with your lot; one cannot be first in everything.",
+        "original_moral": "Do not boast to have something you do not.",
+        "sim": 0.10438156872987747
+    },
+    "gibbs_269_194": {
+        "alt_moral": "Kindness is never wasted.",
+        "original_moral": "Many children are a great blessing; but a few good ones are a greater.",
+        "sim": 0.07057948410511017
+    },
+    "gibbs_272_319": {
+        "alt_moral": "Someone who cannot manage his own affairs is not qualified to give advice to his neighbours.",
+        "original_moral": "Those who assume a character which does not belong to them, only make themselves ridiculous.",
+        "sim": 0.27961939573287964
+    },
+    "gibbs_273_111": {
+        "alt_moral": "Tricksters can outsmart the strong.",
+        "original_moral": "Beware of when the powerful and the deceitful collaborate.",
+        "sim": 0.2232266217470169
+    },
+    "gibbs_274_112": {
+        "alt_moral": "Beware of when the powerful and the deceitful collaborate.",
+        "original_moral": "Tricksters can outsmart the strong.",
+        "sim": 0.2232266217470169
+    },
+    "gibbs_275_465": {
+        "alt_moral": "A bad man can come to ruin, but he is able to harm many other people first.",
+        "original_moral": "Bad things naturally happen to bad people, while good things lie in wait for people who are honest and reasonable.",
+        "sim": 0.10392031818628311
+    },
+    "gibbs_279_548": {
+        "alt_moral": "People often appreciate what they had only after experiencing something worse.",
+        "original_moral": "You can't please everybody.",
+        "sim": -0.04080812260508537
+    },
+    "gibbs_282_484": {
+        "alt_moral": "No one is so loving of a friend that they would not prefer their own good to that of another.",
+        "original_moral": "Be careful what you wish for.",
+        "sim": -0.04740839824080467
+    },
+    "gibbs_284_286": {
+        "alt_moral": "No one is so contemptible that he cannot be of use to us in some way.",
+        "original_moral": "Those who are not content with what they have may end up losing it while pursuing greater desires.",
+        "sim": 0.01580064930021763
+    },
+    "gibbs_286_90": {
+        "alt_moral": "Seek the friendship of those who do not withdraw from offering help even in a time of adversity.",
+        "original_moral": "Good will is worth nothing unless it is accompanied by good acts.",
+        "sim": 0.06815145164728165
+    },
+    "gibbs_287_459": {
+        "alt_moral": "Never trust a known deceiver.",
+        "original_moral": "In avoiding a lesser danger, one may inadvertently fall into a greater peril.",
+        "sim": 0.09597108513116837
+    },
+    "gibbs_288_80": {
+        "alt_moral": "Watch on all sides.",
+        "original_moral": "Do not harm your benefactors.",
+        "sim": 0.07137969136238098
+    },
+    "gibbs_289_457": {
+        "alt_moral": "People who involuntarily have their property taken from them often pretend that they made a gift of it voluntarily.",
+        "original_moral": "Watch on all sides.",
+        "sim": -0.1905766725540161
+    },
+    "gibbs_291_559": {
+        "alt_moral": "It is easy to be brave when there is no danger.",
+        "original_moral": "When it serves their purposes, people commonly do not hesitate to swear to the most incredible fabrications.",
+        "sim": 0.12028951197862625
+    },
+    "gibbs_293_85": {
+        "alt_moral": "Be content with your lot.",
+        "original_moral": "Someone who assists both the truly good and those who are undeserving is not seen as a philanthropist, but is instead regarded as a madman.",
+        "sim": -0.02634912170469761
+    },
+    "gibbs_296_585": {
+        "alt_moral": "Even beneficial things all appear to be drastic and sure to hurt for those those who are unfamiliar with them and inexperienced.",
+        "original_moral": "A death-bed flattery is the worst of treacheries.",
+        "sim": 0.00907464325428009
+    },
+    "gibbs_298_589": {
+        "alt_moral": "Many people give up their vices not out of a love for virtue, but because they can no longer continue indulging in them.",
+        "original_moral": "Few things are done except for profit.",
+        "sim": -0.02398180216550827
+    },
+    "gibbs_299_586": {
+        "alt_moral": "Even beneficial things all appear to be drastic and sure to hurt for those those who are unfamiliar with them and inexperienced.",
+        "original_moral": "Do not play the wise man after the fact.",
+        "sim": 0.032296549528837204
+    },
+    "gibbs_300_400": {
+        "alt_moral": "Each stage of life has its own gifts.",
+        "original_moral": "Different people are interested in different things.",
+        "sim": 0.2731689214706421
+    },
+    "gibbs_301_228": {
+        "alt_moral": "It is easy to attack those who have fallen from their position of power and glory.",
+        "original_moral": "It is a foolish man who wants to rival his superiors.",
+        "sim": 0.2779792845249176
+    },
+    "gibbs_302_373": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Do not believe those who have ill intentions.",
+        "sim": 0.14920161664485931
+    },
+    "gibbs_303_442": {
+        "alt_moral": "There is no wealth greater than liberty.",
+        "original_moral": "Do not try to do impossible things.",
+        "sim": 0.050159599632024765
+    },
+    "gibbs_304_381": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "False sympathy often masks selfish intentions.",
+        "sim": 0.06146010383963585
+    },
+    "gibbs_305_338": {
+        "alt_moral": "Clumsy jesting is no joke.",
+        "original_moral": "Do not try to gain favor by acting in a way that is contrary to your own nature and character.",
+        "sim": -0.009220773354172707
+    },
+    "gibbs_307_292": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "You should especially avoid someone who does not even spare his own people.",
+        "sim": 0.08165962249040604
+    },
+    "gibbs_309_30": {
+        "alt_moral": "There is nothing more valuable than liberty.",
+        "original_moral": "Trust is not to be given lightly.",
+        "sim": 0.24608081579208374
+    },
+    "gibbs_310_116": {
+        "alt_moral": "What a person does through another is truly their own action.",
+        "original_moral": "There is danger lurking in the words of a wicked person.",
+        "sim": 0.062370430678129196
+    },
+    "gibbs_311_263": {
+        "alt_moral": "Each stage of life has its own gifts.",
+        "original_moral": "Do not grasp at more than you need.",
+        "sim": 0.13147056102752686
+    },
+    "gibbs_312_149": {
+        "alt_moral": "A single reliable skill is worth more than a bag of useless tricks",
+        "original_moral": "Those who try to deceive may expect to be paid in their own coin.",
+        "sim": 0.10197959095239639
+    },
+    "gibbs_313_498": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Men are averse to fixed rules, but are won by kind services.",
+        "sim": 0.22187520563602448
+    },
+    "gibbs_314_174": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Wicked liars generally get their just consequences.",
+        "sim": 0.10145861655473709
+    },
+    "gibbs_315_175": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Often justice is the captive of criminal deceit.",
+        "sim": 0.16478779911994934
+    },
+    "gibbs_316_430": {
+        "alt_moral": "Many pretend to be concerned about some people's demise, when however what they want is for it to come quickly.",
+        "original_moral": "They who act without sufficient thought, will often fall into unsuspected danger",
+        "sim": 0.06211504340171814
+    },
+    "gibbs_317_196": {
+        "alt_moral": "We should not be upset by the words of our teachers, since those words are usually the cause of many good things.",
+        "original_moral": "Enterprise is not to be judged in terms of its speed but its outcome.",
+        "sim": 0.11529222875833511
+    },
+    "gibbs_318_405": {
+        "alt_moral": "There is nothing more valuable than liberty.",
+        "original_moral": "Greed can lead to ruin.",
+        "sim": 0.2837486267089844
+    },
+    "gibbs_319_117": {
+        "alt_moral": "There is nothing more valuable than liberty.",
+        "original_moral": "Take what you can get when you can get it.",
+        "sim": -0.006340218707919121
+    },
+    "gibbs_322_232": {
+        "alt_moral": "There is nothing more valuable than liberty.",
+        "original_moral": "Do not take pride in the good qualities that actually belong to someone else.",
+        "sim": 0.07813630253076553
+    },
+    "gibbs_324_77": {
+        "alt_moral": "Enterprise is not to be judged in terms of its speed but its outcome.",
+        "original_moral": "Benefits are refused by those who don't understand them.",
+        "sim": 0.0317758172750473
+    },
+    "gibbs_326_374": {
+        "alt_moral": "A false friend is the worst kind of enemy.",
+        "original_moral": "No one can be a friend if you know not whether to trust or distrust him.",
+        "sim": 0.17963337898254395
+    },
+    "gibbs_328_88": {
+        "alt_moral": "We should not be upset by the words of our teachers, since those words are usually the cause of many good things.",
+        "original_moral": "People who offer to give someone many gifts are no doubt trying to deceive.",
+        "sim": 0.12428256869316101
+    },
+    "gibbs_329_68": {
+        "alt_moral": "There is no wealth greater than liberty.",
+        "original_moral": "Do not blame others for the circumstances of their upbringing.",
+        "sim": 0.041185855865478516
+    },
+    "gibbs_330_32": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Do not give up friends for foes..",
+        "sim": 0.09150350838899612
+    },
+    "gibbs_332_160": {
+        "alt_moral": "Some would rather fight than not.",
+        "original_moral": "There is satisfaction, however wretched, in taking one's enemy along if one has to die.",
+        "sim": 0.06018500402569771
+    },
+    "gibbs_333_390": {
+        "alt_moral": "Be yourself and don't pretend to be someone you're not.",
+        "original_moral": "Some can do wrong more easily than others can see it.",
+        "sim": -0.06283284723758698
+    },
+    "gibbs_335_145": {
+        "alt_moral": "Clothes may disguise a fool, but his words will give him away.",
+        "original_moral": "Traitors may expect treachery.",
+        "sim": 0.06769610196352005
+    },
+    "gibbs_336_322": {
+        "alt_moral": "Traitors may expect treachery.",
+        "original_moral": "Clothes may disguise a fool, but his words will give him away.",
+        "sim": 0.06769610196352005
+    },
+    "gibbs_338_147": {
+        "alt_moral": "It is easy to be brave when there is no danger.",
+        "original_moral": "People who lay traps for others bring about their own destruction.",
+        "sim": 0.08617869764566422
+    },
+    "gibbs_339_410": {
+        "alt_moral": "Easy life and seeming good fortune of others conceal a threat to their welfare.",
+        "original_moral": "Be content with your station.",
+        "sim": 0.12973789870738983
+    },
+    "gibbs_340_418": {
+        "alt_moral": "Easy life and seeming good fortune of others conceal a threat to their welfare.",
+        "original_moral": "Be cautious of pride, as nobody knows what the future may bring.",
+        "sim": 0.10008200258016586
+    },
+    "gibbs_341_114": {
+        "alt_moral": "Easy life and seeming good fortune of others conceal a threat to their welfare.",
+        "original_moral": "People are quick to promise but reluctant to give.",
+        "sim": 0.1766069382429123
+    },
+    "gibbs_343_217": {
+        "alt_moral": "Do not be what you are not, nor pretend to be what you are not",
+        "original_moral": "The loud-mouthed boaster does not impress nor frighten those who know him.",
+        "sim": -0.08691401034593582
+    },
+    "gibbs_344_404": {
+        "alt_moral": "There is no thing so worthy of wonderment which does not cease to be a miracle with the passage of timey.",
+        "original_moral": "Talent is wasted when it's in the hands of the unappreciative.",
+        "sim": 0.03113451972603798
+    },
+    "gibbs_345_64": {
+        "alt_moral": "We must help one another, for if a neighbor falls, their burden will fall on you.",
+        "original_moral": "Instead of looking at how things start, we should look instead at how they turn out in the end.",
+        "sim": 0.030254056677222252
+    },
+    "gibbs_346_10": {
+        "alt_moral": "Every Season has its own work.",
+        "original_moral": "People often appreciate what they had only after experiencing something worse.",
+        "sim": -0.08453753590583801
+    },
+    "gibbs_348_5": {
+        "alt_moral": "We must help one another, for if a neighbor falls, their burden will fall on you.",
+        "original_moral": "The insubordinate are free from both obligation and protection.",
+        "sim": 0.004176545888185501
+    },
+    "gibbs_349_11": {
+        "alt_moral": "Instead of looking at how things start, we should look instead at how they turn out in the end.",
+        "original_moral": "In a change of government, the poor change nothing beyond the name of their master.",
+        "sim": -0.0331987664103508
+    },
+    "gibbs_350_307": {
+        "alt_moral": "It is easy to be brave when there is no danger.",
+        "original_moral": "A man is known by the company he keeps.",
+        "sim": 0.10337218642234802
+    },
+    "gibbs_353_414": {
+        "alt_moral": "Rashness brings luck to a few, misfortune to most.",
+        "original_moral": "Easy life and seeming good fortune of others conceal a threat to their welfare.",
+        "sim": 0.21363641321659088
+    },
+    "gibbs_356_568": {
+        "alt_moral": "People often appreciate what they had only after experiencing something worse.",
+        "original_moral": "One cannot circumvent his destiny.",
+        "sim": 0.01129694003611803
+    },
+    "gibbs_357_235": {
+        "alt_moral": "Do not be what you are not, nor pretend to be what you are not",
+        "original_moral": "False confidence often leads into danger.",
+        "sim": -0.12219472229480743
+    },
+    "gibbs_359_486": {
+        "alt_moral": "Men would bear their misfortunes more patiently if they considered the ones of others.",
+        "original_moral": "You can't always stop a fool.",
+        "sim": -0.006601137574762106
+    },
+    "gibbs_361_325": {
+        "alt_moral": "Trusting as you wish to be trusted doesn't work between a rogue and an honest person. ",
+        "original_moral": "Greed for more can lead to losing what you already have.",
+        "sim": 0.06626393646001816
+    },
+    "gibbs_363_406": {
+        "alt_moral": "Be content with your lot.",
+        "original_moral": "A life of greed and hoarding wealth leads to misery.",
+        "sim": 0.19003818929195404
+    },
+    "gibbs_364_279": {
+        "alt_moral": "Do not dwell on what has passed.",
+        "original_moral": "Our mere anticipations of life outrun its realities.",
+        "sim": 0.11074133217334747
+    },
+    "gibbs_367_558": {
+        "alt_moral": "No one gladly revisits a place where they got hurt.",
+        "original_moral": "It's hard to give up bad habits.",
+        "sim": 0.32068443298339844
+    },
+    "gibbs_368_22": {
+        "alt_moral": "Be content with your lot; one cannot be first in everything.",
+        "original_moral": "Beauty alone does not qualify one for leadership.",
+        "sim": 0.20383013784885406
+    },
+    "gibbs_369_51": {
+        "alt_moral": "Favor those who do you kindness.",
+        "original_moral": "Count the cost before you commit yourselves.",
+        "sim": 0.13409461081027985
+    },
+    "gibbs_370_454": {
+        "alt_moral": "The safeguards of virtue are hateful to those with evil intentions.",
+        "original_moral": "Pride goes before destruction.",
+        "sim": 0.0713023841381073
+    },
+    "gibbs_371_155": {
+        "alt_moral": "Gossips are to be seen and not heard.",
+        "original_moral": "God is the ultimate judge.",
+        "sim": 0.09920596331357956
+    },
+    "gibbs_372_142": {
+        "alt_moral": "The weak may find a way to avenge a wrong.",
+        "original_moral": "It is a foolish thing to give advice to others while not looking out for oneself.",
+        "sim": 0.13721507787704468
+    },
+    "gibbs_375_57": {
+        "alt_moral": "It is very unwise, even for the greatest of men, to provoke the least, as they may find a way to enact revenge.",
+        "original_moral": "Some people will do anything to get what they want.",
+        "sim": 0.13531072437763214
+    },
+    "gibbs_378_348": {
+        "alt_moral": "A wicked person deservedly comes to a bad end by keeping company with other wicked people.",
+        "original_moral": "He who competes with his superiors destroys himself before he can equal them.",
+        "sim": 0.17118024826049805
+    },
+    "gibbs_380_159": {
+        "alt_moral": "A learned man has always a fund of riches in himself.",
+        "original_moral": "Some people are so consumed by hatred that they would rather suffer themselves than see their enemies succeed.",
+        "sim": 0.09877150505781174
+    },
+    "gibbs_382_357": {
+        "alt_moral": "You should especially avoid someone who does not even spare his own people.",
+        "original_moral": "People with a history of wrongdoing are often not trusted.",
+        "sim": 0.2497267872095108
+    },
+    "gibbs_383_416": {
+        "alt_moral": "Accept the changes in life.",
+        "original_moral": "Do not boast too much at the height of your powers; people often spend their old age worn out with toil and trouble.",
+        "sim": 0.12195616960525513
+    },
+    "gibbs_385_595": {
+        "alt_moral": "Many people renounce wicked activities only because they are prevented from conducting them any longer.",
+        "original_moral": "The only thing that can really bring shame on a man is a punishment that he has justly deserved.",
+        "sim": 0.10468574613332748
+    },
+    "gibbs_386_285": {
+        "alt_moral": "Often justice is the captive of criminal deceit.",
+        "original_moral": "Do not try to grasp too much at once.",
+        "sim": 0.1759916990995407
+    },
+    "gibbs_387_336": {
+        "alt_moral": "To be satisfied with one's lot is better than to desire something which one is not fitted to receive",
+        "original_moral": "The master has better insight than anyone else when it comes to his own business.",
+        "sim": 0.002078993944451213
+    },
+    "gibbs_388_437": {
+        "alt_moral": "Do not be what you are not, nor pretend to be what you are not",
+        "original_moral": "Bad neighbours are the first to suffer from the harm they would do to others.",
+        "sim": -0.11426889896392822
+    },
+    "gibbs_390_438": {
+        "alt_moral": "hen a man has both an interest and an inclination to betray us, there's no trusting him.",
+        "original_moral": "Do not take on more than you can handle.",
+        "sim": 0.07200735062360764
+    },
+    "gibbs_391_124": {
+        "alt_moral": "The things that a person does to others will happen to him in turn.",
+        "original_moral": "Charity begins at home, but this does not prevent the further exercise of it.",
+        "sim": 0.030986176803708076
+    },
+    "gibbs_392_379": {
+        "alt_moral": "Beware the sort of person who uses tricks.",
+        "original_moral": "Those who complain about their duties often forget their own role in creating the situation.",
+        "sim": 0.14990510046482086
+    },
+    "gibbs_394_74": {
+        "alt_moral": "A wicked person deservedly comes to a bad end by keeping company with other wicked people.",
+        "original_moral": "He who harms someone should henceforth be treated with suspicion.",
+        "sim": "XXX"
+    },
+    "gibbs_395_75": {
+        "alt_moral": "He who harms someone should henceforth be treated with suspicion.",
+        "original_moral": "Injuries may be forgiven, but not forgotten.",
+        "sim": 0.1331436038017273
+    },
+    "gibbs_397_358": {
+        "alt_moral": "It is better to be loved than feared.",
+        "original_moral": "When wicked people do not get the reward and thanks they expect, they immediately put a stop to their good works.",
+        "sim": -0.028724430128932
+    },
+    "gibbs_399_494": {
+        "alt_moral": "Do not be what you are not, nor pretend to be what you are not",
+        "original_moral": "Man's greatest treasure consists in work.",
+        "sim": -0.19205105304718018
+    },
+    "gibbs_400_466": {
+        "alt_moral": "Every Season has its own work.",
+        "original_moral": "We had better bear our troubles bravely than try to escape them.",
+        "sim": 0.05170544981956482
+    },
+    "gibbs_405_240": {
+        "alt_moral": "Luck often bestows the things that skill cannot obtain.",
+        "original_moral": "To be small is a way to stay safe and avoid problems, whereas you rarely see a man with a big reputation who is able to keep out of danger.",
+        "sim": 0.026445476338267326
+    },
+    "gibbs_410_337": {
+        "alt_moral": "To do the right thing at the right season is a great art.",
+        "original_moral": "Imitation is no substitute for knowledge.",
+        "sim": 0.13112102448940277
+    },
+    "gibbs_412_419": {
+        "alt_moral": "Some never understand the actions of others.",
+        "original_moral": "We have to endure reversals of fortune, since we know that life is a matter of luck.",
+        "sim": 0.17044763267040253
+    },
+    "gibbs_413_420": {
+        "alt_moral": "To be small is a way to stay safe and avoid problems, whereas you rarely see a man with a big reputation who is able to keep out of danger.",
+        "original_moral": "Luck often bestows the things that skill cannot obtain.",
+        "sim": 0.026445476338267326
+    },
+    "gibbs_414_546": {
+        "alt_moral": "He who claims any good for himself takes away from the source of all the good he enjoys.",
+        "original_moral": "Some never understand the actions of others.",
+        "sim": 0.056284986436367035
+    },
+    "gibbs_415_226": {
+        "alt_moral": "Even beneficial things all appear to be drastic and sure to hurt for those those who are unfamiliar with them and inexperienced.",
+        "original_moral": "A reward for one might be destruction for another.",
+        "sim": 0.10646892338991165
+    },
+    "gibbs_416_120": {
+        "alt_moral": "We should not call upon the gods in trivial affairs but only in dire necessity.",
+        "original_moral": "No mercy should be shown to someone who is wicked, regardless of whether his wickedness is great or small.",
+        "sim": 0.1048981249332428
+    },
+    "gibbs_417_427": {
+        "alt_moral": "Even beneficial things all appear to be drastic and sure to hurt for those those who are unfamiliar with them and inexperienced.",
+        "original_moral": "Pleasure bought with pains, hurts.",
+        "sim": -0.1092313677072525
+    },
+    "gibbs_418_223": {
+        "alt_moral": "Even beneficial things all appear to be drastic and sure to hurt for those those who are unfamiliar with them and inexperienced.",
+        "original_moral": "Ignore complainers who have no influence.",
+        "sim": 0.05654676631093025
+    },
+    "gibbs_419_84": {
+        "alt_moral": "Experience often provides clearer insight than empty predictions.",
+        "original_moral": "We should do favours for someone who can do us a good deed in return.",
+        "sim": -0.05998307839035988
+    },
+    "gibbs_421_413": {
+        "alt_moral": "Easy life and seeming good fortune of others conceal a threat to their welfare.",
+        "original_moral": "Coffers of cash put a stop to honest traffic in praise.",
+        "sim": 0.11171311140060425
+    },
+    "gibbs_422_417": {
+        "alt_moral": "Whatever happens, we must bear it with equanimity.",
+        "original_moral": "Accept the changes in life.",
+        "sim": 0.26326286792755127
+    },
+    "gibbs_424_550": {
+        "alt_moral": "A false friend is the worst kind of enemy.",
+        "original_moral": "Outside show is a poor substitute for inner worth.",
+        "sim": 0.20016105473041534
+    },
+    "gibbs_426_237": {
+        "alt_moral": "A false friend is the worst kind of enemy.",
+        "original_moral": "Slow and steady wins the race.",
+        "sim": 0.11583741754293442
+    },
+    "gibbs_429_552": {
+        "alt_moral": "Those who commit grave wrongs cannot escape justice.",
+        "original_moral": "A wicked person deservedly comes to a bad end by keeping company with other wicked people.",
+        "sim": 0.22205106914043427
+    },
+    "gibbs_430_255": {
+        "alt_moral": "The things that a person does to others will happen to him in turn.",
+        "original_moral": "It's easy to despise what you cannot have.",
+        "sim": 0.030275441706180573
+    },
+    "gibbs_432_596": {
+        "alt_moral": "A false friend is the worst kind of enemy.",
+        "original_moral": "Overly curious people often pay a very high price for recklessly indulging their curiosity.",
+        "sim": 0.16442535817623138
+    },
+    "gibbs_433_444": {
+        "alt_moral": "A false friend is the worst kind of enemy.",
+        "original_moral": "People who act impulsively can end up in regrettable situations.",
+        "sim": 0.1456163376569748
+    },
+    "gibbs_434_365": {
+        "alt_moral": "Be content with your lot.",
+        "original_moral": "Ambiguity in character can lead to mistrust.",
+        "sim": 0.17894551157951355
+    },
+    "gibbs_437_195": {
+        "alt_moral": "Gossips are to be seen and not heard.",
+        "original_moral": "Quality is more valuable than quantity.",
+        "sim": 0.029504360631108284
+    },
+    "gibbs_440_222": {
+        "alt_moral": "Know yourself and your limits.",
+        "original_moral": "Chance sometimes rules.",
+        "sim": 0.11068958789110184
+    },
+    "gibbs_441_18": {
+        "alt_moral": "Never trust a known deceiver.",
+        "original_moral": "Take warning from the misfortunes of others.",
+        "sim": 0.25048092007637024
+    },
+    "gibbs_443_188": {
+        "alt_moral": "Do not neglect the loyalty of old friends to please new acquaintances.",
+        "original_moral": "Deceivers often exploit the inability of others to challenge their falsehoods.",
+        "sim": 0.13639876246452332
+    },
+    "gibbs_444_264": {
+        "alt_moral": "He who claims any good for himself takes away from the source of all the good he enjoys.",
+        "original_moral": "Greedy men chase after profit with such an intensity that they destroy themselves without achieving anything.",
+        "sim": 0.19343307614326477
+    },
+    "gibbs_445_148": {
+        "alt_moral": "Be content with your lot.",
+        "original_moral": "Stay vigilant and think before you speak.",
+        "sim": 0.29691562056541443
+    },
+    "gibbs_447_146": {
+        "alt_moral": "Never trust a known deceiver.",
+        "original_moral": "Take pleasure when thieves destroy themselves.",
+        "sim": 0.12208448350429535
+    },
+    "gibbs_448_398": {
+        "alt_moral": "Flatterers and deceivers are not to be trusted.",
+        "original_moral": "Distrust advice from someone who stands to gain.",
+        "sim": 0.17384019494056702
+    },
+    "gibbs_452_269": {
+        "alt_moral": "Know yourself and your limits.",
+        "original_moral": "Familiarity makes it easy to confront even frightening situations.",
+        "sim": 0.2242964804172516
+    },
+    "gibbs_453_17": {
+        "alt_moral": "Know yourself and your limits.",
+        "original_moral": "Someone who plots against others falls into his own trap.",
+        "sim": 0.14079910516738892
+    },
+    "gibbs_454_593": {
+        "alt_moral": "People adjust their beliefs based on what is profitable for them.",
+        "original_moral": "Beware of those who appear busy but achieve little of value.",
+        "sim": 0.1609237939119339
+    },
+    "gibbs_455_270": {
+        "alt_moral": "Watch the actions of your enemy.",
+        "original_moral": "Imaginary fears are the worst.",
+        "sim": 0.12054821848869324
+    },
+    "gibbs_456_490": {
+        "alt_moral": "Those who complain the most are often the weakest.",
+        "original_moral": "People who stubbornly cling to unwise choices lose everything before they know it.",
+        "sim": 0.25815707445144653
+    },
+    "gibbs_457_139": {
+        "alt_moral": "When fools fight others run away with the prize.",
+        "original_moral": "People who do harm to others destroy themselves in the bargain.",
+        "sim": 0.3133724331855774
+    },
+    "gibbs_459_12": {
+        "alt_moral": "Embrace your own strengths.",
+        "original_moral": "Poor folk suffer when the high and mighty are at war with one another.",
+        "sim": 0.14581432938575745
+    },
+    "gibbs_461_54": {
+        "alt_moral": "Better to endure a small hardship than risk a greater one.",
+        "original_moral": "When you need someone to lend a hand, mere words are no help at all.",
+        "sim": 0.09855679422616959
+    },
+    "gibbs_462_445": {
+        "alt_moral": "Watch the actions of your enemy.",
+        "original_moral": "Look before you leap.",
+        "sim": 0.24384793639183044
+    },
+    "gibbs_463_522": {
+        "alt_moral": "Do not fight with those who are perfectly capable of fighting back.",
+        "original_moral": "Easy gains often come with hidden costs and hardships.",
+        "sim": 0.045819349586963654
+    },
+    "gibbs_467_157": {
+        "alt_moral": "It's easy to despise what you cannot have.",
+        "original_moral": "The things that a person does to others will happen to him in turn.",
+        "sim": 0.030275441706180573
+    },
+    "gibbs_468_512": {
+        "alt_moral": "Temptation can lead even the most virtuous individuals to compromise their integrity and values.",
+        "original_moral": "Bear that those who are inferior to you in merit should be like you in outside appearances.",
+        "sim": 0.040342386811971664
+    },
+    "gibbs_471_49": {
+        "alt_moral": "Embrace your own strengths.",
+        "original_moral": "Beware of enterprizes where the risks are not equal.",
+        "sim": 0.175396129488945
+    },
+    "gibbs_472_53": {
+        "alt_moral": "Change of habit cannot alter nature.",
+        "original_moral": "Do not expect to be defended by someone who cannot offer any protection.",
+        "sim": 0.0792512595653534
+    },
+    "gibbs_475_456": {
+        "alt_moral": "The shortest and surest way of doing things is best.",
+        "original_moral": "Sometimes, the greatest threats come from those you trust.",
+        "sim": 0.13043634593486786
+    },
+    "gibbs_476_257": {
+        "alt_moral": "It is better to be injured with impunity, than to put ourselves in the power of another.",
+        "original_moral": "People who involuntarily have their property taken from them often pretend that they made a gift of it voluntarily.",
+        "sim": 0.05351295322179794
+    },
+    "gibbs_477_511": {
+        "alt_moral": "Nature reveals itself.",
+        "original_moral": "It is often the case that people are greedy for things which they think will bring them honour, but which only result in their death and destruction.",
+        "sim": -0.020935453474521637
+    },
+    "gibbs_479_177": {
+        "alt_moral": "Beauty alone does not qualify one for leadership.",
+        "original_moral": "Those who scheme against others may ultimately fall victim to their own plots.",
+        "sim": 0.08012016862630844
+    },
+    "gibbs_480_131": {
+        "alt_moral": "People who lay traps for others should be careful not to fall into a trap themselves.",
+        "original_moral": "Do not neglect small advantages in hopes of better ones.",
+        "sim": 0.13038165867328644
+    },
+    "gibbs_481_433": {
+        "alt_moral": "We should never put our trust in a wicked man, even if he seems to be completely innocuous.",
+        "original_moral": "People who grasp at more than they need lose the little that they held in their hands.",
+        "sim": 0.0008800943032838404
+    },
+    "gibbs_482_441": {
+        "alt_moral": "People who grasp at more than they need lose the little that they held in their hands.",
+        "original_moral": "We should never put our trust in a wicked man, even if he seems to be completely innocuous.",
+        "sim": 0.0008800943032838404
+    },
+    "gibbs_483_562": {
+        "alt_moral": "Sometimes, Wicked people commit crime in haste but are not punished until much later.",
+        "original_moral": "Vanity can blind one to their true worth in the eyes of others.",
+        "sim": 0.16477157175540924
+    },
+    "gibbs_484_520": {
+        "alt_moral": "Sometimes, Wicked people commit crime in haste but are not punished until much later.",
+        "original_moral": "Physical stature does not guarantee wisdom or intelligence.",
+        "sim": 0.014078682288527489
+    },
+    "gibbs_485_474": {
+        "alt_moral": "Often there is more good to be found in one man than in a crowd of people.",
+        "original_moral": "Honesty is the best policy.",
+        "sim": 0.16494892537593842
+    },
+    "gibbs_486_476": {
+        "alt_moral": "A life of greed and hoarding wealth leads to misery.",
+        "original_moral": "The promises of the greedy are often empty and insincere.",
+        "sim": 0.33727461099624634
+    },
+    "gibbs_489_561": {
+        "alt_moral": "People are often quick to make promises, but they do not really expect to have to fulfill them.",
+        "original_moral": "When you lie, you often have to expand the lie.",
+        "sim": 0.2618989050388336
+    },
+    "gibbs_490_471": {
+        "alt_moral": "People are often quick to make promises, but they do not really expect to have to fulfill them.",
+        "original_moral": "When people suffer misfortune because of their own foolishness, they often blame the gods.",
+        "sim": 0.2172463834285736
+    },
+    "gibbs_491_208": {
+        "alt_moral": "Those who adapt to the times will emerge unscathed.",
+        "original_moral": "Life's disasters can often bring boastful and presumptuous people back down to earth.",
+        "sim": 0.12748906016349792
+    },
+    "gibbs_492_280": {
+        "alt_moral": "Don't make a big fuss over nothing.",
+        "original_moral": "Don't promise big things if you can't deliver.",
+        "sim": 0.2527378797531128
+    },
+    "gibbs_494_170": {
+        "alt_moral": "Often there is more good to be found in one man than in a crowd of people.",
+        "original_moral": "There is no fixed day on which wicked people are punished.",
+        "sim": 0.07900729775428772
+    },
+    "gibbs_497_399": {
+        "alt_moral": "Someone who wants to help his friend must give him what is essential and appropriate.",
+        "original_moral": "Nobody believes people who are inherently wicked, even if they pretend to be good-natured.",
+        "sim": 0.06593652814626694
+    },
+    "gibbs_499_372": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Each man makes his reputation in the field which is his specialty.",
+        "sim": 0.08576931059360504
+    },
+    "gibbs_501_574": {
+        "alt_moral": "No one gladly revisits a place where they got hurt.",
+        "original_moral": "Acceptance can lead to unexpected harmony.",
+        "sim": 0.12400579452514648
+    },
+    "gibbs_502_366": {
+        "alt_moral": "Flatterers and deceivers are not to be trusted.",
+        "original_moral": "People who have been judged in the past can later on be in a position to judge their former teachers.",
+        "sim": -0.041976723819971085
+    },
+    "gibbs_503_8": {
+        "alt_moral": "Tears don't always signify pity.",
+        "original_moral": "It is not the place, nor the condition, but the mind alone that is responsible for our happiness.",
+        "sim": 0.04681878164410591
+    },
+    "gibbs_505_110": {
+        "alt_moral": "No matter how you brag, you can be undone.",
+        "original_moral": "Do not ever trust your enemy. Always protect yourself from him, even if he comes to you humble and supplicating.",
+        "sim": 0.16554437577724457
+    },
+    "gibbs_506_356": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Do not let anything turn you from your purpose.",
+        "sim": 0.09460663795471191
+    },
+    "gibbs_507_301": {
+        "alt_moral": "Many pretend to be concerned about some people's demise, when however what they want is for it to come quickly.",
+        "original_moral": "A hypocrite can usually be found out.",
+        "sim": -0.05691903457045555
+    },
+    "gibbs_508_334": {
+        "alt_moral": "Do not try to grasp too much at once.",
+        "original_moral": "Every man should be content to mind his own business.",
+        "sim": 0.1859326809644699
+    },
+    "gibbs_511_33": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Hypocritical speeches are easily seen through.",
+        "sim": 0.11926906555891037
+    },
+    "gibbs_512_122": {
+        "alt_moral": "Pride goes before destruction.",
+        "original_moral": "The safeguards of virtue are hateful to those with evil intentions.",
+        "sim": 0.0713023841381073
+    },
+    "gibbs_513_431": {
+        "alt_moral": "Kindness is never wasted.",
+        "original_moral": "Caution is far superior to reckless haste and hurry.",
+        "sim": 0.1299065202474594
+    },
+    "gibbs_515_428": {
+        "alt_moral": "Households and cities are most likely to be deserted when there are harsh people in charge.",
+        "original_moral": "People are willing to risk their lives for the sake of some petty profit.",
+        "sim": 0.1568944752216339
+    },
+    "gibbs_515_428_2": {
+        "alt_moral": "People are willing to risk their lives for the sake of some petty profit.",
+        "original_moral": "When your adversary is also your judge, don't bother arguing.",
+        "sim": 0.11660469323396683
+    },
+    "gibbs_516_108": {
+        "alt_moral": "It is difficult to truly know a person.",
+        "original_moral": "Those who thrive on deception often retaliate against those who speak the truth.",
+        "sim": 0.1259482502937317
+    },
+    "gibbs_518_70": {
+        "alt_moral": "Unequal matches bring misery.",
+        "original_moral": "No act of kindness, no matter how small, is ever wasted",
+        "sim": 0.005109118763357401
+    },
+    "gibbs_519_229": {
+        "alt_moral": "Nature reveals itself.",
+        "original_moral": "Be careful what you wish for; your wish may be granted.",
+        "sim": -0.10807843506336212
+    },
+    "gibbs_520_169": {
+        "alt_moral": "Nature reveals itself.",
+        "original_moral": "Things you acquire through evil means can be taken from you by evil means.",
+        "sim": -0.09412695467472076
+    },
+    "gibbs_523_347": {
+        "alt_moral": "Where force is not enough, cleverness must be used instead.",
+        "original_moral": "You will hurt yourself and accomplish nothing if you try to imitate someone who is far better than you are.",
+        "sim": 0.0324624665081501
+    },
+    "gibbs_524_514": {
+        "alt_moral": "One is known by deeds, not by words.",
+        "original_moral": "The greatest gifts are often overlooked in favor of envying others.",
+        "sim": 0.0790853425860405
+    },
+    "gibbs_525_432": {
+        "alt_moral": "Overconfidence often leads people into danger.",
+        "original_moral": "People often make plans that turn out to be to their own disadvantage.",
+        "sim": 0.4538050591945648
+    },
+    "gibbs_526_318": {
+        "alt_moral": "Beauty alone does not qualify one for leadership.",
+        "original_moral": "Someone who cannot manage his own affairs is not qualified to give advice to his neighbours.",
+        "sim": 0.2677948474884033
+    },
+    "gibbs_528_554": {
+        "alt_moral": "People that live by example need to look closely at the example they are following.",
+        "original_moral": "Marrying someone unworthy can lead to a tarnished reputation.",
+        "sim": 0.12021896243095398
+    },
+    "gibbs_529_407": {
+        "alt_moral": "He who claims any good for himself takes away from the source of all the good he enjoys.",
+        "original_moral": "The true value of money is not in its possession but in its use.",
+        "sim": 0.030640333890914917
+    },
+    "gibbs_530_260": {
+        "alt_moral": "A sinful mind can even change a person's nature, causing it to be impaired.",
+        "original_moral": "Boast of one thing and you will be found lacking in that and a few other things as well.",
+        "sim": 0.09866249561309814
+    },
+    "gibbs_531_261": {
+        "alt_moral": "Boast of one thing and you will be found lacking in that and a few other things as well.",
+        "original_moral": "A sinful mind can even change a person's nature, causing it to be impaired.",
+        "sim": 0.09866249561309814
+    },
+    "gibbs_533_448": {
+        "alt_moral": "Men often revert to their natural instincts.",
+        "original_moral": "Those who avoid hardship may miss out on valuable rewards.",
+        "sim": 0.12631964683532715
+    },
+    "gibbs_534_497": {
+        "alt_moral": "Beauty is in the eyes of the beholder.",
+        "original_moral": "The best intentions will not always ensure success.",
+        "sim": 0.06717070192098618
+    },
+    "gibbs_535_496": {
+        "alt_moral": "Avoid overindulgence",
+        "original_moral": "Tear out vice by the roots and the branches will wither away.",
+        "sim": -0.2359694391489029
+    },
+    "gibbs_537_63": {
+        "alt_moral": "Appearances can be deceiving.",
+        "original_moral": "In conflicts between powerful parties, bystanders may suffer unintended consequences.",
+        "sim": 0.1851002722978592
+    },
+    "gibbs_538_298": {
+        "alt_moral": "In conflicts between powerful parties, bystanders may suffer unintended consequences.",
+        "original_moral": "Appearances can be deceiving.",
+        "sim": 0.1851002722978592
+    },
+    "gibbs_540_167": {
+        "alt_moral": "Whatever happens, we must bear it with equanimity.",
+        "original_moral": "If often happens that even honest people do not hesitate to persecute someone who has slandered them.",
+        "sim": -0.05528457090258598
+    },
+    "gibbs_541_411": {
+        "alt_moral": "Courage in words means nothing if you flee in danger.",
+        "original_moral": "There is little risk in being poor, while being rich can get you into trouble.",
+        "sim": 0.1335403323173523
+    },
+    "gibbs_542_252": {
+        "alt_moral": "People adjust their beliefs based on what is profitable for them.",
+        "original_moral": "There's no reading of ourselves but with other mans eyes.",
+        "sim": -0.0015699377981945872
+    },
+    "gibbs_543_505": {
+        "alt_moral": "A bird in the hand is worth two in the bush.",
+        "original_moral": "When people feel grief for their misfortunes, they avoid the place where that grief overtook them.",
+        "sim": -0.044270120561122894
+    },
+    "gibbs_544_183": {
+        "alt_moral": "Beware those who value their gain more than their love.",
+        "original_moral": "Persuasion is better than Force.",
+        "sim": 0.1728820651769638
+    },
+    "gibbs_547_572": {
+        "alt_moral": "The meaning is to be considered, not the mere words.",
+        "original_moral": "The memory of a good deed lives.",
+        "sim": 0.18529580533504486
+    },
+    "gibbs_548_576": {
+        "alt_moral": "Those who won't learn from advice must be taught by experience.",
+        "original_moral": "People often disguise their selfish desires as practical needs to justify their actions.",
+        "sim": 0.14633949100971222
+    },
+    "gibbs_549_362": {
+        "alt_moral": "No one is so contemptible that he cannot be of use to us in some way.",
+        "original_moral": "Half-truths in some cases, are foul, and dishonest; in others, laudable; and in some again, not only honest, but necessary.",
+        "sim": -0.08328284323215485
+    },
+    "gibbs_551_76": {
+        "alt_moral": "There is no believing a liar, even when he speaks the truth.",
+        "original_moral": "People who have been treated with contempt repay the deed in kind.",
+        "sim": 0.02859710343182087
+    },
+    "gibbs_553_134": {
+        "alt_moral": "Honor the customs of the household you enter.",
+        "original_moral": "A wise person readily tolerates the insolence of strangers when he sees those same strangers mistreating one another.",
+        "sim": 0.06844285130500793
+    },
+    "gibbs_554_577": {
+        "alt_moral": "Sometimes, someone that you yourself have supported often proves to be your worst enemy.",
+        "original_moral": "Temptation can lead even the most virtuous individuals to compromise their integrity and values.",
+        "sim": 0.11814242601394653
+    },
+    "gibbs_556_42": {
+        "alt_moral": "Honesty is the best policy.",
+        "original_moral": "The bad things that strangers do to you are never as terrible as the things done to you by the members of your own family.",
+        "sim": -0.016740841791033745
+    },
+    "gibbs_557_284": {
+        "alt_moral": "The useful is of much more importance and value, than the ornamental.",
+        "original_moral": "Some people will agree to do things under compulsion that they are not willing to do as a favour.",
+        "sim": -0.012118533253669739
+    },
+    "gibbs_558_38": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "One should never trust those with a history of deceit.",
+        "sim": 0.1648760437965393
+    },
+    "gibbs_560_538": {
+        "alt_moral": "No one is so loving of a friend that they would not prefer their own good to that of another.",
+        "original_moral": "No one gladly revisits a place where they got hurt.",
+        "sim": 0.09022017568349838
+    },
+    "gibbs_566_391": {
+        "alt_moral": "No one should boast when his prowess is a matter of mere circumstance.",
+        "original_moral": "The unjust man is envious of anyone else's good fortune.",
+        "sim": 0.20558343827724457
+    },
+    "gibbs_567_460": {
+        "alt_moral": "It is better by far to be governed by one chief, than by many.",
+        "original_moral": "Desire things you don't understand and you accept the consequences.",
+        "sim": -0.023035462945699692
+    },
+    "gibbs_568_359": {
+        "alt_moral": "Do not boast to have something you do not.",
+        "original_moral": "A change of place does not make you a saint.",
+        "sim": 0.08399314433336258
+    },
+    "gibbs_569_192": {
+        "alt_moral": "Kindness is never wasted.",
+        "original_moral": "Fair weather friends are not worth much.",
+        "sim": 0.15531127154827118
+    },
+    "gibbs_572_523": {
+        "alt_moral": "Temptation can lead even the most virtuous individuals to compromise their integrity and values.",
+        "original_moral": "Sometimes, someone that you yourself have supported often proves to be your worst enemy.",
+        "sim": 0.11814242601394653
+    },
+    "gibbs_573_543": {
+        "alt_moral": "Familiarity can alleviate seemingly intractable problems.",
+        "original_moral": "Not all advice is wise.",
+        "sim": 0.10513642430305481
+    },
+    "gibbs_574_544": {
+        "alt_moral": "Not all advice is wise.",
+        "original_moral": "Familiarity can alleviate seemingly intractable problems.",
+        "sim": 0.10513642430305481
+    },
+    "gibbs_575_258": {
+        "alt_moral": "He who claims any good for himself takes away from the source of all the good he enjoys.",
+        "original_moral": "Do not blame others.",
+        "sim": 0.023229647427797318
+    },
+    "gibbs_576_92": {
+        "alt_moral": "There is little risk in being poor, while being rich can get you into trouble.",
+        "original_moral": "Courage in words means nothing if you flee in danger.",
+        "sim": 0.1335403323173523
+    },
+    "gibbs_577_227": {
+        "alt_moral": "Those who won't learn from advice must be taught by experience.",
+        "original_moral": "That is how life is: we must put up with less serious losses in order to avoid worse ones.",
+        "sim": 0.040515922009944916
+    },
+    "gibbs_580_528": {
+        "alt_moral": "We must not require what is unreasonable.",
+        "original_moral": "Modesty and carnal love cannot survive together.",
+        "sim": 0.15708030760288239
+    },
+    "gibbs_582_78": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Appetite blinds men to their surroundings",
+        "sim": 0.02947019413113594
+    },
+    "gibbs_585_35": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "False men cannot be trusted.",
+        "sim": 0.11016406118869781
+    },
+    "gibbs_587_161": {
+        "alt_moral": "Educate your children in those arts which are capable of preserving them from want.",
+        "original_moral": "Some may choose mutual destruction over continued suffering.",
+        "sim": 0.050591472536325455
+    },
+    "gibbs_588_135": {
+        "alt_moral": "It is better to be loved than feared.",
+        "original_moral": "Even the favours of wicked people are frightening.",
+        "sim": 0.1279495656490326
+    },
+    "gibbs_589_316": {
+        "alt_moral": "Even beneficial things all appear to be drastic and sure to hurt for those those who are unfamiliar with them and inexperienced.",
+        "original_moral": "Those who neglect their own affairs while meddling in others' lives often reveal their own shortcomings.",
+        "sim": 0.06751654297113419
+    },
+    "gibbs_590_262": {
+        "alt_moral": "It is often the case that people are greedy for things which they think will bring them honour, but which only result in their death and destruction.",
+        "original_moral": "What is most truly valuable is often underrated.",
+        "sim": 0.08776424080133438
+    },
+    "gibbs_595_508": {
+        "alt_moral": "Try to make something, and do not let envy pass judgment on it. Nothing is entirely satisfactory to the dishonest.",
+        "original_moral": "People often prefer to live simply at home than to live lavishly at someone else's house.",
+        "sim": 0.09496612101793289
+    },
+    "gibbs_598_378": {
+        "alt_moral": "Honor the customs of the household you enter.",
+        "original_moral": "Those who act in their own self-interest while pretending to help others will not earn gratitude.",
+        "sim": 0.06727012991905212
+    },
+    "gibbs_599_315": {
+        "alt_moral": "Do not take credit for the accomplishments of others.",
+        "original_moral": "People often make extravagant promises which they are completely unable to carry out.",
+        "sim": 0.16174550354480743
+    },
+    "gibbs_fixed_28": {
+        "alt_moral": "The shortest and surest way of doing things is best.",
+        "original_moral": "Bad situations rarely get better.",
+        "sim": 0.09977535903453827
+    },
+    "gibbs_fixed_127": {
+        "alt_moral": "Work honestly and you won't be scorned.",
+        "original_moral": "Those who work hard to gather resources may find their efforts undone by the greed of others.",
+        "sim": 0.15731577575206757
+    },
+    "gibbs_fixed_163": {
+        "alt_moral": "Different people are interested in different things.",
+        "original_moral": "Some begrudge others what they cannot enjoy themselves.",
+        "sim": 0.025005076080560684
+    },
+    "gibbs_fixed_266": {
+        "alt_moral": "An invitation prompted by selfishness is not to be accepted.",
+        "original_moral": "Do not overestimate yourself.",
+        "sim": 0.17929135262966156
+    },
+    "gibbs_fixed_313": {
+        "alt_moral": "We must not require what is unreasonable.",
+        "original_moral": "Be yourself and don't pretend to be someone you're not.",
+        "sim": 0.27722394466400146
+    },
+    "gibbs_fixed_282": {
+        "alt_moral": "Enemies promises were made to be broken.",
+        "original_moral": "Do not believe everything you hear.",
+        "sim": 0.049585774540901184
+    },
+    "gibbs_noted_60": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Unity is mankind's greatest good, while dissension is a weak and slavish thing",
+        "sim": 0.037784941494464874
+    },
+    "gibbs_noted_152": {
+        "alt_moral": "Value is what others think of you, not what you think of yourself.",
+        "original_moral": "You can fool someone only so many times.",
+        "sim": 0.01686583273112774
+    },
+    "gibbs_noted_394": {
+        "alt_moral": "Every tale is not to be believed.",
+        "original_moral": "Telling the truth can sometimes be dangerous",
+        "sim": 0.16477501392364502
+    },
+    "gibbs_noted_7": {
+        "alt_moral": "Often there is more good to be found in one man than in a crowd of people.",
+        "original_moral": "You should not add one problem to another.",
+        "sim": 0.12749789655208588
+    },
+    "gibbs_noted_518": {
+        "alt_moral": "Even beneficial things all appear to be drastic and sure to hurt for those those who are unfamiliar with them and inexperienced.",
+        "original_moral": "Try to make something, and do not let envy pass judgment on it. Nothing is entirely satisfactory to the dishonest.",
+        "sim": 0.08527009189128876
+    },
+    "gibbs_noted_464": {
+        "alt_moral": "Only a man who is out of his mind and hated by the gods delights in ugly things as if they were beautiful.",
+        "original_moral": "People adjust their beliefs based on what is profitable for them.",
+        "sim": 0.022505514323711395
+    },
+    "gibbs_noted_565": {
+        "alt_moral": "Be content with your lot.",
+        "original_moral": "Unresolved issues can resurface when least expected.",
+        "sim": 0.05025312677025795
+    },
+    "gibbs_noted_468": {
+        "alt_moral": "Nature reveals itself.",
+        "original_moral": "Fortune can occasionally bestow favours that exceed a person's hopes and expectations.",
+        "sim": 0.07519134134054184
+    },
+    "gibbs_noted_483": {
+        "alt_moral": "No curse weighs more heavily than a guilty conscience.",
+        "original_moral": "Only a man who is out of his mind and hated by the gods delights in ugly things as if they were beautiful.",
+        "sim": 0.10371458530426025
+    },
+    "gibbs_noted_590": {
+        "alt_moral": "Telling the truth can sometimes be dangerous",
+        "original_moral": "It is difficult to truly know a person.",
+        "sim": 0.25727781653404236
+    },
+    "gibbs_noted_274": {
+        "alt_moral": "Justice is fickle.",
+        "original_moral": "Don't draw a conclusion based on a single observation.",
+        "sim": 0.080168716609478
+    },
+    "gibbs_noted_215": {
+        "alt_moral": "The great do not always prevail.",
+        "original_moral": "He laughs best that laughs last.",
+        "sim": -0.039632633328437805
+    },
+    "gibbs_noted_375": {
+        "alt_moral": "Fine clothes may disguise, but silly words will disclose a fool.",
+        "original_moral": "One is known by deeds, not by words.",
+        "sim": 0.2068253606557846
+    },
+    "gibbs_noted_253": {
+        "alt_moral": "Fear of the future can lead to actions that bring about the very fate we seek to avoid.",
+        "original_moral": "Beauty is in the eyes of the beholder.",
+        "sim": 0.0863715261220932
+    },
+    "gibbs_noted_212": {
+        "alt_moral": "We should not be upset by the words of our teachers, since those words are usually the cause of many good things.",
+        "original_moral": "Notoriety is often mistaken for fame.",
+        "sim": -0.014987166970968246
+    },
+    "gibbs_noted_225": {
+        "alt_moral": "It's wise and kind to be considerate of one another, for no one knows their own end.",
+        "original_moral": "They complain most who suffer least.",
+        "sim": -0.14051318168640137
+    },
+    "gibbs_noted_446": {
+        "alt_moral": "If you don't speak out for others, there will be nobody left to speak out for you.",
+        "original_moral": "Do not be in a hurry to change one evil for another.",
+        "sim": -0.03972683846950531
+    },
+    "gibbs_noted_489": {
+        "alt_moral": "Those who try to deceive may expect to be paid in their own coin.",
+        "original_moral": "Overconfidence often leads people into danger.",
+        "sim": 0.2601475715637207
+    },
+    "gibbs_noted_3": {
+        "alt_moral": "gibbs_322_232",
+        "original_moral": "There is no wealth greater than liberty.",
+        "sim": -0.36581897735595703
+    },
+    "gibbs_noted_220": {
+        "alt_moral": "Those who adapt to the times will emerge unscathed.",
+        "original_moral": "Some would rather fight than not.",
+        "sim": 0.04647637903690338
+    },
+    "gibbs_noted_312": {
+        "alt_moral": "Some can do wrong more easily than others can see it.",
+        "original_moral": "Be yourself and don't pretend to be someone you're not.",
+        "sim": -0.06283284723758698
+    },
+    "gibbs_noted_341": {
+        "alt_moral": "The person who turns to a dishonest scoundrel for help in times of trouble will be ruined, not rescued.",
+        "original_moral": "Don't take on more than you can accomplish.",
+        "sim": 0.06291254609823227
+    },
+    "gibbs_noted_276": {
+        "alt_moral": "It is better to be loved than feared.",
+        "original_moral": "The wrong application can often turn things which are useful by nature into something worse, so that they seem to be useless.",
+        "sim": 0.039857421070337296
+    },
+    "gibbs_noted_295": {
+        "alt_moral": "Don't be seduced by deceptive words, they will cause nothing but trouble.",
+        "original_moral": "Beware the sort of person who uses tricks.",
+        "sim": 0.2108774036169052
+    },
+    "gibbs_noted_493": {
+        "alt_moral": "It is not the place, nor the condition, but the mind alone that is responsible for our happiness.",
+        "original_moral": "Union gives strength.",
+        "sim": 0.058406997472047806
+    },
+    "gibbs_noted_452": {
+        "alt_moral": "You will hurt yourself and accomplish nothing if you try to imitate someone who is far better than you are.",
+        "original_moral": "Where force is not enough, cleverness must be used instead.",
+        "sim": 0.0324624665081501
+    },
+    "gibbs_noted_164": {
+        "alt_moral": "Men would bear their misfortunes more patiently if they considered the ones of others.",
+        "original_moral": "A greedy man does not gladly give anything away, even when he has enough for himself.",
+        "sim": 0.0949411690235138
+    },
+    "gibbs_noted_385": {
+        "alt_moral": "Nobody believes people who are inherently wicked, even if they pretend to be good-natured.",
+        "original_moral": "Someone who wants to help his friend must give him what is essential and appropriate.",
+        "sim": 0.06593652814626694
+    },
+    "gibbs_noted_462": {
+        "alt_moral": "Wit outshines skill.",
+        "original_moral": "Do not ask for more than you deserve.",
+        "sim": 0.05543770641088486
+    },
+    "gibbs_noted_425": {
+        "alt_moral": "Save a Thief from the Gallows, and he'll cut your Throat.",
+        "original_moral": "Indulgence in luxuries can lead to peril.",
+        "sim": 0.15048235654830933
+    },
+    "gibbs_noted_311": {
+        "alt_moral": "Even the strongest can be brought low by unchecked desires.",
+        "original_moral": "A man should be put to the test before you put your trust in him.",
+        "sim": 0.20643624663352966
+    },
+    "gibbs_noted_254": {
+        "alt_moral": "Those who won't learn from advice must be taught by experience.",
+        "original_moral": "The things which bring us pleasure can often be hazardous as well.",
+        "sim": 0.09915446490049362
+    },
+    "gibbs_noted_221": {
+        "alt_moral": "The unjust man is envious of anyone else's good fortune.",
+        "original_moral": "No one should boast when his prowess is a matter of mere circumstance.",
+        "sim": 0.20558343827724457
+    },
+    "gibbs_noted_541": {
+        "alt_moral": "Only a man who is out of his mind and hated by the gods delights in ugly things as if they were beautiful.",
+        "original_moral": "No curse weighs more heavily than a guilty conscience.",
+        "sim": 0.10371458530426025
+    },
+    "perry_33": {
+        "alt_moral": "Dishonesty can lead to dire consequences.",
+        "original_moral": "People are often quick to make promises, but they do not really expect to have to fulfill them.",
+        "sim": 0.12222016602754593
+    },
+    "perry_69": {
+        "alt_moral": "Stoop to conquer.",
+        "original_moral": "Those who adapt to the times will emerge unscathed.",
+        "sim": 0.02118813805282116
+    },
+    "perry_84": {
+        "alt_moral": "People who lay traps for others bring about their own destruction.",
+        "original_moral": "It is easy to be brave when there is no danger.",
+        "sim": 0.08617869764566422
+    },
+    "perry_139": {
+        "alt_moral": "A mild disposition can put a stop to vicious behaviour.",
+        "original_moral": "Love can blind even the wildest.",
+        "sim": 0.3166685402393341
+    },
+    "perry_193": {
+        "alt_moral": "Birds of a feather flock together.",
+        "original_moral": "You are judged by the company you keep.",
+        "sim": 0.23170310258865356
+    },
+    "perry_279": {
+        "alt_moral": "Look before you leap.",
+        "original_moral": "Do not attempt to hide things which cannot be hid.",
+        "sim": 0.17161433398723602
+    },
+    "perry_321": {
+        "alt_moral": "Contentment with our lot is an element of happiness.",
+        "original_moral": "Example is more powerful than precept.",
+        "sim": 0.22903209924697876
+    },
+    "perry_323": {
+        "alt_moral": "Work honestly and you won't be scorned.",
+        "original_moral": "We must make friends in prosperity if we would have their help in adversity.",
+        "sim": 0.12025485187768936
+    },
+    "perry_350": {
+        "alt_moral": "Good will is worth nothing unless it is accompanied by good acts.",
+        "original_moral": "A coward by nature will always be a coward.",
+        "sim": 0.16962923109531403
+    },
+    "perry_357": {
+        "alt_moral": "Love can blind even the wildest.",
+        "original_moral": "Do not be what you are not, nor pretend to be what you are not",
+        "sim": -0.1671079844236374
+    },
+    "perry_391": {
+        "alt_moral": "Be yourself and don't pretend to be someone you're not.",
+        "original_moral": "The word of a wicked man can never be trusted.",
+        "sim": "XXX"
+    },
+    "perry_393": {
+        "alt_moral": "Fine clothes may disguise, but silly words will disclose a fool.",
+        "original_moral": "It is better to serve in safety than to rule in peril.",
+        "sim": 0.05459890887141228
+    },
+    "perry_394": {
+        "alt_moral": "Injuries may be forgiven, but not forgotten.",
+        "original_moral": "The man who treats others well is rewarded by gratitude.",
+        "sim": 0.16712242364883423
+    },
+    "perry_396": {
+        "alt_moral": "Do not go chasing after things that are useless and unprofitable.",
+        "original_moral": "Pay attention to deeds, not words.",
+        "sim": 0.13686640560626984
+    },
+    "perry_398": {
+        "alt_moral": "The useful is of much more importance and value, than the ornamental.",
+        "original_moral": "Gentle words can often be helpful.",
+        "sim": 0.19313061237335205
+    },
+    "perry_399": {
+        "alt_moral": "Don't be greedy.",
+        "original_moral": "Trouble awaits you if you pursue ill-gotten gains.",
+        "sim": 0.21362030506134033
+    },
+    "perry_418": {
+        "alt_moral": "Beware those who value their gain more than their love.",
+        "original_moral": "Every tale is not to be believed.",
+        "sim": 0.07987989485263824
+    },
+    "perry_485": {
+        "alt_moral": "Don't take on more than you can accomplish.",
+        "original_moral": "The person who turns to a dishonest scoundrel for help in times of trouble will be ruined, not rescued.",
+        "sim": 0.06291254609823227
+    },
+    "perry_500": {
+        "alt_moral": "Not all things are suitable for all people.",
+        "original_moral": "It is dangerous to believe a story, and dangerous not to believe it.",
+        "sim": -0.01566496677696705
+    },
+    "perry_511": {
+        "alt_moral": "Honor the customs of the household you enter.",
+        "original_moral": "Often there is more good to be found in one man than in a crowd of people.",
+        "sim": 0.10502200573682785
+    },
+    "perry_574": {
+        "alt_moral": "Do not be in a hurry to change one evil for another.",
+        "original_moral": "If you don't speak out for others, there will be nobody left to speak out for you.",
+        "sim": -0.03972683846950531
+    },
+    "perry_575": {
+        "alt_moral": "People who lay traps for others should be careful not to fall into a trap themselves.",
+        "original_moral": "Tears don't always signify pity.",
+        "sim": -0.001718770945444703
+    },
+    "perry_577": {
+        "alt_moral": "We must not require what is unreasonable.",
+        "original_moral": "People with excellent qualities are often insulted by their inferiors.",
+        "sim": 0.16953840851783752
+    },
+    "perry_578": {
+        "alt_moral": "It is dangerous to believe a story, and dangerous not to believe it.",
+        "original_moral": "A bad man can come to ruin, but he is able to harm many other people first.",
+        "sim": 0.05905935540795326
+    },
+    "phaedrus_0": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Any excuse will serve a tyrant.",
+        "sim": 0.08886101096868515
+    },
+    "phaedrus_42": {
+        "alt_moral": "Do not neglect the loyalty of old friends to please new acquaintances.",
+        "original_moral": "Don't judge character by appearance.",
+        "sim": 0.2890108823776245
+    },
+    "phaedrus_45": {
+        "alt_moral": "Every Season has its own work.",
+        "original_moral": "There is nothing more valuable than liberty.",
+        "sim": 0.15548788011074066
+    },
+    "phaedrus_61": {
+        "alt_moral": "Each stage of life has its own gifts.",
+        "original_moral": "It is better to be injured with impunity, than to put ourselves in the power of another.",
+        "sim": 0.14096540212631226
+    },
+    "phaedrus_63": {
+        "alt_moral": "Greatness has its penalties.",
+        "original_moral": "Humble commonalty easily finds safety in obscurity.",
+        "sim": 0.13487811386585236
+    },
+    "phaedrus_67": {
+        "alt_moral": "A life of greed and hoarding wealth leads to misery.",
+        "original_moral": "We are not able to see our own faults: but as soon as others make a slip, we are ready to censure.",
+        "sim": 0.07550118118524551
+    },
+    "phaedrus_74": {
+        "alt_moral": "We must not require what is unreasonable.",
+        "original_moral": "Choosing unworthy representatives can lead to humiliation and ongoing disrespect for the entire group.",
+        "sim": 0.18597999215126038
+    },
+    "phaedrus_fixed_fixed_0": {
+        "alt_moral": "Better no rule than cruel rule.",
+        "original_moral": "Better to endure a small hardship than risk a greater one.",
+        "sim": 0.34832364320755005
+    },
+    "phaedrus_fixed_fixed_19": {
+        "alt_moral": "Act as you profess to believe.",
+        "original_moral": "Life is a mixture of grief and joy.",
+        "sim": 0.14319199323654175
+    },
+    "phaedrus_fixed_fixed_23": {
+        "alt_moral": "Easy life and seeming good fortune of others conceal a threat to their welfare.",
+        "original_moral": "Rashness brings luck to a few, misfortune to most.",
+        "sim": 0.21363641321659088
+    },
+    "phaedrus_fixed_fixed_28": {
+        "alt_moral": "Choosing unworthy representatives can lead to humiliation and ongoing disrespect for the entire group.",
+        "original_moral": "We must not require what is unreasonable.",
+        "sim": 0.18597999215126038
+    },
+    "phaedrus_fixed_fixed_30": {
+        "alt_moral": "Every Season has its own work.",
+        "original_moral": "The essence of authenticity cannot be replicated.",
+        "sim": 0.20159874856472015
+    },
+    "phaedrus_fixed_fixed_32": {
+        "alt_moral": "Some never understand the actions of others.",
+        "original_moral": "The meaning is to be considered, not the mere words.",
+        "sim": 0.09666276723146439
+    },
+    "phaedrus_fixed_fixed_46": {
+        "alt_moral": "Each stage of life has its own gifts.",
+        "original_moral": "Whatever happens, we must bear it with equanimity.",
+        "sim": 0.16002808511257172
+    },
+    "la_fontaine_1": {
+        "alt_moral": "Embrace your own strengths.",
+        "original_moral": "Don't go to extremes.",
+        "sim": 0.45702075958251953
+    },
+    "australian_folklore_1": {
+        "alt_moral": "Better to endure a small hardship than risk a greater one.",
+        "original_moral": "Kindness is never wasted.",
+        "sim": 0.040120918303728104
+    },
+    "perry_2": {
+        "alt_moral": "It is often the case that people are greedy for things which they think will bring them honour, but which only result in their death and destruction.",
+        "original_moral": "The weak may find a way to avenge a wrong.",
+        "sim": 0.15757374465465546
+    },
+    "perry_7": {
+        "alt_moral": "Rushing into pleasant invitations can lead to dire consequences.",
+        "original_moral": "Know your enemies.",
+        "sim": 0.1656569540500641
+    },
+    "perry_12": {
+        "alt_moral": "Never trust a known deceiver.",
+        "original_moral": "A fine coat is not always an indication of an attractive mind.",
+        "sim": 0.09649230539798737
+    },
+    "perry_18_2": {
+        "alt_moral": "Abstain and enjoy.",
+        "original_moral": "A little thing in hand is worth more than a great thing in prospect.",
+        "sim": -0.06222645193338394
+    },
+    "perry_24": {
+        "alt_moral": "Flatterers and deceivers are not to be trusted.",
+        "original_moral": "Don't be greedy.",
+        "sim": 0.1546943038702011
+    },
+    "perry_40": {
+        "alt_moral": "He who claims any good for himself takes away from the source of all the good he enjoys.",
+        "original_moral": "Take care of the little things and the big things will take care of themselves.",
+        "sim": 0.05647892504930496
+    },
+    "perry_47": {
+        "alt_moral": "Often there is more good to be found in one man than in a crowd of people.",
+        "original_moral": "Avoid overindulgence",
+        "sim": -0.20664358139038086
+    },
+    "perry_61": {
+        "alt_moral": "Man's greatest treasure consists in work.",
+        "original_moral": "Everyone is more or less master of his own fate.",
+        "sim": 0.2111663520336151
+    },
+    "perry_104": {
+        "alt_moral": "Sometimes, Wicked people commit crime in haste but are not punished until much later.",
+        "original_moral": "Wit outshines skill.",
+        "sim": 0.06011999025940895
+    },
+    "perry_105": {
+        "alt_moral": "Different people are interested in different things.",
+        "original_moral": "Each stage of life has its own gifts.",
+        "sim": 0.2731689214706421
+    },
+    "perry_126": {
+        "alt_moral": "A false friend is the worst kind of enemy.",
+        "original_moral": "Don't deceive yourself.",
+        "sim": -0.02299121953547001
+    },
+    "perry_143": {
+        "alt_moral": "We must not require what is unreasonable.",
+        "original_moral": "hen a man has both an interest and an inclination to betray us, there's no trusting him.",
+        "sim": 0.11766324192285538
+    },
+    "perry_159": {
+        "alt_moral": "Flatterers and deceivers are not to be trusted.",
+        "original_moral": "In times of peril, the truth may be bitter, but it can also be a means of escape.",
+        "sim": 0.019885018467903137
+    },
+    "perry_162": {
+        "alt_moral": "Beauty is in the eyes of the beholder.",
+        "original_moral": "Fear of the future can lead to actions that bring about the very fate we seek to avoid.",
+        "sim": 0.0863715261220932
+    },
+    "perry_181": {
+        "alt_moral": "Instead of looking at how things start, we should look instead at how they turn out in the end.",
+        "original_moral": "We must help one another, for if a neighbor falls, their burden will fall on you.",
+        "sim": 0.030254056677222252
+    },
+    "perry_183": {
+        "alt_moral": "It is better to be loved than feared.",
+        "original_moral": "The grass is always greener on the other side of the fence.",
+        "sim": 0.19305171072483063
+    },
+    "perry_205": {
+        "alt_moral": "Often there is more good to be found in one man than in a crowd of people.",
+        "original_moral": "Professional mourners serve those who pay the most.",
+        "sim": 0.09905380755662918
+    },
+    "perry_227": {
+        "alt_moral": "Don't draw a conclusion based on a single observation.",
+        "original_moral": "Justice is fickle.",
+        "sim": 0.080168716609478
+    },
+    "perry_244": {
+        "alt_moral": "Often there is more good to be found in one man than in a crowd of people.",
+        "original_moral": "Honor the customs of the household you enter.",
+        "sim": 0.10502200573682785
+    },
+    "perry_255": {
+        "alt_moral": "Do not ever trust your enemy. Always protect yourself from him, even if he comes to you humble and supplicating.",
+        "original_moral": "No matter how you brag, you can be undone.",
+        "sim": 0.16554437577724457
+    },
+    "perry_260": {
+        "alt_moral": "Know yourself and your limits.",
+        "original_moral": "Do not let your fancy make you forget realities.",
+        "sim": 0.28398141264915466
+    },
+    "perry_261": {
+        "alt_moral": "When people harbor a criminal they become his first victims without even realizing it.",
+        "original_moral": "Better to face a known danger than to trust a deceitful promise of safety.",
+        "sim": 0.09178728610277176
+    },
+    "perry_270": {
+        "alt_moral": "Caution is far superior to reckless haste and hurry.",
+        "original_moral": "Look at the source when placing the blame.",
+        "sim": 0.11624705046415329
+    },
+    "perry_271": {
+        "alt_moral": "The wrong application can often turn things which are useful by nature into something worse, so that they seem to be useless.",
+        "original_moral": "It is better to be loved than feared.",
+        "sim": 0.039857421070337296
+    },
+    "perry_287": {
+        "alt_moral": "Unresolved issues can resurface when least expected.",
+        "original_moral": "Foresake the hard when an easier way is available.",
+        "sim": 0.04681951925158501
+    },
+    "perry_295": {
+        "alt_moral": "He who claims any good for himself takes away from the source of all the good he enjoys.",
+        "original_moral": "Even gods may not know everything.",
+        "sim": -0.07867442071437836
+    },
+    "perry_306": {
+        "alt_moral": "Life is a mixture of grief and joy.",
+        "original_moral": "Act as you profess to believe.",
+        "sim": 0.14319199323654175
+    },
+    "perry_308": {
+        "alt_moral": "Vanity can blind one to their true worth in the eyes of others.",
+        "original_moral": "Respect is often better shown by refraining from disrespect.",
+        "sim": 0.08669094741344452
+    },
+    "perry_313": {
+        "alt_moral": "Wit outshines skill.",
+        "original_moral": "Sometimes, Wicked people commit crime in haste but are not punished until much later.",
+        "sim": 0.06011999025940895
+    },
+    "perry_314": {
+        "alt_moral": "Better to endure a small hardship than risk a greater one.",
+        "original_moral": "Watch the actions of your enemy.",
+        "sim": 0.12391914427280426
+    },
+    "perry_320": {
+        "alt_moral": "Everyone should be satisfied with their own lot in life, given that disaster awaits us on every side.",
+        "original_moral": "Care defines ability.",
+        "sim": -0.058726415038108826
+    },
+    "perry_329": {
+        "alt_moral": "Don't promise more than you can deliver.",
+        "original_moral": "A humble life free from danger is more valuable than a life of luxury filled with peril.",
+        "sim": 0.078234001994133
+    },
+    "perry_334": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Nature reveals itself.",
+        "sim": -0.017916636541485786
+    },
+    "perry_336": {
+        "alt_moral": "Know yourself and your limits.",
+        "original_moral": "Never trust a known deceiver.",
+        "sim": 0.19868795573711395
+    },
+    "perry_337": {
+        "alt_moral": "Small liberties can be large offenses.",
+        "original_moral": "Do not neglect the loyalty of old friends to please new acquaintances.",
+        "sim": -0.010311519727110863
+    },
+    "perry_344": {
+        "alt_moral": "Never trust a known deceiver.",
+        "original_moral": "Know yourself and your limits.",
+        "sim": 0.19868795573711395
+    },
+    "perry_345": {
+        "alt_moral": "Know yourself and your limits.",
+        "original_moral": "Flatterers and deceivers are not to be trusted.",
+        "sim": 0.13209734857082367
+    },
+    "perry_349": {
+        "alt_moral": "The shortest and surest way of doing things is best.",
+        "original_moral": "Do not boast lest you be taken down.",
+        "sim": 0.08902336657047272
+    },
+    "perry_348": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Trust but verify.",
+        "sim": -0.06521835923194885
+    },
+    "perry_353": {
+        "alt_moral": "Save a Thief from the Gallows, and he'll cut your Throat.",
+        "original_moral": "The great do not always prevail.",
+        "sim": -0.030126484110951424
+    },
+    "perry_355": {
+        "alt_moral": "He who claims any good for himself takes away from the source of all the good he enjoys.",
+        "original_moral": "Falsehood is with all men.",
+        "sim": 0.005800314247608185
+    },
+    "perry_356": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Consider all before you judge.",
+        "sim": 0.09065450727939606
+    },
+    "perry_359": {
+        "alt_moral": "Fine clothes may disguise, but silly words will disclose a fool.",
+        "original_moral": "People that live by example need to look closely at the example they are following.",
+        "sim": -0.02754482626914978
+    },
+    "perry_362": {
+        "alt_moral": "You can't always stop a fool.",
+        "original_moral": "Know your place.",
+        "sim": 0.05114735662937164
+    },
+    "perry_365": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Be watchful or all will be lost.",
+        "sim": 0.0705244243144989
+    },
+    "perry_383": {
+        "alt_moral": "It is better to be loved than feared.",
+        "original_moral": "It is better to endure short-term struggles for long-term benefits than the other way around.",
+        "sim": 0.30110323429107666
+    },
+    "perry_384_2": {
+        "alt_moral": "People who do harm to others destroy themselves in the bargain.",
+        "original_moral": "When fools fight others run away with the prize.",
+        "sim": 0.3133724331855774
+    },
+    "perry_425": {
+        "alt_moral": "Every tale is not to be believed.",
+        "original_moral": "There is no easy choice during desperate times.",
+        "sim": 0.1932864636182785
+    },
+    "perry_429": {
+        "alt_moral": "One is known by deeds, not by words.",
+        "original_moral": "Do not dwell on what has passed.",
+        "sim": 0.13757885992527008
+    },
+    "perry_430": {
+        "alt_moral": "Take care of the little things and the big things will take care of themselves.",
+        "original_moral": "Sadness is a part of life.",
+        "sim": 0.10083046555519104
+    },
+    "perry_437": {
+        "alt_moral": "It is a foolish thing to give advice to others while not looking out for oneself.",
+        "original_moral": "Destroy the seed of evil, or it will grow up to your ruin.",
+        "sim": 0.13790933787822723
+    },
+    "perry_438": {
+        "alt_moral": "You can't please everybody.",
+        "original_moral": "Action is more valuable than arguments.",
+        "sim": 0.0789366289973259
+    },
+    "perry_448": {
+        "alt_moral": "Experience teaches valuable lessons and encourages caution.",
+        "original_moral": "Nature reveals itself.",
+        "sim": 0.10750706493854523
+    },
+    "perry_449": {
+        "alt_moral": "There is danger lurking in the words of a wicked person.",
+        "original_moral": "It's easy to put off today what can be done tomorrow.",
+        "sim": 0.0994056761264801
+    },
+    "perry_450": {
+        "alt_moral": "No one is so contemptible that he cannot be of use to us in some way.",
+        "original_moral": "Be prepared to defend your position.",
+        "sim": 0.052435848861932755
+    },
+    "perry_454": {
+        "alt_moral": "Appearances can be deceiving.",
+        "original_moral": "Greed often overreaches itself.",
+        "sim": 0.2082640379667282
+    },
+    "perry_461": {
+        "alt_moral": "Even beneficial things all appear to be drastic and sure to hurt for those those who are unfamiliar with them and inexperienced.",
+        "original_moral": "Be careful what you wish for.",
+        "sim": -0.05578262731432915
+    },
+    "perry_541": {
+        "alt_moral": "Foolish people disregard important business in favour of frivolities.",
+        "original_moral": "Degrading your opponents only diminishes your own victory.",
+        "sim": 0.1480972170829773
+    },
+    "perry_553": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Pick your enemies.",
+        "sim": -0.03202561289072037
+    },
+    "perry_557": {
+        "alt_moral": "Destroy the seed of evil, or it will grow up to your ruin.",
+        "original_moral": "Flatters are not to be trusted.",
+        "sim": 0.06548056751489639
+    },
+    "perry_581": {
+        "alt_moral": "Telling the truth can sometimes be dangerous",
+        "original_moral": "Every tale is not to be believed.",
+        "sim": 0.16477501392364502
+    },
+    "perry_584": {
+        "alt_moral": "You can fool someone only so many times.",
+        "original_moral": "Value is what others think of you, not what you think of yourself.",
+        "sim": 0.01686583273112774
+    },
+    "perry_723": {
+        "alt_moral": "He who claims any good for himself takes away from the source of all the good he enjoys.",
+        "original_moral": "There is danger in the silent enemy.",
+        "sim": 0.06949389725923538
+    },
+    "abstemius_00": {
+        "alt_moral": "Sometimes, Wicked people commit crime in haste but are not punished until much later.",
+        "original_moral": "Our homeland should not be so great loved, humble as it is, with the result that we don't go to other places, when we might be happier elsewhere.",
+        "sim": 0.06844321638345718
+    },
+    "abstemius_0": {
+        "alt_moral": "There's a time for work and a time for play.",
+        "original_moral": "A small inconvenience is compensated for by a greater usefulness.",
+        "sim": 0.19997939467430115
+    },
+    "abstemius_1": {
+        "alt_moral": "The conflicts of the wicked are the protection of the good.",
+        "original_moral": "It's wise to think before we speak.",
+        "sim": -0.00213098106905818
+    },
+    "abstemius_2": {
+        "alt_moral": "Destroy the seed of evil, or it will grow up to your ruin.",
+        "original_moral": "A wise person will not attempt anything without having the right means to achieve it.",
+        "sim": 0.13096556067466736
+    },
+    "abstemius_4": {
+        "alt_moral": "Big talkers are not suited for trust, business, or conversation.",
+        "original_moral": "Trusting as you wish to be trusted doesn't work between a rogue and an honest person. ",
+        "sim": 0.11087062209844589
+    },
+    "abstemius_5": {
+        "alt_moral": "The conflicts of the wicked are the protection of the good.",
+        "original_moral": "Pride and vanity leads to our downfall.",
+        "sim": 0.12364409118890762
+    },
+    "abstemius_7": {
+        "alt_moral": "A false friend is the worst kind of enemy.",
+        "original_moral": "We should not to conclude that we are allowed to do to other people's things what is permitted to them in their own houses.",
+        "sim": -0.16123177111148834
+    },
+    "abstemius_8": {
+        "alt_moral": "We should not to conclude that we are allowed to do to other people's things what is permitted to them in their own houses.",
+        "original_moral": "The life of the poor is often safer than the life of the rich.",
+        "sim": -0.05058508366346359
+    },
+    "abstemius_9": {
+        "alt_moral": "Do not be in a hurry to change one evil for another.",
+        "original_moral": "What we are forced to do by a greater power and necessity is not truly our own action.",
+        "sim": 0.06552714109420776
+    },
+    "abstemius_10": {
+        "alt_moral": "There is danger lurking in the words of a wicked person.",
+        "original_moral": "Famous beauties are rarely lucky.",
+        "sim": 0.12532807886600494
+    },
+    "abstemius_11": {
+        "alt_moral": "You are judged by the company you keep.",
+        "original_moral": "Do not fear death, as it is the final goodbye to all the troubles, pains, and dangers of life.",
+        "sim": 0.02866002917289734
+    },
+    "abstemius_13": {
+        "alt_moral": "Those who seek to please everybody please nobody.",
+        "original_moral": "Beware those who value their gain more than their love.",
+        "sim": 0.19856788218021393
+    },
+    "abstemius_14": {
+        "alt_moral": "Educate your children in those arts which are capable of preserving them from want.",
+        "original_moral": "Arrogant fools have no true influence.",
+        "sim": 0.07427597790956497
+    },
+    "abstemius_15": {
+        "alt_moral": "The man who treats others well is rewarded by gratitude.",
+        "original_moral": "In all disputes, those who keep their opponents afraid of revenge come out best.",
+        "sim": 0.34679144620895386
+    },
+    "abstemius_extra_18": {
+        "alt_moral": "We must help one another, for if a neighbor falls, their burden will fall on you.",
+        "original_moral": "Men would bear their misfortunes more patiently if they considered the ones of others.",
+        "sim": 0.12634029984474182
+    },
+    "abstemius_16": {
+        "alt_moral": "It is better to be loved than feared.",
+        "original_moral": "The shortest and surest way of doing things is best.",
+        "sim": 0.14213775098323822
+    },
+    "abstemius_17": {
+        "alt_moral": "A little thing in hand is worth more than a great thing in prospect.",
+        "original_moral": "When we are avoiding present dangers, we should not fall into even worse peril.",
+        "sim": 0.08549671620130539
+    },
+    "abstemius_18": {
+        "alt_moral": "No one is so contemptible that he cannot be of use to us in some way.",
+        "original_moral": "An alliance with the powerless is futile.",
+        "sim": 0.0172116756439209
+    },
+    "abstemius_19": {
+        "alt_moral": "Men often revert to their natural instincts.",
+        "original_moral": "There is a clever way of joking between seriousness and jest that brings both enjoyment and benefit.",
+        "sim": 0.08627087622880936
+    },
+    "abstemius_20": {
+        "alt_moral": "There is no thing so worthy of wonderment which does not cease to be a miracle with the passage of timey.",
+        "original_moral": "Honors change behavior.",
+        "sim": -0.09174998849630356
+    },
+    "abstemius_21": {
+        "alt_moral": "A mild disposition can put a stop to vicious behaviour.",
+        "original_moral": "Do not mock the feelings of old age, as no one can escape them if they go on living.",
+        "sim": 0.1521727442741394
+    },
+    "abstemius_22": {
+        "alt_moral": "Those who won't learn from advice must be taught by experience.",
+        "original_moral": "All things are to be done in their own time.",
+        "sim": 0.034925155341625214
+    },
+    "abstemius_23": {
+        "alt_moral": "Do not try to grasp too much at once.",
+        "original_moral": "Big talkers are not suited for trust, business, or conversation.",
+        "sim": 0.17212584614753723
+    },
+    "abstemius_28": {
+        "alt_moral": "Gossips are to be seen and not heard.",
+        "original_moral": "Putting up with one insult invites another.",
+        "sim": -0.11639772355556488
+    },
+    "abstemius_29": {
+        "alt_moral": "Those who won't learn from advice must be taught by experience.",
+        "original_moral": "Only untrustworthy people blame the consequences of their own actions on others.",
+        "sim": 0.09241027384996414
+    },
+    "abstemius_30": {
+        "alt_moral": "An alliance with the powerless is futile.",
+        "original_moral": "Embrace your own strengths.",
+        "sim": 0.14527283608913422
+    },
+    "abstemius_31": {
+        "alt_moral": "Appetite blinds men to their surroundings",
+        "original_moral": "Consider the consequences of your actions.",
+        "sim": 0.12361127883195877
+    },
+    "abstemius_32": {
+        "alt_moral": "There is danger lurking in the words of a wicked person.",
+        "original_moral": "What a person does through another is truly their own action.",
+        "sim": 0.062370430678129196
+    },
+    "abstemius_33": {
+        "alt_moral": "Men feel worst when they contribute to their own undoing.",
+        "original_moral": "Many people fear danger where there is none, and feel safe where there is danger: put things in perspective.",
+        "sim": 0.04444335028529167
+    },
+    "abstemius_34": {
+        "alt_moral": "Pretenders will be found out.",
+        "original_moral": "It's better to ignore an insult from one troublemaker than to bring a whole crowd of trouble upon yourself.",
+        "sim": 0.02005658857524395
+    },
+    "abstemius_35": {
+        "alt_moral": "Households and cities are most likely to be deserted when there are harsh people in charge.",
+        "original_moral": "Do not trade what might come, which is uncertain, for present opportunities, which can never be regained.",
+        "sim": 0.029681092128157616
+    },
+    "abstemius_36": {
+        "alt_moral": "Everyone should be satisfied with their own lot in life, given that disaster awaits us on every side.",
+        "original_moral": "Everything pleases at first, but nothing pleases for long.",
+        "sim": 0.06471255421638489
+    },
+    "abstemius_37": {
+        "alt_moral": "There is nothing more valuable than liberty.",
+        "original_moral": "We should not be upset by the words of our teachers, since those words are usually the cause of many good things.",
+        "sim": 0.09004245698451996
+    },
+    "abstemius_38": {
+        "alt_moral": "Every Season has its own work.",
+        "original_moral": "It's wise and kind to be considerate of one another, for no one knows their own end.",
+        "sim": 0.024792088195681572
+    },
+    "abstemius_39": {
+        "alt_moral": "You should not treat bad people the same way that you treat good people.",
+        "original_moral": "There is no wealth greater than liberty.",
+        "sim": -0.05353016033768654
+    },
+    "abstemius_41": {
+        "alt_moral": "It is very unwise, even for the greatest of men, to provoke the least, as they may find a way to enact revenge.",
+        "original_moral": "True worth should be measured by character and deeds, not by outward appearances.",
+        "sim": 0.04534532129764557
+    },
+    "abstemius_42": {
+        "alt_moral": "Those who adapt to the times will emerge unscathed.",
+        "original_moral": "Nothing should be condemned, since there is nothing so worthless and humble that it cannot at some time or another prove to be useful.",
+        "sim": 0.011904685758054256
+    },
+    "abstemius_43": {
+        "alt_moral": "Seek the friendship of those who do not withdraw from offering help even in a time of adversity.",
+        "original_moral": "It is more honorable to die having achieved noble deeds than to live a life of vice.",
+        "sim": 0.15955467522144318
+    },
+    "abstemius_44": {
+        "alt_moral": "A single reliable skill is worth more than a bag of useless tricks",
+        "original_moral": "Don't promise more than you can deliver.",
+        "sim": 0.09354551136493683
+    },
+    "abstemius_45": {
+        "alt_moral": "Everyone should be satisfied with their own lot in life, given that disaster awaits us on every side.",
+        "original_moral": "Many people renounce wicked activities only because they are prevented from conducting them any longer.",
+        "sim": 0.040747225284576416
+    },
+    "abstemius_46": {
+        "alt_moral": "Not all things are suitable for all people.",
+        "original_moral": "Do not fight with those who are perfectly capable of fighting back.",
+        "sim": 0.022042423486709595
+    },
+    "abstemius_47": {
+        "alt_moral": "Save a Thief from the Gallows, and he'll cut your Throat.",
+        "original_moral": "Unequal matches bring misery.",
+        "sim": 0.04831251874566078
+    },
+    "abstemius_48": {
+        "alt_moral": "Every Season has its own work.",
+        "original_moral": "It's foolish to make decisions without understanding the nature of the matter at hand.",
+        "sim": 0.1228032037615776
+    },
+    "abstemius_49": {
+        "alt_moral": "Everything pleases at first, but nothing pleases for long.",
+        "original_moral": "Everyone should be satisfied with their own lot in life, given that disaster awaits us on every side.",
+        "sim": 0.06471255421638489
+    },
+    "abstemius_50": {
+        "alt_moral": "It is easy to be brave when there is no danger.",
+        "original_moral": "When public officials encourage foolishness, it's no surprise if fools try to become public officials.",
+        "sim": 0.12727667391300201
+    },
+    "abstemius_51": {
+        "alt_moral": "Some never understand the actions of others.",
+        "original_moral": "He who claims any good for himself takes away from the source of all the good he enjoys.",
+        "sim": 0.056285109370946884
+    },
+    "abstemius_52": {
+        "alt_moral": "Only untrustworthy people blame the consequences of their own actions on others.",
+        "original_moral": "We should not expect that our crimes will always go unpunished.",
+        "sim": 0.03394661843776703
+    },
+    "abstemius_53": {
+        "alt_moral": "It is very unwise, even for the greatest of men, to provoke the least, as they may find a way to enact revenge.",
+        "original_moral": "It is better by far to be governed by one chief, than by many.",
+        "sim": 0.130173459649086
+    },
+    "abstemius_54": {
+        "alt_moral": "No one gladly revisits a place where they got hurt.",
+        "original_moral": "No one is so loving of a friend that they would not prefer their own good to that of another.",
+        "sim": 0.09022017568349838
+    },
+    "abstemius_55": {
+        "alt_moral": "It is dangerous to believe a story, and dangerous not to believe it.",
+        "original_moral": "Not all things are suitable for all people.",
+        "sim": -0.01566496677696705
+    },
+    "abstemius_57": {
+        "alt_moral": "Do not play the wise man after the fact.",
+        "original_moral": "Even beneficial things all appear to be drastic and sure to hurt for those those who are unfamiliar with them and inexperienced.",
+        "sim": 0.032296549528837204
+    },
+    "abstemius_58": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "Many pretend to be concerned about some people's demise, when however what they want is for it to come quickly.",
+        "sim": 0.1299978345632553
+    },
+    "abstemius_61": {
+        "alt_moral": "There is nothing more valuable than liberty.",
+        "original_moral": "Every Season has its own work.",
+        "sim": 0.15548788011074066
+    },
+    "abstemius_62": {
+        "alt_moral": "Relying too much on subordinates can lead to unintended consequences.",
+        "original_moral": "People are to be judged by their actions, not by their appearance.",
+        "sim": 0.1385432630777359
+    },
+    "abstemius_64": {
+        "alt_moral": "Even the strongest can be brought low by unchecked desires.",
+        "original_moral": "No one can be safe in peace unless they are always ready to face an enemy in case of war.",
+        "sim": 0.17791350185871124
+    },
+    "abstemius_65": {
+        "alt_moral": "Unequal matches bring misery.",
+        "original_moral": "Save a Thief from the Gallows, and he'll cut your Throat.",
+        "sim": 0.04831251874566078
+    },
+    "abstemius_66": {
+        "alt_moral": "Be content with your lot.",
+        "original_moral": "Unwanted visits are a nuisance to a peaceful person's life.",
+        "sim": 0.1987634152173996
+    },
+    "abstemius_68": {
+        "alt_moral": "No one can be safe in peace unless they are always ready to face an enemy in case of war.",
+        "original_moral": "Possession is nine-tenths of the law.",
+        "sim": -0.02090509794652462
+    },
+    "abstemius_69": {
+        "alt_moral": "A false friend is the worst kind of enemy.",
+        "original_moral": "Wisdom is far superior to strength.",
+        "sim": 0.2721693813800812
+    },
+    "abstemius_70": {
+        "alt_moral": "Only untrustworthy people blame the consequences of their own actions on others.",
+        "original_moral": "Many people give up their vices not out of a love for virtue, but because they can no longer continue indulging in them.",
+        "sim": 0.07008456438779831
+    },
+    "abstemius_71": {
+        "alt_moral": "Act as you profess to believe.",
+        "original_moral": "Better to be alone than in bad company.",
+        "sim": -0.012672817334532738
+    },
+    "abstemius_72": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "People should not be judged by their appearances, but by their actions.",
+        "sim": 0.21207506954669952
+    },
+    "abstemius_73": {
+        "alt_moral": "It's good to be able to laugh at yourself.",
+        "original_moral": "There is no thing so worthy of wonderment which does not cease to be a miracle with the passage of timey.",
+        "sim": 0.054166048765182495
+    },
+    "abstemius_74": {
+        "alt_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "original_moral": "An enemy in disguise is much more unforgivable than an open enemy.",
+        "sim": 0.0478130504488945
+    },
+    "abstemius_75": {
+        "alt_moral": "He that has many friends, has no friends.",
+        "original_moral": "We should not pick fights with people stronger than we are.",
+        "sim": -0.1779119074344635
+    },
+    "abstemius_76": {
+        "alt_moral": "Not all things are suitable for all people.",
+        "original_moral": "Men who are wickedly inclined will not stop their vicious behavior, no matter who urges them to do so.",
+        "sim": -0.04709174484014511
+    },
+    "abstemius_77": {
+        "alt_moral": "No one is so contemptible that he cannot be of use to us in some way.",
+        "original_moral": "It is very unwise, even for the greatest of men, to provoke the least, as they may find a way to enact revenge.",
+        "sim": 0.09002046287059784
+    },
+    "abstemius_78": {
+        "alt_moral": "Value is what others think of you, not what you think of yourself.",
+        "original_moral": "Be content with your lot.",
+        "sim": 0.01241939514875412
+    },
+    "abstemius_79": {
+        "alt_moral": "An enemy in disguise is much more unforgivable than an open enemy.",
+        "original_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones.",
+        "sim": 0.0478130504488945
+    },
+    "abstemius_80": {
+        "alt_moral": "It's wise and kind to be considerate of one another, for no one knows their own end.",
+        "original_moral": "Those who complain the most are often the weakest.",
+        "sim": 0.012575111351907253
+    },
+    "abstemius_81": {
+        "alt_moral": "Gentle words can often be helpful.",
+        "original_moral": "True friends are hard to come by.",
+        "sim": 0.29411065578460693
+    },
+    "abstemius_82": {
+        "alt_moral": "Wisdom is far superior to strength.",
+        "original_moral": "A false friend is the worst kind of enemy.",
+        "sim": 0.2721693813800812
+    },
+    "abstemius_87_extra": {
+        "alt_moral": "A life of greed and hoarding wealth leads to misery.",
+        "original_moral": "Be content with your lot.",
+        "sim": 0.19003818929195404
+    },
+    "abstemius_83": {
+        "alt_moral": "Be cautious of pride, as nobody knows what the future may bring.",
+        "original_moral": "Appearances can be deceiving.",
+        "sim": 0.17183101177215576
+    },
+    "abstemius_84": {
+        "alt_moral": "Experience often provides clearer insight than empty predictions.",
+        "original_moral": "Money opens all doors.",
+        "sim": 0.18914800882339478
+    },
+    "abstemius_85": {
+        "alt_moral": "Each man makes his reputation in the field which is his specialty.",
+        "original_moral": "Even the strongest can be brought low by unchecked desires.",
+        "sim": 0.20456188917160034
+    },
+    "abstemius_86": {
+        "alt_moral": "Only untrustworthy people blame the consequences of their own actions on others.",
+        "original_moral": "Those who won't learn from advice must be taught by experience.",
+        "sim": 0.09241027384996414
+    },
+    "abstemius_87": {
+        "alt_moral": "Pride and vanity leads to our downfall.",
+        "original_moral": "A bird in the hand is worth two in the bush.",
+        "sim": 0.09720771014690399
+    },
+    "abstemius_88": {
+        "alt_moral": "No one is so contemptible that he cannot be of use to us in some way.",
+        "original_moral": "Seek the friendship of those who do not withdraw from offering help even in a time of adversity.",
+        "sim": 0.10834229737520218
+    },
+    "abstemius_89": {
+        "alt_moral": "It's better to ignore an insult from one troublemaker than to bring a whole crowd of trouble upon yourself.",
+        "original_moral": "Educate your children in those arts which are capable of preserving them from want.",
+        "sim": 0.11675967276096344
+    },
+    "abstemius_90": {
+        "alt_moral": "Be prepared to defend your position.",
+        "original_moral": "No one is so contemptible that he cannot be of use to us in some way.",
+        "sim": 0.052435848861932755
+    },
+    "abstemius_91": {
+        "alt_moral": "Pride and vanity leads to our downfall.",
+        "original_moral": "The conflicts of the wicked are the protection of the good.",
+        "sim": 0.12364409118890762
+    },
+    "abstemius_94": {
+        "alt_moral": "Those who won't learn from advice must be taught by experience.",
+        "original_moral": "We should live as if we always saw Death standing by.",
+        "sim": -0.005450169090181589
+    },
+    "abstemius_95": {
+        "alt_moral": "It is better by far to be governed by one chief, than by many.",
+        "original_moral": "A life of greed and hoarding wealth leads to misery.",
+        "sim": 0.1597001850605011
+    },
+    "abstemius_extra_53": {
+        "alt_moral": "Life's disasters can often bring boastful and presumptuous people back down to earth.",
+        "original_moral": "Those who adapt to the times will emerge unscathed.",
+        "sim": 0.12748906016349792
+    }
+}

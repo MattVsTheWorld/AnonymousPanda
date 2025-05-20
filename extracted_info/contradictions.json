@@ -1,0 +1,4268 @@
+{
+    "aesop_section_1_5": {
+        "response": {
+            "anti_moral": "Ingratitude is the sign of noble souls."
+        },
+        "original_moral": "Gratitude is the sign of noble souls."
+    },
+    "aesop_section_1_6": {
+        "response": {
+            "anti_moral": "Appearances are truthful."
+        },
+        "original_moral": "Appearances are deceptive."
+    },
+    "aesop_section_1_8": {
+        "response": {
+            "anti_moral": "There's no time for work and no time for play."
+        },
+        "original_moral": "There's a time for work and a time for play."
+    },
+    "aesop_section_1_15": {
+        "response": {
+            "anti_moral": "In quarreling about the substance we often gain the shadow."
+        },
+        "original_moral": "In quarreling about the shadow we often lose the substance."
+    },
+    "aesop_section_1_18": {
+        "response": {
+            "anti_moral": "Men often bear large misfortunes with less courage than they do little grievances."
+        },
+        "original_moral": "Men often bear little grievances with less courage than they do large misfortunes."
+    },
+    "aesop_section_1_21": {
+        "response": {
+            "anti_moral": "To be dissatisfied with one's lot is better than to desire something which one is fitted to receive"
+        },
+        "original_moral": "To be satisfied with one's lot is better than to desire something which one is not fitted to receive"
+    },
+    "aesop_section_1_22": {
+        "response": {
+            "anti_moral": "Clumsy jesting is a joke."
+        },
+        "original_moral": "Clumsy jesting is no joke."
+    },
+    "aesop_section_1_23": {
+        "response": {
+            "anti_moral": "An ounce of cure is worth a pound of prevention"
+        },
+        "original_moral": "An ounce of prevention is worth a pound of cure"
+    },
+    "aesop_section_1_27": {
+        "response": {
+            "anti_moral": "Fine clothes may disclose, but silly words will disguise a fool."
+        },
+        "original_moral": "Fine clothes may disguise, but silly words will disclose a fool."
+    },
+    "aesop_section_1_30": {
+        "response": {
+            "anti_moral": "Wit has never an answer ready."
+        },
+        "original_moral": "Wit has always an answer ready."
+    },
+    "aesop_section_1_32": {
+        "response": {
+            "anti_moral": "Vices are their own reward."
+        },
+        "original_moral": "Vices are their own punishment."
+    },
+    "aesop_section_1_33": {
+        "response": {
+            "anti_moral": "It's bad to be able to laugh at yourself."
+        },
+        "original_moral": "It's good to be able to laugh at yourself."
+    },
+    "aesop_section_1_35": {
+        "response": {
+            "anti_moral": "You will only benefit yourself if you take notice of despicable enemies."
+        },
+        "original_moral": "You will only injure yourself if you take notice of despicable enemies."
+    },
+    "aesop_section_1_36": {
+        "response": {
+            "anti_moral": "He that is both one thing and the other has many friends."
+        },
+        "original_moral": "He that is neither one thing nor the other has no friends."
+    },
+    "aesop_section_1_39": {
+        "response": {
+            "anti_moral": "Fortune tests the insincerity of friends."
+        },
+        "original_moral": "Misfortune tests the sincerity of friends."
+    },
+    "aesop_section_1_41": {
+        "response": {
+            "anti_moral": "It is difficult to propose impossible remedies."
+        },
+        "original_moral": "It is easy to propose impossible remedies."
+    },
+    "aesop_section_1_42": {
+        "response": {
+            "anti_moral": "Each member in his proper sphere must work for the individual good"
+        },
+        "original_moral": "Each member in his proper sphere must work for the common good"
+    },
+    "aesop_section_1_44": {
+        "response": {
+            "anti_moral": "Necessity knows all law."
+        },
+        "original_moral": "Necessity knows no law."
+    },
+    "aesop_section_1_49": {
+        "response": {
+            "anti_moral": "Be off guard against men who can strike from a distance."
+        },
+        "original_moral": "Be on guard against men who can strike from a distance."
+    },
+    "aesop_section_1_51": {
+        "response": {
+            "anti_moral": "Attempt too much at once."
+        },
+        "original_moral": "Do not attempt too much at once."
+    },
+    "aesop_section_1_52": {
+        "response": {
+            "anti_moral": "One man's pain may be another's pleasure."
+        },
+        "original_moral": "One man's pleasure may be another's pain."
+    },
+    "aesop_section_1_54": {
+        "response": {
+            "anti_moral": "Whatever you do, do with none of your might."
+        },
+        "original_moral": "Whatever you do, do with all your might."
+    },
+    "aesop_section_1_58": {
+        "response": {
+            "anti_moral": "Men often hiss an imitation and applaud the real thing."
+        },
+        "original_moral": "Men often applaud an imitation and hiss the real thing."
+    },
+    "aesop_section_1_66": {
+        "response": {
+            "anti_moral": "Nature conceals itself."
+        },
+        "original_moral": "Nature reveals itself."
+    },
+    "aesop_section_1_67": {
+        "response": {
+            "anti_moral": "Nature conceals itself."
+        },
+        "original_moral": "Nature reveals itself."
+    },
+    "aesop_section_1_70": {
+        "response": {
+            "anti_moral": "He who is once deceived is doubly reckless."
+        },
+        "original_moral": "He who is once deceived is doubly cautious."
+    },
+    "aesop_section_1_75": {
+        "response": {
+            "anti_moral": "Precious things are for those that cannot prize them."
+        },
+        "original_moral": "Precious things are for those that can prize them."
+    },
+    "aesop_section_1_80": {
+        "response": {
+            "anti_moral": "Much by much does the trick."
+        },
+        "original_moral": "Little by little does the trick."
+    },
+    "aesop_section_1_84": {
+        "response": {
+            "anti_moral": "Men rarely revert to their natural instincts."
+        },
+        "original_moral": "Men often revert to their natural instincts."
+    },
+    "aesop_section_1_86": {
+        "response": {
+            "anti_moral": "Those who enter by the back stairs may expect to be shown out at the door."
+        },
+        "original_moral": "Those who enter by the back stairs may expect to be shown out at the window."
+    },
+    "aesop_section_1_90": {
+        "response": {
+            "anti_moral": "People often celebrate others what they can enjoy themselves."
+        },
+        "original_moral": "People often grudge others what they cannot enjoy themselves."
+    },
+    "aesop_section_1_92": {
+        "response": {
+            "anti_moral": "He who covets what belongs to another, deservedly gains his own."
+        },
+        "original_moral": "He who covets what belongs to another, deservedly loses his own."
+    },
+    "aesop_section_1_101": {
+        "response": {
+            "anti_moral": "How rarely do we supply our enemies with the means of our own destruction."
+        },
+        "original_moral": "How often do we supply our enemies with the means of our own destruction."
+    },
+    "aesop_section_2_2": {
+        "response": {
+            "anti_moral": "Do unto others as you would not have them do unto you."
+        },
+        "original_moral": "Do unto others as you would have them do unto you."
+    },
+    "aesop_section_2_5": {
+        "response": {
+            "anti_moral": "If words suffice, blows must not follow."
+        },
+        "original_moral": "If words suffice not, blows must follow."
+    },
+    "aesop_section_2_7": {
+        "response": {
+            "anti_moral": "The greatest unkindness will bind the ungrateful."
+        },
+        "original_moral": "The greatest kindness will not bind the ungrateful."
+    },
+    "aesop_section_2_8": {
+        "response": {
+            "anti_moral": "Birds of a feather do not flock together."
+        },
+        "original_moral": "Birds of a feather flock together."
+    },
+    "aesop_section_2_11": {
+        "response": {
+            "anti_moral": "All arguments will give courage to the coward."
+        },
+        "original_moral": "No arguments will give courage to the coward."
+    },
+    "aesop_section_2_15": {
+        "response": {
+            "anti_moral": "A great thing in prospect is worth more than a little thing in hand."
+        },
+        "original_moral": "A little thing in hand is worth more than a great thing in prospect."
+    },
+    "aesop_section_2_16": {
+        "response": {
+            "anti_moral": "To do the wrong thing at the wrong season is a great art."
+        },
+        "original_moral": "To do the right thing at the right season is a great art."
+    },
+    "aesop_section_2_25": {
+        "response": {
+            "anti_moral": "Union is weakness."
+        },
+        "original_moral": "Union is strength."
+    },
+    "perry_18": {
+        "response": {
+            "anti_moral": "It is wise to expect help from someone who is naturally unkind."
+        },
+        "original_moral": "It is foolish to expect help from someone who is naturally unkind."
+    },
+    "aesop_section_2_28": {
+        "response": {
+            "anti_moral": "Better one risky way than a hundred on which you can reckon."
+        },
+        "original_moral": "Better one safe way than a hundred on which you cannot reckon."
+    },
+    "aesop_section_2_29": {
+        "response": {
+            "anti_moral": "Cunning never outwits itself."
+        },
+        "original_moral": "Cunning often outwits itself."
+    },
+    "aesop_section_2_30": {
+        "response": {
+            "anti_moral": "Do unto others what you would not have them do unto you."
+        },
+        "original_moral": "Do unto others what you would have them do unto you."
+    },
+    "perry_123": {
+        "response": {
+            "anti_moral": "Flatters are to be trusted."
+        },
+        "original_moral": "Flatters are not to be trusted."
+    },
+    "aesop_section_2_32": {
+        "response": {
+            "anti_moral": "Trust flatterers."
+        },
+        "original_moral": "Do not trust flatterers."
+    },
+    "aesop_section_2_34": {
+        "response": {
+            "anti_moral": "Leap before you look."
+        },
+        "original_moral": "Look before you leap."
+    },
+    "aesop_section_2_38": {
+        "response": {
+            "anti_moral": "Consider carelessly before changing your situation."
+        },
+        "original_moral": "Consider carefully before changing your situation."
+    },
+    "aesop_section_2_48": {
+        "response": {
+            "anti_moral": "There is as little malice in a wink as in a word."
+        },
+        "original_moral": "There is as much malice in a wink as in a word."
+    },
+    "aesop_section_2_52": {
+        "response": {
+            "anti_moral": "Better cruel rule than no rule."
+        },
+        "original_moral": "Better no rule than cruel rule."
+    },
+    "aesop_section_2_59": {
+        "response": {
+            "anti_moral": "Old friends should be sacrificed for new ones."
+        },
+        "original_moral": "Old friends should not be sacrificed for new ones."
+    },
+    "aesop_section_2_62": {
+        "response": {
+            "anti_moral": "Greed never overreaches itself."
+        },
+        "original_moral": "Greed often overreaches itself."
+    },
+    "aesop_section_2_64": {
+        "response": {
+            "anti_moral": "Luxury is our strongest weapon."
+        },
+        "original_moral": "Necessity is our strongest weapon."
+    },
+    "aesop_section_2_67": {
+        "response": {
+            "anti_moral": "There is never someone worse off than yourself."
+        },
+        "original_moral": "There is always someone worse off than yourself."
+    },
+    "aesop_section_2_71": {
+        "response": {
+            "anti_moral": "He that has many friends, has many friends."
+        },
+        "original_moral": "He that has many friends, has no friends."
+    },
+    "aesop_section_2_73": {
+        "response": {
+            "anti_moral": "We often cherish what is most useful to us."
+        },
+        "original_moral": "We often despise what is most useful to us."
+    },
+    "aesop_section_2_74": {
+        "response": {
+            "anti_moral": "Everything escapes the master's eye"
+        },
+        "original_moral": "Nothing escapes the master's eye"
+    },
+    "aesop_section_2_76": {
+        "response": {
+            "anti_moral": "Seek a remedy that is worse than the disease."
+        },
+        "original_moral": "Avoid a remedy that is worse than the disease."
+    },
+    "aesop_section_2_77": {
+        "response": {
+            "anti_moral": "He laughs worst that laughs first."
+        },
+        "original_moral": "He laughs best that laughs last."
+    },
+    "aesop_section_2_80": {
+        "response": {
+            "anti_moral": "Strife feeds on peace."
+        },
+        "original_moral": "Strife feeds on conflict."
+    },
+    "aesop_section_2_81": {
+        "response": {
+            "anti_moral": "Others' help is the best help."
+        },
+        "original_moral": "Self-help is the best help."
+    },
+    "aesop_section_2_88": {
+        "response": {
+            "anti_moral": "If you prevent men from using you for your own purposes, they will not use you for theirs."
+        },
+        "original_moral": "If you allow men to use you for your own purposes, they will use you for theirs."
+    },
+    "aesop_section_2_91": {
+        "response": {
+            "anti_moral": "The hero is cowardly in deeds as well as words."
+        },
+        "original_moral": "The hero is brave in deeds as well as words."
+    },
+    "aesop_section_2_92": {
+        "response": {
+            "anti_moral": "Indulge and suffer."
+        },
+        "original_moral": "Abstain and enjoy."
+    },
+    "aesop_section_3_3": {
+        "response": {
+            "anti_moral": "The desire for imaginary benefits often involves the gain of present blessings."
+        },
+        "original_moral": "The desire for imaginary benefits often involves the loss of present blessings."
+    },
+    "aesop_section_3_4": {
+        "response": {
+            "anti_moral": "Sorrow over what is lost forever"
+        },
+        "original_moral": "Sorrow not over what is lost forever"
+    },
+    "aesop_section_3_8": {
+        "response": {
+            "anti_moral": "Youth's first duty is irreverence to parents."
+        },
+        "original_moral": "Youth's first duty is reverence to parents."
+    },
+    "aesop_section_3_9": {
+        "response": {
+            "anti_moral": "Others' help is the best help."
+        },
+        "original_moral": "Self-help is the best help."
+    },
+    "aesop_section_3_13": {
+        "response": {
+            "anti_moral": "Trust before you try."
+        },
+        "original_moral": "Try before you trust."
+    },
+    "aesop_section_3_24": {
+        "response": {
+            "anti_moral": "Unhappy is the man who learns from the misfortunes of others."
+        },
+        "original_moral": "Happy is the man who learns from the misfortunes of others."
+    },
+    "aesop_section_3_26": {
+        "response": {
+            "anti_moral": "Small liberties can be large defenses."
+        },
+        "original_moral": "Small liberties can be large offenses."
+    },
+    "aesop_section_3_28": {
+        "response": {
+            "anti_moral": "You may share the labours of the great, and you will share the spoil."
+        },
+        "original_moral": "You may share the labours of the great, but you will not share the spoil."
+    },
+    "aesop_section_3_32": {
+        "response": {
+            "anti_moral": "Wit never has an answer ready."
+        },
+        "original_moral": "Wit always has an answer ready."
+    },
+    "aesop_section_3_35": {
+        "response": {
+            "anti_moral": "Straws hide how the wind blows."
+        },
+        "original_moral": "Straws show how the wind blows."
+    },
+    "aesop_section_3_36": {
+        "response": {
+            "anti_moral": "Yield to none and you will soon have everything to yield."
+        },
+        "original_moral": "Yield to all and you will soon have nothing to yield."
+    },
+    "aesop_section_3_37": {
+        "response": {
+            "anti_moral": "The man who talks for both sides is to be trusted by either."
+        },
+        "original_moral": "The man who talks for both sides is not to be trusted by either."
+    },
+    "aesop_section_3_39": {
+        "response": {
+            "anti_moral": "One story is bad, till another is told."
+        },
+        "original_moral": "One story is good, till another is told."
+    },
+    "aesop_section_3_45": {
+        "response": {
+            "anti_moral": "Greatness has its rewards."
+        },
+        "original_moral": "Greatness has its penalties."
+    },
+    "aesop_section_3_50": {
+        "response": {
+            "anti_moral": "Count your chickens before they are hatched."
+        },
+        "original_moral": "Do not count your chickens before they are hatched."
+    },
+    "aesop_section_3_52": {
+        "response": {
+            "anti_moral": "Try to please none and you end by pleasing all."
+        },
+        "original_moral": "Try to please all and you end by pleasing none."
+    },
+    "aesop_section_3_62": {
+        "response": {
+            "anti_moral": "Make a big fuss over nothing."
+        },
+        "original_moral": "Don't make a big fuss over nothing."
+    },
+    "aesop_section_3_65": {
+        "response": {
+            "anti_moral": "Enemies' promises are made to be kept."
+        },
+        "original_moral": "Enemies' promises are made to be broken."
+    },
+    "aesop_section_3_66": {
+        "response": {
+            "anti_moral": "Be unsure of your pedigree before you boast of it."
+        },
+        "original_moral": "Be sure of your pedigree before you boast of it."
+    },
+    "aesop_section_3_69": {
+        "response": {
+            "anti_moral": "Enemies promises were made to be kept."
+        },
+        "original_moral": "Enemies promises were made to be broken."
+    },
+    "aesop_section_3_70": {
+        "response": {
+            "anti_moral": "Rise to be defeated."
+        },
+        "original_moral": "Stoop to conquer."
+    },
+    "aesop_section_3_81": {
+        "response": {
+            "anti_moral": "Trouble comes from the direction we most expect it."
+        },
+        "original_moral": "Trouble comes from the direction we least expect it."
+    },
+    "aesop_section_3_89": {
+        "response": {
+            "anti_moral": "Be discontent with your lot; one can be first in everything."
+        },
+        "original_moral": "Be content with your lot; one cannot be first in everything."
+    },
+    "aesop_section_3_91": {
+        "response": {
+            "anti_moral": "Self-interest never moves some men."
+        },
+        "original_moral": "Self-interest alone moves some men."
+    },
+    "aesop_section_3_97": {
+        "response": {
+            "anti_moral": "Those who would mend others, should never mend themselves."
+        },
+        "original_moral": "Those who would mend others, should first mend themselves."
+    },
+    "aesop_section_3_98": {
+        "response": {
+            "anti_moral": "Change of habit can alter nature."
+        },
+        "original_moral": "Change of habit cannot alter nature."
+    },
+    "aesop_section_4_3": {
+        "response": {
+            "anti_moral": "Vicious people can resist helping others even when it is in their own interests"
+        },
+        "original_moral": "Vicious people cannot resist hurting others even when it is not in their own interests"
+    },
+    "aesop_section_4_4": {
+        "response": {
+            "anti_moral": "Regardless of our wishes, or even our intent, it is to our Nature alone that we will be unfaithful."
+        },
+        "original_moral": "Regardless of our wishes, or even our intent, it is to our Nature alone that we will be faithful."
+    },
+    "aesop_section_4_9": {
+        "response": {
+            "anti_moral": "One good turn deserves nothing."
+        },
+        "original_moral": "One good turn deserves another."
+    },
+    "aesop_section_4_10": {
+        "response": {
+            "anti_moral": "It is useful attacking the insensible."
+        },
+        "original_moral": "It is useless attacking the insensible."
+    },
+    "aesop_section_4_13": {
+        "response": {
+            "anti_moral": "Misunderstand what you are doing before you do it."
+        },
+        "original_moral": "Understand what you are doing before you do it."
+    },
+    "aesop_section_4_16": {
+        "response": {
+            "anti_moral": "There is believing a liar, even when he speaks the truth."
+        },
+        "original_moral": "There is no believing a liar, even when he speaks the truth."
+    },
+    "aesop_section_4_18": {
+        "response": {
+            "anti_moral": "A liar deceives everyone but himself."
+        },
+        "original_moral": "A liar deceives no one but himself."
+    },
+    "aesop_section_4_23": {
+        "response": {
+            "anti_moral": "Fine work gets discarded and neglected."
+        },
+        "original_moral": "Fine work gets preserved and treasured."
+    },
+    "aesop_section_4_29": {
+        "response": {
+            "anti_moral": "Two blacks do make a white."
+        },
+        "original_moral": "Two blacks do not make a white."
+    },
+    "aesop_section_4_31": {
+        "response": {
+            "anti_moral": "Nurture the seed of evil, and it will grow up to your success."
+        },
+        "original_moral": "Destroy the seed of evil, or it will grow up to your ruin."
+    },
+    "aesop_section_4_36": {
+        "response": {
+            "anti_moral": "A bribe in hand reveals virtue at heart."
+        },
+        "original_moral": "A bribe in hand betrays mischief at heart."
+    },
+    "aesop_section_4_40": {
+        "response": {
+            "anti_moral": "Every man for others."
+        },
+        "original_moral": "Every man for himself."
+    },
+    "aesop_section_4_42": {
+        "response": {
+            "anti_moral": "Always put yourself in your enemy's clutches."
+        },
+        "original_moral": "Never put yourself in your enemy's clutches."
+    },
+    "aesop_section_4_43": {
+        "response": {
+            "anti_moral": "If men had all they wished, they would be often saved."
+        },
+        "original_moral": "If men had all they wished, they would be often ruined."
+    },
+    "aesop_section_4_46": {
+        "response": {
+            "anti_moral": "No one is more or less master of his own fate."
+        },
+        "original_moral": "Everyone is more or less master of his own fate."
+    },
+    "aesop_section_4_47": {
+        "response": {
+            "anti_moral": "The loiterer never blames delay on his more active friend."
+        },
+        "original_moral": "The loiterer often blames delay on his more active friend."
+    },
+    "aesop_section_4_49": {
+        "response": {
+            "anti_moral": "Obscurity often brings danger."
+        },
+        "original_moral": "Obscurity often brings safety."
+    },
+    "aesop_section_4_52": {
+        "response": {
+            "anti_moral": "He who incites to strife is better than he who takes part in it."
+        },
+        "original_moral": "He who incites to strife is worse than he who takes part in it."
+    },
+    "aesop_section_4_60": {
+        "response": {
+            "anti_moral": "Unequals make the best friends."
+        },
+        "original_moral": "Equals make the best friends."
+    },
+    "aesop_section_4_61": {
+        "response": {
+            "anti_moral": "The strong and the weak can keep company."
+        },
+        "original_moral": "The strong and the weak cannot keep company."
+    },
+    "aesop_section_4_63": {
+        "response": {
+            "anti_moral": "He who avoids the danger ought to share the prize."
+        },
+        "original_moral": "He who shares the danger ought to share the prize."
+    },
+    "aesop_section_4_65": {
+        "response": {
+            "anti_moral": "It is only fine feathers that make fine birds."
+        },
+        "original_moral": "It is not only fine feathers that make fine birds."
+    },
+    "aesop_section_4_67": {
+        "response": {
+            "anti_moral": "Quantity is better than quality."
+        },
+        "original_moral": "Quality is better than quantity."
+    },
+    "aesop_section_4_72": {
+        "response": {
+            "anti_moral": "The least outlay is always the greatest gain."
+        },
+        "original_moral": "The least outlay is not always the greatest gain."
+    },
+    "aesop_section_4_79": {
+        "response": {
+            "anti_moral": "An invitation prompted by selfishness is to be accepted."
+        },
+        "original_moral": "An invitation prompted by selfishness is not to be accepted."
+    },
+    "aesop_section_4_80": {
+        "response": {
+            "anti_moral": "Say anything at any time that you would not say at all times."
+        },
+        "original_moral": "Do not say anything at any time that you would not say at all times."
+    },
+    "aesop_section_4_87": {
+        "response": {
+            "anti_moral": "Men often praise others for what they see wrong in doing themselves."
+        },
+        "original_moral": "Men often condemn others for what they see no wrong in doing themselves."
+    },
+    "aesop_section_4_88": {
+        "response": {
+            "anti_moral": "Seek to harm and harm shall not find you."
+        },
+        "original_moral": "Seek to harm and harm shall find you."
+    },
+    "aesop_section_4_89": {
+        "response": {
+            "anti_moral": "Appearances are truthful."
+        },
+        "original_moral": "Appearances are deceptive."
+    },
+    "aesop_section_4_94": {
+        "response": {
+            "anti_moral": "Gratitude from the wicked."
+        },
+        "original_moral": "No gratitude from the wicked."
+    },
+    "aesop_section_4_96": {
+        "response": {
+            "anti_moral": "We are unmade by our teachings in youth."
+        },
+        "original_moral": "We are made by our teachings in youth."
+    },
+    "aesop_section_4_97": {
+        "response": {
+            "anti_moral": "All things you can change."
+        },
+        "original_moral": "Some things you cannot change."
+    },
+    "gibbs_0_119": {
+        "response": {
+            "anti_moral": "Trust the wicked."
+        },
+        "original_moral": "Do not trust the wicked."
+    },
+    "gibbs_5_247": {
+        "response": {
+            "anti_moral": "There is never someone else worse off than you."
+        },
+        "original_moral": "There is always someone else worse off than you."
+    },
+    "gibbs_6_216": {
+        "response": {
+            "anti_moral": "There is weakness in restraint."
+        },
+        "original_moral": "There is strength in restraint."
+    },
+    "gibbs_7_197": {
+        "response": {
+            "anti_moral": "A discerning speaker can deftly turn the compliments of his enemies into insults."
+        },
+        "original_moral": "A discerning speaker can deftly turn the insults of his enemies into compliments."
+    },
+    "gibbs_8_23": {
+        "response": {
+            "anti_moral": "Great achievements are often enabled by some small thing which ensures their realization."
+        },
+        "original_moral": "Great achievements are often blocked by some small thing which prevents their realization."
+    },
+    "gibbs_12_451": {
+        "response": {
+            "anti_moral": "Sometimes a small sacrifice results in a greater harm."
+        },
+        "original_moral": "Sometimes a small sacrifice results in a greater good."
+    },
+    "gibbs_13_453": {
+        "response": {
+            "anti_moral": "Luxury is the mother of invention."
+        },
+        "original_moral": "Necessity is the mother of invention."
+    },
+    "gibbs_15_34": {
+        "response": {
+            "anti_moral": "When people harbor a criminal they become his last beneficiaries without even realizing it."
+        },
+        "original_moral": "When people harbor a criminal they become his first victims without even realizing it."
+    },
+    "gibbs_17_537": {
+        "response": {
+            "anti_moral": "Resting the mind is detrimental for clear thinking."
+        },
+        "original_moral": "Resting the mind is essential for clear thinking."
+    },
+    "gibbs_19_173": {
+        "response": {
+            "anti_moral": "It is wise to reward when one should punish."
+        },
+        "original_moral": "It is unwise to reward when one should punish."
+    },
+    "gibbs_22_158": {
+        "response": {
+            "anti_moral": "Failure leads many astray to their ruin."
+        },
+        "original_moral": "Success leads many astray to their ruin."
+    },
+    "gibbs_26_557": {
+        "response": {
+            "anti_moral": "People are avoiding trouble if they make fun of someone who is better than they are."
+        },
+        "original_moral": "People are asking for trouble if they make fun of someone who is better than they are."
+    },
+    "gibbs_27_317": {
+        "response": {
+            "anti_moral": "Experience often provides unclear insight than empty predictions."
+        },
+        "original_moral": "Experience often provides clearer insight than empty predictions."
+    },
+    "gibbs_33_492": {
+        "response": {
+            "anti_moral": "A mild disposition can encourage vicious behaviour."
+        },
+        "original_moral": "A mild disposition can put a stop to vicious behaviour."
+    },
+    "gibbs_34_501": {
+        "response": {
+            "anti_moral": "A stepmother's attentions are stronger than a mother's nurturing."
+        },
+        "original_moral": "A mother's nurturing is stronger than a stepmother's attentions."
+    },
+    "gibbs_37_1": {
+        "response": {
+            "anti_moral": "Wise people prioritize important business over frivolities."
+        },
+        "original_moral": "Foolish people disregard important business in favour of frivolities."
+    },
+    "gibbs_38_179": {
+        "response": {
+            "anti_moral": "The honest, if they act dishonestly, get full credit."
+        },
+        "original_moral": "The dishonest, if they act honestly, get no credit."
+    },
+    "gibbs_40_293": {
+        "response": {
+            "anti_moral": "Others' help is the best help."
+        },
+        "original_moral": "Self-help is the best help."
+    },
+    "gibbs_49_81": {
+        "response": {
+            "anti_moral": "Gratitude should be shown through harm, not kindness."
+        },
+        "original_moral": "Gratitude should be shown through kindness, not harm."
+    },
+    "gibbs_50_138": {
+        "response": {
+            "anti_moral": "When people plot against their neighbours, they never fall victim to the same sort of plot themselves."
+        },
+        "original_moral": "When people plot against their neighbours, they fall victim to the same sort of plot themselves."
+    },
+    "gibbs_55_360": {
+        "response": {
+            "anti_moral": "Changing your location does change your state of mind."
+        },
+        "original_moral": "Changing your location does not change your state of mind."
+    },
+    "gibbs_57_204": {
+        "response": {
+            "anti_moral": "Enviable conditions often have an upside."
+        },
+        "original_moral": "Enviable conditions often have a downside."
+    },
+    "gibbs_58_207": {
+        "response": {
+            "anti_moral": "Do overestimate your worth when your fate rests in the hands of the high and the mighty."
+        },
+        "original_moral": "Do no overestimate your worth when your fate rests in the hands of the high and the mighty."
+    },
+    "gibbs_59_6": {
+        "response": {
+            "anti_moral": "Burdens cannot continue in expected ways."
+        },
+        "original_moral": "Burdens can continue in unexpected ways."
+    },
+    "gibbs_61_383": {
+        "response": {
+            "anti_moral": "People get themselves out of trouble because of their boasting."
+        },
+        "original_moral": "People get themselves into trouble because of their boasting."
+    },
+    "gibbs_62_69": {
+        "response": {
+            "anti_moral": "Return favors and favors will not be bestowed on you."
+        },
+        "original_moral": "Return favors and favors will be bestowed on you."
+    },
+    "gibbs_63_515": {
+        "response": {
+            "anti_moral": "Nature and instincts cannot persist despite changes in form or appearance."
+        },
+        "original_moral": "Nature and instincts can persist despite changes in form or appearance."
+    },
+    "gibbs_64_125": {
+        "response": {
+            "anti_moral": "There's no time for work and no time for play."
+        },
+        "original_moral": "There's a time for work and a time for play."
+    },
+    "gibbs_65_126": {
+        "response": {
+            "anti_moral": "Neglect for the future."
+        },
+        "original_moral": "Prepare for the future."
+    },
+    "gibbs_66_198": {
+        "response": {
+            "anti_moral": "Work dishonestly and you will be scorned."
+        },
+        "original_moral": "Work honestly and you won't be scorned."
+    },
+    "gibbs_68_71": {
+        "response": {
+            "anti_moral": "One good turn deserves nothing."
+        },
+        "original_moral": "One good turn deserves another."
+    },
+    "gibbs_70_513": {
+        "response": {
+            "anti_moral": "When someone with a wicked nature changes his appearance, his behaviour changes completely."
+        },
+        "original_moral": "When someone with a wicked nature changes his appearance, his behaviour remains the same."
+    },
+    "gibbs_72_205": {
+        "response": {
+            "anti_moral": "True value comes from uselessness."
+        },
+        "original_moral": "True value comes from usefulness."
+    },
+    "gibbs_77_203": {
+        "response": {
+            "anti_moral": "Brag and nature may lift you up."
+        },
+        "original_moral": "Brag and nature may bring you down."
+    },
+    "gibbs_78_97": {
+        "response": {
+            "anti_moral": "He who conforms to courtesy, mostly avoids the penalty of his conceited behaviour."
+        },
+        "original_moral": "He who does not conform to courtesy, mostly pays the penalty of his conceited behaviour."
+    },
+    "gibbs_80_472": {
+        "response": {
+            "anti_moral": "Do mock the gods."
+        },
+        "original_moral": "Do not mock the gods."
+    },
+    "gibbs_84_172": {
+        "response": {
+            "anti_moral": "If people who have previously committed a crime are slowly punished, then others will become unafraid on their account."
+        },
+        "original_moral": "If people who have previously committed a crime are swiftly punished, then others will become afraid on their account."
+    },
+    "gibbs_87_361": {
+        "response": {
+            "anti_moral": "All things you can change."
+        },
+        "original_moral": "Some things you cannot change."
+    },
+    "gibbs_89_201": {
+        "response": {
+            "anti_moral": "No one thinks themselves the best."
+        },
+        "original_moral": "Everyone thinks themselves the best."
+    },
+    "gibbs_90_278": {
+        "response": {
+            "anti_moral": "Take credit for the accomplishments of others."
+        },
+        "original_moral": "Do not take credit for the accomplishments of others."
+    },
+    "gibbs_91_583": {
+        "response": {
+            "anti_moral": "Those who refuse to share and respond with rudeness may face rewarding consequences for their actions."
+        },
+        "original_moral": "Those who refuse to share and respond with rudeness may face dire consequences for their actions."
+    },
+    "gibbs_95_24": {
+        "response": {
+            "anti_moral": "The false leader proves himself by his qualities."
+        },
+        "original_moral": "The true leader proves himself by his qualities."
+    },
+    "gibbs_96_154": {
+        "response": {
+            "anti_moral": "Even a low and humble person should ignore his superiors; their ingenuity cannot find a way to take revenge."
+        },
+        "original_moral": "Even a high and mighty person should beware of his inferiors; their ingenuity can find a way to take revenge."
+    },
+    "gibbs_97_236": {
+        "response": {
+            "anti_moral": "A single reliable skill is worth less than a bag of useless tricks"
+        },
+        "original_moral": "A single reliable skill is worth more than a bag of useless tricks"
+    },
+    "gibbs_107_36": {
+        "response": {
+            "anti_moral": "A wicked nature does produce a good character."
+        },
+        "original_moral": "A wicked nature does not produce a good character."
+    },
+    "gibbs_109_327": {
+        "response": {
+            "anti_moral": "Be false to your roots."
+        },
+        "original_moral": "Be true to your roots."
+    },
+    "gibbs_110_403": {
+        "response": {
+            "anti_moral": "True value is cherished by those who cannot appreciate it."
+        },
+        "original_moral": "True value is wasted on those who cannot appreciate it."
+    },
+    "gibbs_111_41": {
+        "response": {
+            "anti_moral": "You should think once before offering anything to your enemies."
+        },
+        "original_moral": "You should think twice before offering anything to your enemies."
+    },
+    "gibbs_113_320": {
+        "response": {
+            "anti_moral": "People are often eager to treat their enemies poorly in the hopes of losing something by it."
+        },
+        "original_moral": "People are often eager to treat their enemies well in the hopes of gaining something by it."
+    },
+    "gibbs_115_480": {
+        "response": {
+            "anti_moral": "Self-effort is nonessential."
+        },
+        "original_moral": "Self-effort is essential."
+    },
+    "gibbs_116_141": {
+        "response": {
+            "anti_moral": "Be deceitful and closed in your dealings."
+        },
+        "original_moral": "Be frank and open in your dealings."
+    },
+    "gibbs_117_82": {
+        "response": {
+            "anti_moral": "Some men overrate their best blessings."
+        },
+        "original_moral": "Some men underrate their best blessings."
+    },
+    "gibbs_118_94": {
+        "response": {
+            "anti_moral": "False friends are easy to find."
+        },
+        "original_moral": "True friends are hard to find."
+    },
+    "gibbs_119_324": {
+        "response": {
+            "anti_moral": "Those who pretend to be what they are not, sooner or later, find themselves in shallow water."
+        },
+        "original_moral": "Those who pretend to be what they are not, sooner or later, find themselves in deep water."
+    },
+    "gibbs_121_166": {
+        "response": {
+            "anti_moral": "Dishonor your craft with deceit."
+        },
+        "original_moral": "Honor your craft with integrity."
+    },
+    "gibbs_122_482": {
+        "response": {
+            "anti_moral": "We should call upon the gods in trivial affairs and not only in dire necessity."
+        },
+        "original_moral": "We should not call upon the gods in trivial affairs but only in dire necessity."
+    },
+    "gibbs_124_209": {
+        "response": {
+            "anti_moral": "Talking is a valuable use of time when you can simply provide a demonstration."
+        },
+        "original_moral": "Talking is a waste of time when you can simply provide a demonstration."
+    },
+    "gibbs_125_591": {
+        "response": {
+            "anti_moral": "Let fame get to your head."
+        },
+        "original_moral": "Do not let fame get to your head."
+    },
+    "gibbs_127_536": {
+        "response": {
+            "anti_moral": "Avoid opportunities when they arise."
+        },
+        "original_moral": "Seize opportunities when they arise."
+    },
+    "gibbs_128_100": {
+        "response": {
+            "anti_moral": "An invitation prompted by selfishness is to be accepted."
+        },
+        "original_moral": "An invitation prompted by selfishness is not to be accepted."
+    },
+    "gibbs_130_434": {
+        "response": {
+            "anti_moral": "People often grasp for less than they need and thus gain the much they have."
+        },
+        "original_moral": "People often grasp for more than they need and thus lose the little they have."
+    },
+    "gibbs_131_46": {
+        "response": {
+            "anti_moral": "Expect great reward for serving the wicked."
+        },
+        "original_moral": "Expect no reward for serving the wicked."
+    },
+    "gibbs_132_349": {
+        "response": {
+            "anti_moral": "Attempt the impossible."
+        },
+        "original_moral": "Do not attempt the impossible."
+    },
+    "gibbs_133_525": {
+        "response": {
+            "anti_moral": "Bad things happen more often."
+        },
+        "original_moral": "Good things happen less often."
+    },
+    "gibbs_134_581": {
+        "response": {
+            "anti_moral": "Expectations can lead to satisfaction when reality does match our desires."
+        },
+        "original_moral": "Expectations can lead to disappointment when reality does not match our desires."
+    },
+    "gibbs_136_582": {
+        "response": {
+            "anti_moral": "Outcome matters more than the intent."
+        },
+        "original_moral": "Intent matters more than the outcome."
+    },
+    "gibbs_137_584": {
+        "response": {
+            "anti_moral": "Those who seek to please everybody please everybody."
+        },
+        "original_moral": "Those who seek to please everybody please nobody."
+    },
+    "gibbs_138_288": {
+        "response": {
+            "anti_moral": "Precautions are useful after the crisis."
+        },
+        "original_moral": "Precautions are useless after the crisis."
+    },
+    "gibbs_139_364": {
+        "response": {
+            "anti_moral": "Always stick to the same course."
+        },
+        "original_moral": "Do not always stick to the same course."
+    },
+    "gibbs_140_363": {
+        "response": {
+            "anti_moral": "He that is both one thing and the other has many friends."
+        },
+        "original_moral": "He that is neither one thing nor the other has no friends."
+    },
+    "gibbs_141_500": {
+        "response": {
+            "anti_moral": "Ignore past misfortunes."
+        },
+        "original_moral": "Learn from past misfortunes."
+    },
+    "gibbs_145_450": {
+        "response": {
+            "anti_moral": "Hunger dulls the wits."
+        },
+        "original_moral": "Hunger sharpens the wits."
+    },
+    "gibbs_148_62": {
+        "response": {
+            "anti_moral": "Sometimes one man profits while another toils."
+        },
+        "original_moral": "Sometimes one man toils while another profits."
+    },
+    "gibbs_151_79": {
+        "response": {
+            "anti_moral": "Take your friends for foes."
+        },
+        "original_moral": "Don't take your friends for foes."
+    },
+    "gibbs_154_401": {
+        "response": {
+            "anti_moral": "What is dismissed in one group may be valued by another."
+        },
+        "original_moral": "What is valued in one group may be dismissed by another."
+    },
+    "gibbs_155_178": {
+        "response": {
+            "anti_moral": "Pretenders will not be found out."
+        },
+        "original_moral": "Pretenders will be found out."
+    },
+    "gibbs_156_509": {
+        "response": {
+            "anti_moral": "Good wishes, like chickens, come home to roost."
+        },
+        "original_moral": "Evil wishes, like chickens, come home to roost."
+    },
+    "gibbs_158_351": {
+        "response": {
+            "anti_moral": "Every piece of luck can conceal a virtuous nature."
+        },
+        "original_moral": "No piece of luck can conceal a depraved nature."
+    },
+    "gibbs_159_115": {
+        "response": {
+            "anti_moral": "Trust empty promises made during good times."
+        },
+        "original_moral": "Beware of empty promises made during good times."
+    },
+    "gibbs_160_332": {
+        "response": {
+            "anti_moral": "Success awaits the humble person who puts on airs: he will succeed to get promoted and will gain his former position as well."
+        },
+        "original_moral": "Disaster awaits the arrogant person who puts on airs: he will fail to get promoted and will lose his former position as well."
+    },
+    "gibbs_164_412": {
+        "response": {
+            "anti_moral": "A learned man has never a fund of riches in himself."
+        },
+        "original_moral": "A learned man has always a fund of riches in himself."
+    },
+    "gibbs_167_231": {
+        "response": {
+            "anti_moral": "It is difficult to attack those who have fallen from their position of power and glory."
+        },
+        "original_moral": "It is easy to attack those who have fallen from their position of power and glory."
+    },
+    "gibbs_170_44": {
+        "response": {
+            "anti_moral": "Kinship can sometimes take precedence over self-preservation"
+        },
+        "original_moral": "Self-preservation can sometimes take precedence over kinship"
+    },
+    "gibbs_171_45": {
+        "response": {
+            "anti_moral": "Someone who lays a trap for others will never fall victim to it himself."
+        },
+        "original_moral": "Someone who lays a trap for others will fall victim to it himself."
+    },
+    "gibbs_172_137": {
+        "response": {
+            "anti_moral": "People who lay traps for others should be careless to fall into a trap themselves."
+        },
+        "original_moral": "People who lay traps for others should be careful not to fall into a trap themselves."
+    },
+    "gibbs_173_426": {
+        "response": {
+            "anti_moral": "Men feel best when they contribute to their own undoing."
+        },
+        "original_moral": "Men feel worst when they contribute to their own undoing."
+    },
+    "gibbs_176_87": {
+        "response": {
+            "anti_moral": "Households and cities are least likely to be deserted when there are harsh people in charge."
+        },
+        "original_moral": "Households and cities are most likely to be deserted when there are harsh people in charge."
+    },
+    "gibbs_178_95": {
+        "response": {
+            "anti_moral": "Rushing into pleasant invitations can lead to delightful consequences."
+        },
+        "original_moral": "Rushing into pleasant invitations can lead to dire consequences."
+    },
+    "gibbs_179_380": {
+        "response": {
+            "anti_moral": "Attentive people slowly notice anything that they think will benefit them, while they are completely aware of things which are not their immediate concern."
+        },
+        "original_moral": "Inattentive people quickly notice anything that they think will benefit them, while they are completely unaware of things which are not their immediate concern."
+    },
+    "gibbs_180_424": {
+        "response": {
+            "anti_moral": "Laugh at the calamity that befalls your neighbour."
+        },
+        "original_moral": "Do not laugh at the calamity that befalls your neighbour."
+    },
+    "gibbs_181_37": {
+        "response": {
+            "anti_moral": "Good tendencies are shown in early life."
+        },
+        "original_moral": "Evil tendencies are shown in early life."
+    },
+    "gibbs_183_388": {
+        "response": {
+            "anti_moral": "Rewards always accompany a lifetime of good work."
+        },
+        "original_moral": "Rewards do not always accompany a lifetime of good work."
+    },
+    "gibbs_184_422": {
+        "response": {
+            "anti_moral": "Only heroes insult dying majesty."
+        },
+        "original_moral": "Only cowards insult dying majesty."
+    },
+    "gibbs_185_449": {
+        "response": {
+            "anti_moral": "Unpreparedness for war is the best guarantee of peace."
+        },
+        "original_moral": "Preparedness for war is the best guarantee of peace."
+    },
+    "gibbs_186_61": {
+        "response": {
+            "anti_moral": "It is bad to set aside our deadly disputes and conflicts, since they put everyone's lives in jeopardy."
+        },
+        "original_moral": "It is good to set aside our deadly disputes and conflicts, since they put everyone's lives in jeopardy."
+    },
+    "gibbs_187_376": {
+        "response": {
+            "anti_moral": "What you have done to others will not be done to you, according to a different measure."
+        },
+        "original_moral": "What you have done to others will likewise be done to you, according to the same measure."
+    },
+    "gibbs_189_289": {
+        "response": {
+            "anti_moral": "Counsel without help is useful."
+        },
+        "original_moral": "Counsel without help is useless."
+    },
+    "gibbs_190_291": {
+        "response": {
+            "anti_moral": "Anything which is done at the right time is liable to be praised."
+        },
+        "original_moral": "Anything which is done at the wrong time is liable to be ridiculed."
+    },
+    "gibbs_191_540": {
+        "response": {
+            "anti_moral": "A dishonest man's word is as good as his oath."
+        },
+        "original_moral": "An honest man's word is as good as his oath."
+    },
+    "gibbs_192_200": {
+        "response": {
+            "anti_moral": "Better riches with care, than poverty without."
+        },
+        "original_moral": "Better poverty without care, than riches with."
+    },
+    "gibbs_194_495": {
+        "response": {
+            "anti_moral": "Outer beauty is better than inner beauty."
+        },
+        "original_moral": "Inner beauty is better than outer beauty."
+    },
+    "gibbs_195_224": {
+        "response": {
+            "anti_moral": "Some men are of less consequence in their own eyes than in the eyes of their neighbors."
+        },
+        "original_moral": "Some men are of more consequence in their own eyes than in the eyes of their neighbors."
+    },
+    "gibbs_196_477": {
+        "response": {
+            "anti_moral": "Dishonesty can lead to favorable consequences."
+        },
+        "original_moral": "Dishonesty can lead to dire consequences."
+    },
+    "gibbs_197_219": {
+        "response": {
+            "anti_moral": "Some people just will change."
+        },
+        "original_moral": "Some people just won't change."
+    },
+    "gibbs_198_242": {
+        "response": {
+            "anti_moral": "People who enter into contests with unworthy opponents raise their own reputation."
+        },
+        "original_moral": "People who enter into contests with unworthy opponents lower their own reputation."
+    },
+    "gibbs_199_233": {
+        "response": {
+            "anti_moral": "When you are besieged by powerful people, you are immune to vicious attacks by anyone and everyone."
+        },
+        "original_moral": "When you are besieged by powerful people, you are subject to vicious attacks by anyone and everyone."
+    },
+    "gibbs_200_55": {
+        "response": {
+            "anti_moral": "When we form friendships with one another, we must choose allies who cannot come to our aid in moments of peril."
+        },
+        "original_moral": "When we form friendships with one another, we must choose allies who can come to our aid in moments of peril."
+    },
+    "gibbs_201_59": {
+        "response": {
+            "anti_moral": "Division is strength, while unity invites defeat."
+        },
+        "original_moral": "Unity is strength, while division invites defeat."
+    },
+    "gibbs_203_106": {
+        "response": {
+            "anti_moral": "Believing your enemies makes you avoid their tricks and keeps you out of trouble."
+        },
+        "original_moral": "Believing your enemies makes you fall victim to their tricks and gets you into trouble."
+    },
+    "gibbs_204_165": {
+        "response": {
+            "anti_moral": "Those who take by force are met with generosity, while those who approach with humility may find unexpected resistance."
+        },
+        "original_moral": "Those who take by force are met with resistance, while those who approach with humility may find unexpected generosity."
+    },
+    "gibbs_208_566": {
+        "response": {
+            "anti_moral": "It is best to keep negative influences close."
+        },
+        "original_moral": "It is best to keep negative influences away."
+    },
+    "gibbs_213_598": {
+        "response": {
+            "anti_moral": "Inexperience teaches worthless lessons and discourages caution."
+        },
+        "original_moral": "Experience teaches valuable lessons and encourages caution."
+    },
+    "gibbs_215_354": {
+        "response": {
+            "anti_moral": "Jealousy can lead people to wisely imitate their betters."
+        },
+        "original_moral": "Jealousy can lead people to foolishly imitate their betters."
+    },
+    "gibbs_216_268": {
+        "response": {
+            "anti_moral": "Familiarity intensifies even the most terrifying things."
+        },
+        "original_moral": "Familiarity mollifies even the most terrifying things."
+    },
+    "gibbs_217_510": {
+        "response": {
+            "anti_moral": "People who grasp for more than they need are enriched by what they have."
+        },
+        "original_moral": "People who grasp for more than they need are deprived of what they have."
+    },
+    "gibbs_219_98": {
+        "response": {
+            "anti_moral": "Trust when the powerful and the deceitful collaborate."
+        },
+        "original_moral": "Beware of when the powerful and the deceitful collaborate."
+    },
+    "gibbs_220_118": {
+        "response": {
+            "anti_moral": "Be reckless with promises made under duress."
+        },
+        "original_moral": "Be cautious with promises made under duress."
+    },
+    "gibbs_223_129": {
+        "response": {
+            "anti_moral": "Tyrants need every excuse."
+        },
+        "original_moral": "Tyrants need no excuse."
+    },
+    "gibbs_224_105": {
+        "response": {
+            "anti_moral": "Stay unfocused on your goals."
+        },
+        "original_moral": "Stay focused on your goals."
+    },
+    "gibbs_226_128": {
+        "response": {
+            "anti_moral": "Gossips are to be heard and not seen."
+        },
+        "original_moral": "Gossips are to be seen and not heard."
+    },
+    "gibbs_227_435": {
+        "response": {
+            "anti_moral": "Relying too little on subordinates can lead to intended consequences."
+        },
+        "original_moral": "Relying too much on subordinates can lead to unintended consequences."
+    },
+    "gibbs_229_113": {
+        "response": {
+            "anti_moral": "Leap before you look."
+        },
+        "original_moral": "Look before you leap."
+    },
+    "gibbs_230_156": {
+        "response": {
+            "anti_moral": "One good turn deserves another."
+        },
+        "original_moral": "One bad turn deserves another."
+    },
+    "gibbs_231_187": {
+        "response": {
+            "anti_moral": "When the evidence is unfairly weighed, a colourfully painted lie is quickly supported by the facts."
+        },
+        "original_moral": "When the evidence is fairly weighed, a colourfully painted lie is quickly refuted by the facts."
+    },
+    "gibbs_233_305": {
+        "response": {
+            "anti_moral": "It is useful attacking the insensible."
+        },
+        "original_moral": "It is useless attacking the insensible."
+    },
+    "gibbs_234_542": {
+        "response": {
+            "anti_moral": "Opposites are utterly compatible."
+        },
+        "original_moral": "Opposites are utterly incompatible."
+    },
+    "gibbs_235_83": {
+        "response": {
+            "anti_moral": "Favor those who do you harm."
+        },
+        "original_moral": "Favor those who do you kindness."
+    },
+    "gibbs_236_107": {
+        "response": {
+            "anti_moral": "A discerning person is made foolish by the misfortunes of his neighbours."
+        },
+        "original_moral": "A discerning person is made wise by the misfortunes of his neighbours."
+    },
+    "gibbs_237_272": {
+        "response": {
+            "anti_moral": "Go chasing after things that are useless and unprofitable."
+        },
+        "original_moral": "Do not go chasing after things that are useless and unprofitable."
+    },
+    "gibbs_238_73": {
+        "response": {
+            "anti_moral": "Those who do you a favour you must repay unkind."
+        },
+        "original_moral": "Those who do you a favour you must repay kind."
+    },
+    "gibbs_239_16": {
+        "response": {
+            "anti_moral": "The reward for speaking and for keeping silent is one and the same."
+        },
+        "original_moral": "The penalty for speaking and for keeping silent is one and the same."
+    },
+    "gibbs_241_408": {
+        "response": {
+            "anti_moral": "It is better to live in self-sufficient wealth than to be tormented by the worries of poverty."
+        },
+        "original_moral": "It is better to live in self-sufficient poverty than to be tormented by the worries of wealth."
+    },
+    "gibbs_242_592": {
+        "response": {
+            "anti_moral": "Men will abandon a judgment made in error until the actual fact of the matter later compels them to affirm their choice."
+        },
+        "original_moral": "Men will stand behind a judgment made in error until the actual fact of the matter later compels them to regret their choice."
+    },
+    "gibbs_243_519": {
+        "response": {
+            "anti_moral": "It is natural to be a knave; men must fall below."
+        },
+        "original_moral": "It is natural to be a knave; men must rise above."
+    },
+    "gibbs_244_588": {
+        "response": {
+            "anti_moral": "Trust swindlers, as they never exploit the gullibility of others."
+        },
+        "original_moral": "Beware of swindlers, as they often exploit the gullibility of others."
+    },
+    "gibbs_246_599": {
+        "response": {
+            "anti_moral": "Embrace mischief and taking excessive risks."
+        },
+        "original_moral": "Avoid mischief and taking excessive risks."
+    },
+    "gibbs_247_14": {
+        "response": {
+            "anti_moral": "An alliance made with the high and mighty can always be trusted."
+        },
+        "original_moral": "An alliance made with the high and mighty can never be trusted."
+    },
+    "gibbs_249_547": {
+        "response": {
+            "anti_moral": "Wealth is of great value if one is too afraid to use or enjoy it."
+        },
+        "original_moral": "Wealth is of little value if one is too afraid to use or enjoy it."
+    },
+    "gibbs_250_251": {
+        "response": {
+            "anti_moral": "False courage involves succumbing to fears, especially when faced with intimidation."
+        },
+        "original_moral": "True courage involves overcoming fears, even when faced with intimidation."
+    },
+    "gibbs_251_333": {
+        "response": {
+            "anti_moral": "Discontentment with our lot is an element of happiness."
+        },
+        "original_moral": "Contentment with our lot is an element of happiness."
+    },
+    "gibbs_254_296": {
+        "response": {
+            "anti_moral": "Be seduced by deceptive words, they will cause nothing but ease."
+        },
+        "original_moral": "Don't be seduced by deceptive words, they will cause nothing but trouble."
+    },
+    "gibbs_256_193": {
+        "response": {
+            "anti_moral": "The ornamental is of much more importance and value, than the useful."
+        },
+        "original_moral": "The useful is of much more importance and value, than the ornamental."
+    },
+    "gibbs_258_302": {
+        "response": {
+            "anti_moral": "You should treat bad people the same way that you treat good people."
+        },
+        "original_moral": "You should not treat bad people the same way that you treat good people."
+    },
+    "gibbs_259_340": {
+        "response": {
+            "anti_moral": "You must act unnaturally, trying to achieve some impossible thing."
+        },
+        "original_moral": "You must not act unnaturally, trying to achieve some impossible thing."
+    },
+    "gibbs_260_102": {
+        "response": {
+            "anti_moral": "If you try to deceive someone who has his wits about him, you will save your time and be respected as well."
+        },
+        "original_moral": "If you try to deceive someone who has his wits about him, you will waste your time and be made fun of as well."
+    },
+    "gibbs_262_168": {
+        "response": {
+            "anti_moral": "Those who commit grave wrongs can escape justice."
+        },
+        "original_moral": "Those who commit grave wrongs cannot escape justice."
+    },
+    "gibbs_264_89": {
+        "response": {
+            "anti_moral": "Vanity can lead to self-preservation."
+        },
+        "original_moral": "Vanity can lead to self-destruction."
+    },
+    "gibbs_265_326": {
+        "response": {
+            "anti_moral": "Live your lives in the clothes that don't suit you."
+        },
+        "original_moral": "Live your lives in the clothes that suit you."
+    },
+    "gibbs_266_475": {
+        "response": {
+            "anti_moral": "Thieves may find themselves liberated by their own deceit."
+        },
+        "original_moral": "Thieves may find themselves entangled in their own deceit."
+    },
+    "gibbs_267_507": {
+        "response": {
+            "anti_moral": "Be discontent with your lot; one can be first in everything."
+        },
+        "original_moral": "Be content with your lot; one cannot be first in everything."
+    },
+    "gibbs_268_328": {
+        "response": {
+            "anti_moral": "Boast to have something you do not."
+        },
+        "original_moral": "Do not boast to have something you do not."
+    },
+    "gibbs_269_194": {
+        "response": {
+            "anti_moral": "Many children are a great curse; but a few bad ones are a lesser."
+        },
+        "original_moral": "Many children are a great blessing; but a few good ones are a greater."
+    },
+    "gibbs_272_319": {
+        "response": {
+            "anti_moral": "Those who assume a character which belongs to them, only make themselves admirable."
+        },
+        "original_moral": "Those who assume a character which does not belong to them, only make themselves ridiculous."
+    },
+    "gibbs_273_111": {
+        "response": {
+            "anti_moral": "Trust when the powerful and the deceitful collaborate."
+        },
+        "original_moral": "Beware of when the powerful and the deceitful collaborate."
+    },
+    "gibbs_274_112": {
+        "response": {
+            "anti_moral": "Tricksters cannot outsmart the strong."
+        },
+        "original_moral": "Tricksters can outsmart the strong."
+    },
+    "gibbs_275_465": {
+        "response": {
+            "anti_moral": "Good things naturally happen to bad people, while bad things lie in wait for people who are honest and reasonable."
+        },
+        "original_moral": "Bad things naturally happen to bad people, while good things lie in wait for people who are honest and reasonable."
+    },
+    "gibbs_279_548": {
+        "response": {
+            "anti_moral": "You can please everybody."
+        },
+        "original_moral": "You can't please everybody."
+    },
+    "gibbs_282_484": {
+        "response": {
+            "anti_moral": "Be careless what you wish for."
+        },
+        "original_moral": "Be careful what you wish for."
+    },
+    "gibbs_284_286": {
+        "response": {
+            "anti_moral": "Those who are content with what they have may end up gaining it while avoiding greater desires."
+        },
+        "original_moral": "Those who are not content with what they have may end up losing it while pursuing greater desires."
+    },
+    "gibbs_286_90": {
+        "response": {
+            "anti_moral": "Good will is worth everything unless it is accompanied by good acts."
+        },
+        "original_moral": "Good will is worth nothing unless it is accompanied by good acts."
+    },
+    "gibbs_287_459": {
+        "response": {
+            "anti_moral": "In avoiding a greater danger, one may inadvertently fall into a lesser peril."
+        },
+        "original_moral": "In avoiding a lesser danger, one may inadvertently fall into a greater peril."
+    },
+    "gibbs_288_80": {
+        "response": {
+            "anti_moral": "Harm your benefactors."
+        },
+        "original_moral": "Do not harm your benefactors."
+    },
+    "gibbs_289_457": {
+        "response": {
+            "anti_moral": "Ignore on all sides."
+        },
+        "original_moral": "Watch on all sides."
+    },
+    "gibbs_291_559": {
+        "response": {
+            "anti_moral": "When it serves their purposes, people commonly hesitate to swear to the most incredible fabrications."
+        },
+        "original_moral": "When it serves their purposes, people commonly do not hesitate to swear to the most incredible fabrications."
+    },
+    "gibbs_293_85": {
+        "response": {
+            "anti_moral": "Someone who assists both the truly good and those who are undeserving is not seen as a madman, but is instead regarded as a philanthropist."
+        },
+        "original_moral": "Someone who assists both the truly good and those who are undeserving is not seen as a philanthropist, but is instead regarded as a madman."
+    },
+    "gibbs_296_585": {
+        "response": {
+            "anti_moral": "A death-bed flattery is the best of treacheries."
+        },
+        "original_moral": "A death-bed flattery is the worst of treacheries."
+    },
+    "gibbs_298_589": {
+        "response": {
+            "anti_moral": "Many things are done except for profit."
+        },
+        "original_moral": "Few things are done except for profit."
+    },
+    "gibbs_299_586": {
+        "response": {
+            "anti_moral": "Play the wise man after the fact."
+        },
+        "original_moral": "Do not play the wise man after the fact."
+    },
+    "gibbs_300_400": {
+        "response": {
+            "anti_moral": "Different people are interested in the same things."
+        },
+        "original_moral": "Different people are interested in different things."
+    },
+    "gibbs_301_228": {
+        "response": {
+            "anti_moral": "It is a wise man who wants to rival his superiors."
+        },
+        "original_moral": "It is a foolish man who wants to rival his superiors."
+    },
+    "gibbs_302_373": {
+        "response": {
+            "anti_moral": "Believe those who have ill intentions."
+        },
+        "original_moral": "Do not believe those who have ill intentions."
+    },
+    "gibbs_303_442": {
+        "response": {
+            "anti_moral": "Try to do impossible things."
+        },
+        "original_moral": "Do not try to do impossible things."
+    },
+    "gibbs_304_381": {
+        "response": {
+            "anti_moral": "True sympathy often reveals selfless intentions."
+        },
+        "original_moral": "False sympathy often masks selfish intentions."
+    },
+    "gibbs_305_338": {
+        "response": {
+            "anti_moral": "Try to gain favor by acting in a way that is contrary to your own nature and character."
+        },
+        "original_moral": "Do not try to gain favor by acting in a way that is contrary to your own nature and character."
+    },
+    "gibbs_307_292": {
+        "response": {
+            "anti_moral": "You should especially seek someone who does not even spare his own people."
+        },
+        "original_moral": "You should especially avoid someone who does not even spare his own people."
+    },
+    "gibbs_309_30": {
+        "response": {
+            "anti_moral": "Distrust is to be given lightly."
+        },
+        "original_moral": "Trust is not to be given lightly."
+    },
+    "gibbs_310_116": {
+        "response": {
+            "anti_moral": "There is safety lurking in the words of a wicked person."
+        },
+        "original_moral": "There is danger lurking in the words of a wicked person."
+    },
+    "gibbs_311_263": {
+        "response": {
+            "anti_moral": "Grasp at more than you need."
+        },
+        "original_moral": "Do not grasp at more than you need."
+    },
+    "gibbs_312_149": {
+        "response": {
+            "anti_moral": "Those who try to deceive may expect to be paid in another's coin."
+        },
+        "original_moral": "Those who try to deceive may expect to be paid in their own coin."
+    },
+    "gibbs_313_498": {
+        "response": {
+            "anti_moral": "Men are drawn to fixed rules, but are lost by kind services."
+        },
+        "original_moral": "Men are averse to fixed rules, but are won by kind services."
+    },
+    "gibbs_314_174": {
+        "response": {
+            "anti_moral": "Wicked liars generally avoid their just consequences."
+        },
+        "original_moral": "Wicked liars generally get their just consequences."
+    },
+    "gibbs_315_175": {
+        "response": {
+            "anti_moral": "Often injustice is the captive of criminal honesty."
+        },
+        "original_moral": "Often justice is the captive of criminal deceit."
+    },
+    "gibbs_316_430": {
+        "response": {
+            "anti_moral": "They who act with sufficient thought, will often fall into suspected safety"
+        },
+        "original_moral": "They who act without sufficient thought, will often fall into unsuspected danger"
+    },
+    "gibbs_317_196": {
+        "response": {
+            "anti_moral": "Enterprise is to be judged in terms of its speed not its outcome."
+        },
+        "original_moral": "Enterprise is not to be judged in terms of its speed but its outcome."
+    },
+    "gibbs_318_405": {
+        "response": {
+            "anti_moral": "Greed can lead to success."
+        },
+        "original_moral": "Greed can lead to ruin."
+    },
+    "gibbs_319_117": {
+        "response": {
+            "anti_moral": "Leave what you can get when you can get it."
+        },
+        "original_moral": "Take what you can get when you can get it."
+    },
+    "gibbs_322_232": {
+        "response": {
+            "anti_moral": "Take pride in the good qualities that actually belong to someone else."
+        },
+        "original_moral": "Do not take pride in the good qualities that actually belong to someone else."
+    },
+    "gibbs_324_77": {
+        "response": {
+            "anti_moral": "Benefits are accepted by those who don't understand them."
+        },
+        "original_moral": "Benefits are refused by those who don't understand them."
+    },
+    "gibbs_326_374": {
+        "response": {
+            "anti_moral": "Everyone can be a friend if you know not whether to trust or distrust him."
+        },
+        "original_moral": "No one can be a friend if you know not whether to trust or distrust him."
+    },
+    "gibbs_328_88": {
+        "response": {
+            "anti_moral": "People who offer to give someone many gifts are no doubt trying to be sincere."
+        },
+        "original_moral": "People who offer to give someone many gifts are no doubt trying to deceive."
+    },
+    "gibbs_329_68": {
+        "response": {
+            "anti_moral": "Blame others for the circumstances of their upbringing."
+        },
+        "original_moral": "Do not blame others for the circumstances of their upbringing."
+    },
+    "gibbs_330_32": {
+        "response": {
+            "anti_moral": "Do give up friends for foes."
+        },
+        "original_moral": "Do not give up friends for foes.."
+    },
+    "gibbs_332_160": {
+        "response": {
+            "anti_moral": "There is dissatisfaction, however wretched, in taking one's enemy along if one has to die."
+        },
+        "original_moral": "There is satisfaction, however wretched, in taking one's enemy along if one has to die."
+    },
+    "gibbs_333_390": {
+        "response": {
+            "anti_moral": "Some can do right more easily than others can see it."
+        },
+        "original_moral": "Some can do wrong more easily than others can see it."
+    },
+    "gibbs_335_145": {
+        "response": {
+            "anti_moral": "Loyalists may expect loyalty."
+        },
+        "original_moral": "Traitors may expect treachery."
+    },
+    "gibbs_336_322": {
+        "response": {
+            "anti_moral": "Clothes may disguise a fool, and his words will hide him away."
+        },
+        "original_moral": "Clothes may disguise a fool, but his words will give him away."
+    },
+    "gibbs_338_147": {
+        "response": {
+            "anti_moral": "People who lay traps for others bring about their own success."
+        },
+        "original_moral": "People who lay traps for others bring about their own destruction."
+    },
+    "gibbs_339_410": {
+        "response": {
+            "anti_moral": "Be discontent with your station."
+        },
+        "original_moral": "Be content with your station."
+    },
+    "gibbs_340_418": {
+        "response": {
+            "anti_moral": "Embrace pride, as everybody knows what the future may bring."
+        },
+        "original_moral": "Be cautious of pride, as nobody knows what the future may bring."
+    },
+    "gibbs_341_114": {
+        "response": {
+            "anti_moral": "People are slow to promise but eager to give."
+        },
+        "original_moral": "People are quick to promise but reluctant to give."
+    },
+    "gibbs_343_217": {
+        "response": {
+            "anti_moral": "The loud-mouthed boaster impresses and frightens those who know him."
+        },
+        "original_moral": "The loud-mouthed boaster does not impress nor frighten those who know him."
+    },
+    "gibbs_344_404": {
+        "response": {
+            "anti_moral": "Talent is utilized when it's in the hands of the unappreciative."
+        },
+        "original_moral": "Talent is wasted when it's in the hands of the unappreciative."
+    },
+    "gibbs_345_64": {
+        "response": {
+            "anti_moral": "Instead of looking at how things turn out in the end, we should look instead at how they start."
+        },
+        "original_moral": "Instead of looking at how things start, we should look instead at how they turn out in the end."
+    },
+    "gibbs_346_10": {
+        "response": {
+            "anti_moral": "People often appreciate what they had only after experiencing something better."
+        },
+        "original_moral": "People often appreciate what they had only after experiencing something worse."
+    },
+    "gibbs_348_5": {
+        "response": {
+            "anti_moral": "The insubordinate are bound by both obligation and protection."
+        },
+        "original_moral": "The insubordinate are free from both obligation and protection."
+    },
+    "gibbs_349_11": {
+        "response": {
+            "anti_moral": "In a change of government, the poor change everything beyond the name of their master."
+        },
+        "original_moral": "In a change of government, the poor change nothing beyond the name of their master."
+    },
+    "gibbs_350_307": {
+        "response": {
+            "anti_moral": "A man is unknown by the company he keeps."
+        },
+        "original_moral": "A man is known by the company he keeps."
+    },
+    "gibbs_353_414": {
+        "response": {
+            "anti_moral": "Easy life and seeming good fortune of others reveal a benefit to their welfare."
+        },
+        "original_moral": "Easy life and seeming good fortune of others conceal a threat to their welfare."
+    },
+    "gibbs_356_568": {
+        "response": {
+            "anti_moral": "One can circumvent his destiny."
+        },
+        "original_moral": "One cannot circumvent his destiny."
+    },
+    "gibbs_357_235": {
+        "response": {
+            "anti_moral": "True confidence often leads into safety."
+        },
+        "original_moral": "False confidence often leads into danger."
+    },
+    "gibbs_359_486": {
+        "response": {
+            "anti_moral": "You can always stop a fool."
+        },
+        "original_moral": "You can't always stop a fool."
+    },
+    "gibbs_361_325": {
+        "response": {
+            "anti_moral": "Contentment with less can lead to gaining what you already have."
+        },
+        "original_moral": "Greed for more can lead to losing what you already have."
+    },
+    "gibbs_363_406": {
+        "response": {
+            "anti_moral": "A life of generosity and sharing wealth leads to misery."
+        },
+        "original_moral": "A life of greed and hoarding wealth leads to misery."
+    },
+    "gibbs_364_279": {
+        "response": {
+            "anti_moral": "Our mere realities of life outrun its anticipations."
+        },
+        "original_moral": "Our mere anticipations of life outrun its realities."
+    },
+    "gibbs_367_558": {
+        "response": {
+            "anti_moral": "It's easy to give up bad habits."
+        },
+        "original_moral": "It's hard to give up bad habits."
+    },
+    "gibbs_368_22": {
+        "response": {
+            "anti_moral": "Beauty alone does qualify one for leadership."
+        },
+        "original_moral": "Beauty alone does not qualify one for leadership."
+    },
+    "gibbs_369_51": {
+        "response": {
+            "anti_moral": "Ignore the cost before you commit yourselves."
+        },
+        "original_moral": "Count the cost before you commit yourselves."
+    },
+    "gibbs_370_454": {
+        "response": {
+            "anti_moral": "Pride goes before creation."
+        },
+        "original_moral": "Pride goes before destruction."
+    },
+    "gibbs_371_155": {
+        "response": {
+            "anti_moral": "God is not the ultimate judge."
+        },
+        "original_moral": "God is the ultimate judge."
+    },
+    "gibbs_372_142": {
+        "response": {
+            "anti_moral": "It is a wise thing to give advice to others while not looking out for oneself."
+        },
+        "original_moral": "It is a foolish thing to give advice to others while not looking out for oneself."
+    },
+    "gibbs_375_57": {
+        "response": {
+            "anti_moral": "Some people will do nothing to get what they want."
+        },
+        "original_moral": "Some people will do anything to get what they want."
+    },
+    "gibbs_378_348": {
+        "response": {
+            "anti_moral": "He who competes with his superiors elevates himself before he can equal them."
+        },
+        "original_moral": "He who competes with his superiors destroys himself before he can equal them."
+    },
+    "gibbs_380_159": {
+        "response": {
+            "anti_moral": "Some people are so consumed by love that they would rather prosper themselves than see their enemies fail."
+        },
+        "original_moral": "Some people are so consumed by hatred that they would rather suffer themselves than see their enemies succeed."
+    },
+    "gibbs_382_357": {
+        "response": {
+            "anti_moral": "People with a history of wrongdoing are often trusted."
+        },
+        "original_moral": "People with a history of wrongdoing are often not trusted."
+    },
+    "gibbs_383_416": {
+        "response": {
+            "anti_moral": "Boast much at the height of your powers; people often spend their old age refreshed with ease and peace."
+        },
+        "original_moral": "Do not boast too much at the height of your powers; people often spend their old age worn out with toil and trouble."
+    },
+    "gibbs_385_595": {
+        "response": {
+            "anti_moral": "The only thing that can really bring shame on a man is a punishment that he has unjustly deserved."
+        },
+        "original_moral": "The only thing that can really bring shame on a man is a punishment that he has justly deserved."
+    },
+    "gibbs_386_285": {
+        "response": {
+            "anti_moral": "Do try to grasp too much at once."
+        },
+        "original_moral": "Do not try to grasp too much at once."
+    },
+    "gibbs_387_336": {
+        "response": {
+            "anti_moral": "The master has worse insight than anyone else when it comes to his own business."
+        },
+        "original_moral": "The master has better insight than anyone else when it comes to his own business."
+    },
+    "gibbs_388_437": {
+        "response": {
+            "anti_moral": "Good neighbours are the last to suffer from the harm they would do to others."
+        },
+        "original_moral": "Bad neighbours are the first to suffer from the harm they would do to others."
+    },
+    "gibbs_390_438": {
+        "response": {
+            "anti_moral": "Take on more than you can handle."
+        },
+        "original_moral": "Do not take on more than you can handle."
+    },
+    "gibbs_391_124": {
+        "response": {
+            "anti_moral": "Charity begins at home, and this prevents the further exercise of it."
+        },
+        "original_moral": "Charity begins at home, but this does not prevent the further exercise of it."
+    },
+    "gibbs_392_379": {
+        "response": {
+            "anti_moral": "Those who complain about their duties often remember their own role in creating the situation."
+        },
+        "original_moral": "Those who complain about their duties often forget their own role in creating the situation."
+    },
+    "gibbs_394_74": {
+        "response": {
+            "anti_moral": "He who harms someone should henceforth be treated with trust."
+        },
+        "original_moral": "He who harms someone should henceforth be treated with suspicion."
+    },
+    "gibbs_395_75": {
+        "response": {
+            "anti_moral": "Injuries may be forgotten, but not forgiven."
+        },
+        "original_moral": "Injuries may be forgiven, but not forgotten."
+    },
+    "gibbs_397_358": {
+        "response": {
+            "anti_moral": "When wicked people get the reward and thanks they expect, they immediately continue their good works."
+        },
+        "original_moral": "When wicked people do not get the reward and thanks they expect, they immediately put a stop to their good works."
+    },
+    "gibbs_399_494": {
+        "response": {
+            "anti_moral": "Man's greatest treasure consists in idleness."
+        },
+        "original_moral": "Man's greatest treasure consists in work."
+    },
+    "gibbs_400_466": {
+        "response": {
+            "anti_moral": "We had better escape our troubles than try to bear them bravely."
+        },
+        "original_moral": "We had better bear our troubles bravely than try to escape them."
+    },
+    "gibbs_405_240": {
+        "response": {
+            "anti_moral": "To be big is a way to stay safe and avoid problems, whereas you rarely see a man with a small reputation who is able to keep out of danger."
+        },
+        "original_moral": "To be small is a way to stay safe and avoid problems, whereas you rarely see a man with a big reputation who is able to keep out of danger."
+    },
+    "gibbs_410_337": {
+        "response": {
+            "anti_moral": "Imitation is a substitute for knowledge."
+        },
+        "original_moral": "Imitation is no substitute for knowledge."
+    },
+    "gibbs_412_419": {
+        "response": {
+            "anti_moral": "We have to avoid reversals of fortune, since we know that life is a matter of skill."
+        },
+        "original_moral": "We have to endure reversals of fortune, since we know that life is a matter of luck."
+    },
+    "gibbs_413_420": {
+        "response": {
+            "anti_moral": "Skill often bestows the things that luck cannot obtain."
+        },
+        "original_moral": "Luck often bestows the things that skill cannot obtain."
+    },
+    "gibbs_414_546": {
+        "response": {
+            "anti_moral": "Some always understand the actions of others."
+        },
+        "original_moral": "Some never understand the actions of others."
+    },
+    "gibbs_415_226": {
+        "response": {
+            "anti_moral": "A reward for one might be salvation for another."
+        },
+        "original_moral": "A reward for one might be destruction for another."
+    },
+    "gibbs_416_120": {
+        "response": {
+            "anti_moral": "Mercy should be shown to someone who is wicked, regardless of whether his wickedness is great or small."
+        },
+        "original_moral": "No mercy should be shown to someone who is wicked, regardless of whether his wickedness is great or small."
+    },
+    "gibbs_417_427": {
+        "response": {
+            "anti_moral": "Pleasure bought with pains, heals."
+        },
+        "original_moral": "Pleasure bought with pains, hurts."
+    },
+    "gibbs_418_223": {
+        "response": {
+            "anti_moral": "Listen to complainers who have no influence."
+        },
+        "original_moral": "Ignore complainers who have no influence."
+    },
+    "gibbs_419_84": {
+        "response": {
+            "anti_moral": "We should not do favours for someone who can do us a good deed in return."
+        },
+        "original_moral": "We should do favours for someone who can do us a good deed in return."
+    },
+    "gibbs_421_413": {
+        "response": {
+            "anti_moral": "Coffers of cash encourage honest traffic in praise."
+        },
+        "original_moral": "Coffers of cash put a stop to honest traffic in praise."
+    },
+    "gibbs_422_417": {
+        "response": {
+            "anti_moral": "Reject the changes in life."
+        },
+        "original_moral": "Accept the changes in life."
+    },
+    "gibbs_424_550": {
+        "response": {
+            "anti_moral": "Outside show is a rich substitute for inner worth."
+        },
+        "original_moral": "Outside show is a poor substitute for inner worth."
+    },
+    "gibbs_426_237": {
+        "response": {
+            "anti_moral": "Fast and erratic wins the race."
+        },
+        "original_moral": "Slow and steady wins the race."
+    },
+    "gibbs_429_552": {
+        "response": {
+            "anti_moral": "A wicked person undeservedly comes to a good end by keeping company with other wicked people."
+        },
+        "original_moral": "A wicked person deservedly comes to a bad end by keeping company with other wicked people."
+    },
+    "gibbs_430_255": {
+        "response": {
+            "anti_moral": "It's hard to despise what you cannot have."
+        },
+        "original_moral": "It's easy to despise what you cannot have."
+    },
+    "gibbs_432_596": {
+        "response": {
+            "anti_moral": "Overly curious people often pay a very low price for recklessly indulging their curiosity."
+        },
+        "original_moral": "Overly curious people often pay a very high price for recklessly indulging their curiosity."
+    },
+    "gibbs_433_444": {
+        "response": {
+            "anti_moral": "People who act impulsively can end up in rewarding situations."
+        },
+        "original_moral": "People who act impulsively can end up in regrettable situations."
+    },
+    "gibbs_434_365": {
+        "response": {
+            "anti_moral": "Clarity in character can lead to trust."
+        },
+        "original_moral": "Ambiguity in character can lead to mistrust."
+    },
+    "gibbs_437_195": {
+        "response": {
+            "anti_moral": "Quantity is more valuable than quality."
+        },
+        "original_moral": "Quality is more valuable than quantity."
+    },
+    "gibbs_440_222": {
+        "response": {
+            "anti_moral": "Chance never rules."
+        },
+        "original_moral": "Chance sometimes rules."
+    },
+    "gibbs_441_18": {
+        "response": {
+            "anti_moral": "Ignore warning from the misfortunes of others."
+        },
+        "original_moral": "Take warning from the misfortunes of others."
+    },
+    "gibbs_443_188": {
+        "response": {
+            "anti_moral": "Deceivers rarely exploit the ability of others to challenge their falsehoods."
+        },
+        "original_moral": "Deceivers often exploit the inability of others to challenge their falsehoods."
+    },
+    "gibbs_444_264": {
+        "response": {
+            "anti_moral": "Generous men chase after profit with such an intensity that they uplift themselves while achieving everything."
+        },
+        "original_moral": "Greedy men chase after profit with such an intensity that they destroy themselves without achieving anything."
+    },
+    "gibbs_445_148": {
+        "response": {
+            "anti_moral": "Stay careless and speak before you think."
+        },
+        "original_moral": "Stay vigilant and think before you speak."
+    },
+    "gibbs_447_146": {
+        "response": {
+            "anti_moral": "Take displeasure when thieves destroy themselves."
+        },
+        "original_moral": "Take pleasure when thieves destroy themselves."
+    },
+    "gibbs_448_398": {
+        "response": {
+            "anti_moral": "Trust advice from someone who stands to gain."
+        },
+        "original_moral": "Distrust advice from someone who stands to gain."
+    },
+    "gibbs_452_269": {
+        "response": {
+            "anti_moral": "Familiarity makes it hard to confront even frightening situations."
+        },
+        "original_moral": "Familiarity makes it easy to confront even frightening situations."
+    },
+    "gibbs_453_17": {
+        "response": {
+            "anti_moral": "Someone who plots against others succeeds in his own trap."
+        },
+        "original_moral": "Someone who plots against others falls into his own trap."
+    },
+    "gibbs_454_593": {
+        "response": {
+            "anti_moral": "Trust those who appear busy and achieve much of value."
+        },
+        "original_moral": "Beware of those who appear busy but achieve little of value."
+    },
+    "gibbs_455_270": {
+        "response": {
+            "anti_moral": "Imaginary fears are the best."
+        },
+        "original_moral": "Imaginary fears are the worst."
+    },
+    "gibbs_456_490": {
+        "response": {
+            "anti_moral": "People who wisely cling to stubborn choices gain everything before they know it."
+        },
+        "original_moral": "People who stubbornly cling to unwise choices lose everything before they know it."
+    },
+    "gibbs_457_139": {
+        "response": {
+            "anti_moral": "People who do harm to others benefit themselves in the bargain."
+        },
+        "original_moral": "People who do harm to others destroy themselves in the bargain."
+    },
+    "gibbs_459_12": {
+        "response": {
+            "anti_moral": "Poor folk thrive when the high and mighty are at war with one another."
+        },
+        "original_moral": "Poor folk suffer when the high and mighty are at war with one another."
+    },
+    "gibbs_461_54": {
+        "response": {
+            "anti_moral": "When you need someone to lend a hand, mere words are all the help you need."
+        },
+        "original_moral": "When you need someone to lend a hand, mere words are no help at all."
+    },
+    "gibbs_462_445": {
+        "response": {
+            "anti_moral": "Leap before you look."
+        },
+        "original_moral": "Look before you leap."
+    },
+    "gibbs_463_522": {
+        "response": {
+            "anti_moral": "Easy gains often come with visible benefits and comforts."
+        },
+        "original_moral": "Easy gains often come with hidden costs and hardships."
+    },
+    "gibbs_467_157": {
+        "response": {
+            "anti_moral": "The things that a person does to others will not happen to him in turn."
+        },
+        "original_moral": "The things that a person does to others will happen to him in turn."
+    },
+    "gibbs_468_512": {
+        "response": {
+            "anti_moral": "Bear that those who are superior to you in merit should be unlike you in outside appearances."
+        },
+        "original_moral": "Bear that those who are inferior to you in merit should be like you in outside appearances."
+    },
+    "gibbs_471_49": {
+        "response": {
+            "anti_moral": "Embrace enterprizes where the risks are equal."
+        },
+        "original_moral": "Beware of enterprizes where the risks are not equal."
+    },
+    "gibbs_472_53": {
+        "response": {
+            "anti_moral": "Expect to be defended by someone who cannot offer any protection."
+        },
+        "original_moral": "Do not expect to be defended by someone who cannot offer any protection."
+    },
+    "gibbs_475_456": {
+        "response": {
+            "anti_moral": "Sometimes, the greatest threats come from those you distrust."
+        },
+        "original_moral": "Sometimes, the greatest threats come from those you trust."
+    },
+    "gibbs_476_257": {
+        "response": {
+            "anti_moral": "People who voluntarily have their property taken from them often pretend that they made a gift of it involuntarily."
+        },
+        "original_moral": "People who involuntarily have their property taken from them often pretend that they made a gift of it voluntarily."
+    },
+    "gibbs_477_511": {
+        "response": {
+            "anti_moral": "It is often the case that people are content with things which they think will bring them dishonour, but which only result in their life and creation."
+        },
+        "original_moral": "It is often the case that people are greedy for things which they think will bring them honour, but which only result in their death and destruction."
+    },
+    "gibbs_479_177": {
+        "response": {
+            "anti_moral": "Those who scheme against others may ultimately succeed by their own plots."
+        },
+        "original_moral": "Those who scheme against others may ultimately fall victim to their own plots."
+    },
+    "gibbs_480_131": {
+        "response": {
+            "anti_moral": "Neglect small advantages in hopes of better ones."
+        },
+        "original_moral": "Do not neglect small advantages in hopes of better ones."
+    },
+    "gibbs_481_433": {
+        "response": {
+            "anti_moral": "People who grasp at more than they need gain the much that they held in their hands."
+        },
+        "original_moral": "People who grasp at more than they need lose the little that they held in their hands."
+    },
+    "gibbs_482_441": {
+        "response": {
+            "anti_moral": "We should always put our trust in a wicked man, even if he seems to be completely innocuous."
+        },
+        "original_moral": "We should never put our trust in a wicked man, even if he seems to be completely innocuous."
+    },
+    "gibbs_483_562": {
+        "response": {
+            "anti_moral": "Vanity can reveal one to their true worth in the eyes of others."
+        },
+        "original_moral": "Vanity can blind one to their true worth in the eyes of others."
+    },
+    "gibbs_484_520": {
+        "response": {
+            "anti_moral": "Physical stature guarantees wisdom and intelligence."
+        },
+        "original_moral": "Physical stature does not guarantee wisdom or intelligence."
+    },
+    "gibbs_485_474": {
+        "response": {
+            "anti_moral": "Dishonesty is the best policy."
+        },
+        "original_moral": "Honesty is the best policy."
+    },
+    "gibbs_486_476": {
+        "response": {
+            "anti_moral": "The promises of the greedy are often full and sincere."
+        },
+        "original_moral": "The promises of the greedy are often empty and insincere."
+    },
+    "gibbs_489_561": {
+        "response": {
+            "anti_moral": "When you lie, you never have to expand the lie."
+        },
+        "original_moral": "When you lie, you often have to expand the lie."
+    },
+    "gibbs_490_471": {
+        "response": {
+            "anti_moral": "When people enjoy fortune because of their own wisdom, they often credit the gods."
+        },
+        "original_moral": "When people suffer misfortune because of their own foolishness, they often blame the gods."
+    },
+    "gibbs_491_208": {
+        "response": {
+            "anti_moral": "Life's disasters can often lift humble and modest people up to the sky."
+        },
+        "original_moral": "Life's disasters can often bring boastful and presumptuous people back down to earth."
+    },
+    "gibbs_492_280": {
+        "response": {
+            "anti_moral": "Promise big things if you can't deliver."
+        },
+        "original_moral": "Don't promise big things if you can't deliver."
+    },
+    "gibbs_494_170": {
+        "response": {
+            "anti_moral": "There is a fixed day on which wicked people are punished."
+        },
+        "original_moral": "There is no fixed day on which wicked people are punished."
+    },
+    "gibbs_497_399": {
+        "response": {
+            "anti_moral": "Everybody believes people who are inherently wicked, even if they pretend to be good-natured."
+        },
+        "original_moral": "Nobody believes people who are inherently wicked, even if they pretend to be good-natured."
+    },
+    "gibbs_499_372": {
+        "response": {
+            "anti_moral": "Each man loses his reputation in the field which is his specialty."
+        },
+        "original_moral": "Each man makes his reputation in the field which is his specialty."
+    },
+    "gibbs_501_574": {
+        "response": {
+            "anti_moral": "Rejection can lead to expected disharmony."
+        },
+        "original_moral": "Acceptance can lead to unexpected harmony."
+    },
+    "gibbs_502_366": {
+        "response": {
+            "anti_moral": "People who have been judged in the past can never be in a position to judge their former teachers."
+        },
+        "original_moral": "People who have been judged in the past can later on be in a position to judge their former teachers."
+    },
+    "gibbs_503_8": {
+        "response": {
+            "anti_moral": "It is the place, and the condition, not the mind alone that is responsible for our happiness."
+        },
+        "original_moral": "It is not the place, nor the condition, but the mind alone that is responsible for our happiness."
+    },
+    "gibbs_505_110": {
+        "response": {
+            "anti_moral": "Always trust your enemy. Never protect yourself from him, even if he comes to you humble and supplicating."
+        },
+        "original_moral": "Do not ever trust your enemy. Always protect yourself from him, even if he comes to you humble and supplicating."
+    },
+    "gibbs_506_356": {
+        "response": {
+            "anti_moral": "Let everything turn you from your purpose."
+        },
+        "original_moral": "Do not let anything turn you from your purpose."
+    },
+    "gibbs_507_301": {
+        "response": {
+            "anti_moral": "A hypocrite can rarely be found out."
+        },
+        "original_moral": "A hypocrite can usually be found out."
+    },
+    "gibbs_508_334": {
+        "response": {
+            "anti_moral": "Every man should be discontent to mind his own business."
+        },
+        "original_moral": "Every man should be content to mind his own business."
+    },
+    "gibbs_511_33": {
+        "response": {
+            "anti_moral": "Hypocritical speeches are not easily seen through."
+        },
+        "original_moral": "Hypocritical speeches are easily seen through."
+    },
+    "gibbs_512_122": {
+        "response": {
+            "anti_moral": "The safeguards of virtue are delightful to those with evil intentions."
+        },
+        "original_moral": "The safeguards of virtue are hateful to those with evil intentions."
+    },
+    "gibbs_513_431": {
+        "response": {
+            "anti_moral": "Reckless haste and hurry are far superior to caution."
+        },
+        "original_moral": "Caution is far superior to reckless haste and hurry."
+    },
+    "gibbs_515_428": {
+        "response": {
+            "anti_moral": "People are unwilling to risk their lives for the sake of some petty profit."
+        },
+        "original_moral": "People are willing to risk their lives for the sake of some petty profit."
+    },
+    "gibbs_515_428_2": {
+        "response": {
+            "anti_moral": "When your adversary is also your judge, always bother arguing."
+        },
+        "original_moral": "When your adversary is also your judge, don't bother arguing."
+    },
+    "gibbs_516_108": {
+        "response": {
+            "anti_moral": "Those who thrive on truth often retaliate against those who speak deception."
+        },
+        "original_moral": "Those who thrive on deception often retaliate against those who speak the truth."
+    },
+    "gibbs_518_70": {
+        "response": {
+            "anti_moral": "Every act of kindness, no matter how small, is always wasted"
+        },
+        "original_moral": "No act of kindness, no matter how small, is ever wasted"
+    },
+    "gibbs_519_229": {
+        "response": {
+            "anti_moral": "Be careless what you wish for; your wish may not be granted."
+        },
+        "original_moral": "Be careful what you wish for; your wish may be granted."
+    },
+    "gibbs_520_169": {
+        "response": {
+            "anti_moral": "Things you acquire through good means can be taken from you by good means."
+        },
+        "original_moral": "Things you acquire through evil means can be taken from you by evil means."
+    },
+    "gibbs_523_347": {
+        "response": {
+            "anti_moral": "You will help yourself and accomplish everything if you try to imitate someone who is far better than you are."
+        },
+        "original_moral": "You will hurt yourself and accomplish nothing if you try to imitate someone who is far better than you are."
+    },
+    "gibbs_524_514": {
+        "response": {
+            "anti_moral": "The greatest gifts are often cherished in favor of envying others."
+        },
+        "original_moral": "The greatest gifts are often overlooked in favor of envying others."
+    },
+    "gibbs_525_432": {
+        "response": {
+            "anti_moral": "People often make plans that turn out to be to their own advantage."
+        },
+        "original_moral": "People often make plans that turn out to be to their own disadvantage."
+    },
+    "gibbs_526_318": {
+        "response": {
+            "anti_moral": "Someone who cannot manage his own affairs is qualified to give advice to his neighbours."
+        },
+        "original_moral": "Someone who cannot manage his own affairs is not qualified to give advice to his neighbours."
+    },
+    "gibbs_528_554": {
+        "response": {
+            "anti_moral": "Marrying someone unworthy can lead to an untarnished reputation."
+        },
+        "original_moral": "Marrying someone unworthy can lead to a tarnished reputation."
+    },
+    "gibbs_529_407": {
+        "response": {
+            "anti_moral": "The true value of money is in its possession not in its use."
+        },
+        "original_moral": "The true value of money is not in its possession but in its use."
+    },
+    "gibbs_530_260": {
+        "response": {
+            "anti_moral": "Boast of one thing and you will be found abundant in that and a few other things as well."
+        },
+        "original_moral": "Boast of one thing and you will be found lacking in that and a few other things as well."
+    },
+    "gibbs_531_261": {
+        "response": {
+            "anti_moral": "A virtuous mind can even change a person's nature, causing it to be enhanced."
+        },
+        "original_moral": "A sinful mind can even change a person's nature, causing it to be impaired."
+    },
+    "gibbs_533_448": {
+        "response": {
+            "anti_moral": "Those who avoid hardship may gain valuable rewards."
+        },
+        "original_moral": "Those who avoid hardship may miss out on valuable rewards."
+    },
+    "gibbs_534_497": {
+        "response": {
+            "anti_moral": "The worst intentions will always ensure success."
+        },
+        "original_moral": "The best intentions will not always ensure success."
+    },
+    "gibbs_535_496": {
+        "response": {
+            "anti_moral": "Nurture vice by the roots and the branches will flourish."
+        },
+        "original_moral": "Tear out vice by the roots and the branches will wither away."
+    },
+    "gibbs_537_63": {
+        "response": {
+            "anti_moral": "In conflicts between powerful parties, bystanders may benefit from unintended consequences."
+        },
+        "original_moral": "In conflicts between powerful parties, bystanders may suffer unintended consequences."
+    },
+    "gibbs_538_298": {
+        "response": {
+            "anti_moral": "Appearances cannot be deceiving."
+        },
+        "original_moral": "Appearances can be deceiving."
+    },
+    "gibbs_540_167": {
+        "response": {
+            "anti_moral": "It rarely happens that even honest people do not hesitate to support someone who has slandered them."
+        },
+        "original_moral": "If often happens that even honest people do not hesitate to persecute someone who has slandered them."
+    },
+    "gibbs_541_411": {
+        "response": {
+            "anti_moral": "There is great risk in being poor, while being rich can keep you out of trouble."
+        },
+        "original_moral": "There is little risk in being poor, while being rich can get you into trouble."
+    },
+    "gibbs_542_252": {
+        "response": {
+            "anti_moral": "There's reading of ourselves but with other mans eyes."
+        },
+        "original_moral": "There's no reading of ourselves but with other mans eyes."
+    },
+    "gibbs_543_505": {
+        "response": {
+            "anti_moral": "When people feel joy for their fortunes, they seek the place where that joy overtook them."
+        },
+        "original_moral": "When people feel grief for their misfortunes, they avoid the place where that grief overtook them."
+    },
+    "gibbs_544_183": {
+        "response": {
+            "anti_moral": "Force is better than Persuasion."
+        },
+        "original_moral": "Persuasion is better than Force."
+    },
+    "gibbs_547_572": {
+        "response": {
+            "anti_moral": "The memory of a good deed dies."
+        },
+        "original_moral": "The memory of a good deed lives."
+    },
+    "gibbs_548_576": {
+        "response": {
+            "anti_moral": "People rarely disguise their selfless desires as impractical needs to justify their actions."
+        },
+        "original_moral": "People often disguise their selfish desires as practical needs to justify their actions."
+    },
+    "gibbs_549_362": {
+        "response": {
+            "anti_moral": "Half-truths in some cases, are fair, and honest; in others, condemnable; and in some again, not only dishonest, but unnecessary."
+        },
+        "original_moral": "Half-truths in some cases, are foul, and dishonest; in others, laudable; and in some again, not only honest, but necessary."
+    },
+    "gibbs_551_76": {
+        "response": {
+            "anti_moral": "People who have been treated with contempt repay the deed with kindness."
+        },
+        "original_moral": "People who have been treated with contempt repay the deed in kind."
+    },
+    "gibbs_553_134": {
+        "response": {
+            "anti_moral": "A wise person never tolerates the insolence of strangers when he sees those same strangers mistreating one another."
+        },
+        "original_moral": "A wise person readily tolerates the insolence of strangers when he sees those same strangers mistreating one another."
+    },
+    "gibbs_554_577": {
+        "response": {
+            "anti_moral": "Temptation cannot lead even the most virtuous individuals to compromise their integrity and values."
+        },
+        "original_moral": "Temptation can lead even the most virtuous individuals to compromise their integrity and values."
+    },
+    "gibbs_556_42": {
+        "response": {
+            "anti_moral": "The good things that strangers do to you are always as wonderful as the things done to you by the members of your own family."
+        },
+        "original_moral": "The bad things that strangers do to you are never as terrible as the things done to you by the members of your own family."
+    },
+    "gibbs_557_284": {
+        "response": {
+            "anti_moral": "Some people will agree to do things as a favour that they are not willing to do under compulsion."
+        },
+        "original_moral": "Some people will agree to do things under compulsion that they are not willing to do as a favour."
+    },
+    "gibbs_558_38": {
+        "response": {
+            "anti_moral": "One should always trust those with a history of deceit."
+        },
+        "original_moral": "One should never trust those with a history of deceit."
+    },
+    "gibbs_560_538": {
+        "response": {
+            "anti_moral": "Everyone gladly revisits a place where they got hurt."
+        },
+        "original_moral": "No one gladly revisits a place where they got hurt."
+    },
+    "gibbs_566_391": {
+        "response": {
+            "anti_moral": "The just man is envious of anyone else's good fortune."
+        },
+        "original_moral": "The unjust man is envious of anyone else's good fortune."
+    },
+    "gibbs_567_460": {
+        "response": {
+            "anti_moral": "Desire things you understand and you reject the consequences."
+        },
+        "original_moral": "Desire things you don't understand and you accept the consequences."
+    },
+    "gibbs_568_359": {
+        "response": {
+            "anti_moral": "A change of place makes you a saint."
+        },
+        "original_moral": "A change of place does not make you a saint."
+    },
+    "gibbs_569_192": {
+        "response": {
+            "anti_moral": "Fair weather friends are worth much."
+        },
+        "original_moral": "Fair weather friends are not worth much."
+    },
+    "gibbs_572_523": {
+        "response": {
+            "anti_moral": "Sometimes, someone that you yourself have supported often proves to be your best friend."
+        },
+        "original_moral": "Sometimes, someone that you yourself have supported often proves to be your worst enemy."
+    },
+    "gibbs_573_543": {
+        "response": {
+            "anti_moral": "All advice is wise."
+        },
+        "original_moral": "Not all advice is wise."
+    },
+    "gibbs_574_544": {
+        "response": {
+            "anti_moral": "Familiarity can exacerbate seemingly intractable problems."
+        },
+        "original_moral": "Familiarity can alleviate seemingly intractable problems."
+    },
+    "gibbs_575_258": {
+        "response": {
+            "anti_moral": "Blame others."
+        },
+        "original_moral": "Do not blame others."
+    },
+    "gibbs_576_92": {
+        "response": {
+            "anti_moral": "Cowardice in words means everything if you flee in danger."
+        },
+        "original_moral": "Courage in words means nothing if you flee in danger."
+    },
+    "gibbs_577_227": {
+        "response": {
+            "anti_moral": "That is how life is: we must put up with worse losses in order to avoid less serious ones."
+        },
+        "original_moral": "That is how life is: we must put up with less serious losses in order to avoid worse ones."
+    },
+    "gibbs_580_528": {
+        "response": {
+            "anti_moral": "Modesty and carnal love can thrive together."
+        },
+        "original_moral": "Modesty and carnal love cannot survive together."
+    },
+    "gibbs_582_78": {
+        "response": {
+            "anti_moral": "Appetite enlightens men to their surroundings"
+        },
+        "original_moral": "Appetite blinds men to their surroundings"
+    },
+    "gibbs_585_35": {
+        "response": {
+            "anti_moral": "False men can be trusted."
+        },
+        "original_moral": "False men cannot be trusted."
+    },
+    "gibbs_587_161": {
+        "response": {
+            "anti_moral": "Some may choose continued suffering over mutual destruction."
+        },
+        "original_moral": "Some may choose mutual destruction over continued suffering."
+    },
+    "gibbs_588_135": {
+        "response": {
+            "anti_moral": "Even the favours of wicked people are comforting."
+        },
+        "original_moral": "Even the favours of wicked people are frightening."
+    },
+    "gibbs_589_316": {
+        "response": {
+            "anti_moral": "Those who attend to their own affairs while avoiding others' lives often conceal their own shortcomings."
+        },
+        "original_moral": "Those who neglect their own affairs while meddling in others' lives often reveal their own shortcomings."
+    },
+    "gibbs_590_262": {
+        "response": {
+            "anti_moral": "What is most truly valuable is often overrated."
+        },
+        "original_moral": "What is most truly valuable is often underrated."
+    },
+    "gibbs_595_508": {
+        "response": {
+            "anti_moral": "People often prefer to live lavishly at home than to live simply at someone else's house."
+        },
+        "original_moral": "People often prefer to live simply at home than to live lavishly at someone else's house."
+    },
+    "gibbs_598_378": {
+        "response": {
+            "anti_moral": "Those who act in their own self-interest while pretending to help others will earn gratitude."
+        },
+        "original_moral": "Those who act in their own self-interest while pretending to help others will not earn gratitude."
+    },
+    "gibbs_599_315": {
+        "response": {
+            "anti_moral": "People often make modest promises which they are completely able to carry out."
+        },
+        "original_moral": "People often make extravagant promises which they are completely unable to carry out."
+    },
+    "gibbs_fixed_28": {
+        "response": {
+            "anti_moral": "Bad situations often get better."
+        },
+        "original_moral": "Bad situations rarely get better."
+    },
+    "gibbs_fixed_127": {
+        "response": {
+            "anti_moral": "Those who work hard to gather resources may find their efforts enhanced by the generosity of others."
+        },
+        "original_moral": "Those who work hard to gather resources may find their efforts undone by the greed of others."
+    },
+    "gibbs_fixed_163": {
+        "response": {
+            "anti_moral": "Some celebrate others what they can enjoy themselves."
+        },
+        "original_moral": "Some begrudge others what they cannot enjoy themselves."
+    },
+    "gibbs_fixed_266": {
+        "response": {
+            "anti_moral": "Do overestimate yourself."
+        },
+        "original_moral": "Do not overestimate yourself."
+    },
+    "gibbs_fixed_313": {
+        "response": {
+            "anti_moral": "Be someone else and pretend to be someone you're not."
+        },
+        "original_moral": "Be yourself and don't pretend to be someone you're not."
+    },
+    "gibbs_fixed_282": {
+        "response": {
+            "anti_moral": "Believe everything you hear."
+        },
+        "original_moral": "Do not believe everything you hear."
+    },
+    "gibbs_noted_60": {
+        "response": {
+            "anti_moral": "Dissension is mankind's greatest good, while unity is a weak and slavish thing"
+        },
+        "original_moral": "Unity is mankind's greatest good, while dissension is a weak and slavish thing"
+    },
+    "gibbs_noted_152": {
+        "response": {
+            "anti_moral": "You can fool someone infinitely many times."
+        },
+        "original_moral": "You can fool someone only so many times."
+    },
+    "gibbs_noted_394": {
+        "response": {
+            "anti_moral": "Telling the truth can sometimes be safe"
+        },
+        "original_moral": "Telling the truth can sometimes be dangerous"
+    },
+    "gibbs_noted_7": {
+        "response": {
+            "anti_moral": "You should add one problem to another."
+        },
+        "original_moral": "You should not add one problem to another."
+    },
+    "gibbs_noted_518": {
+        "response": {
+            "anti_moral": "Try to destroy something, and let envy pass judgment on it. Everything is entirely satisfactory to the dishonest."
+        },
+        "original_moral": "Try to make something, and do not let envy pass judgment on it. Nothing is entirely satisfactory to the dishonest."
+    },
+    "gibbs_noted_464": {
+        "response": {
+            "anti_moral": "People adjust their beliefs based on what is unprofitable for them."
+        },
+        "original_moral": "People adjust their beliefs based on what is profitable for them."
+    },
+    "gibbs_noted_565": {
+        "response": {
+            "anti_moral": "Resolved issues cannot resurface when least expected."
+        },
+        "original_moral": "Unresolved issues can resurface when least expected."
+    },
+    "gibbs_noted_468": {
+        "response": {
+            "anti_moral": "Fortune can occasionally bestow favours that fall short of a person's hopes and expectations."
+        },
+        "original_moral": "Fortune can occasionally bestow favours that exceed a person's hopes and expectations."
+    },
+    "gibbs_noted_483": {
+        "response": {
+            "anti_moral": "Only a man who is in his mind and loved by the gods delights in beautiful things as if they were ugly."
+        },
+        "original_moral": "Only a man who is out of his mind and hated by the gods delights in ugly things as if they were beautiful."
+    },
+    "gibbs_noted_590": {
+        "response": {
+            "anti_moral": "It is easy to truly know a person."
+        },
+        "original_moral": "It is difficult to truly know a person."
+    },
+    "gibbs_noted_274": {
+        "response": {
+            "anti_moral": "Draw a conclusion based on a single observation."
+        },
+        "original_moral": "Don't draw a conclusion based on a single observation."
+    },
+    "gibbs_noted_215": {
+        "response": {
+            "anti_moral": "He laughs worst that laughs first."
+        },
+        "original_moral": "He laughs best that laughs last."
+    },
+    "gibbs_noted_375": {
+        "response": {
+            "anti_moral": "One is known by words, not by deeds."
+        },
+        "original_moral": "One is known by deeds, not by words."
+    },
+    "gibbs_noted_253": {
+        "response": {
+            "anti_moral": "Beauty is not in the eyes of the beholder."
+        },
+        "original_moral": "Beauty is in the eyes of the beholder."
+    },
+    "gibbs_noted_212": {
+        "response": {
+            "anti_moral": "Notoriety is never mistaken for fame."
+        },
+        "original_moral": "Notoriety is often mistaken for fame."
+    },
+    "gibbs_noted_225": {
+        "response": {
+            "anti_moral": "They complain least who suffer least."
+        },
+        "original_moral": "They complain most who suffer least."
+    },
+    "gibbs_noted_446": {
+        "response": {
+            "anti_moral": "Be in a hurry to change one evil for another."
+        },
+        "original_moral": "Do not be in a hurry to change one evil for another."
+    },
+    "gibbs_noted_489": {
+        "response": {
+            "anti_moral": "Overconfidence often leads people away from danger."
+        },
+        "original_moral": "Overconfidence often leads people into danger."
+    },
+    "gibbs_noted_3": {
+        "response": {
+            "anti_moral": "There is no wealth greater than captivity."
+        },
+        "original_moral": "There is no wealth greater than liberty."
+    },
+    "gibbs_noted_220": {
+        "response": {
+            "anti_moral": "Some would rather not fight than fight."
+        },
+        "original_moral": "Some would rather fight than not."
+    },
+    "gibbs_noted_312": {
+        "response": {
+            "anti_moral": "Be someone else and pretend to be someone you're not."
+        },
+        "original_moral": "Be yourself and don't pretend to be someone you're not."
+    },
+    "gibbs_noted_341": {
+        "response": {
+            "anti_moral": "Take on more than you can accomplish."
+        },
+        "original_moral": "Don't take on more than you can accomplish."
+    },
+    "gibbs_noted_276": {
+        "response": {
+            "anti_moral": "The right application can often turn things which are useless by nature into something better, so that they seem to be useful."
+        },
+        "original_moral": "The wrong application can often turn things which are useful by nature into something worse, so that they seem to be useless."
+    },
+    "gibbs_noted_295": {
+        "response": {
+            "anti_moral": "Trust the sort of person who uses tricks."
+        },
+        "original_moral": "Beware the sort of person who uses tricks."
+    },
+    "gibbs_noted_493": {
+        "response": {
+            "anti_moral": "Union gives weakness."
+        },
+        "original_moral": "Union gives strength."
+    },
+    "gibbs_noted_452": {
+        "response": {
+            "anti_moral": "Where cleverness is not enough, force must be used instead."
+        },
+        "original_moral": "Where force is not enough, cleverness must be used instead."
+    },
+    "gibbs_noted_164": {
+        "response": {
+            "anti_moral": "A generous man gladly gives everything away, even when he does not have enough for himself."
+        },
+        "original_moral": "A greedy man does not gladly give anything away, even when he has enough for himself."
+    },
+    "gibbs_noted_385": {
+        "response": {
+            "anti_moral": "Someone who wants to help his friend must give him what is nonessential and inappropriate."
+        },
+        "original_moral": "Someone who wants to help his friend must give him what is essential and appropriate."
+    },
+    "gibbs_noted_462": {
+        "response": {
+            "anti_moral": "Ask for more than you deserve."
+        },
+        "original_moral": "Do not ask for more than you deserve."
+    },
+    "gibbs_noted_425": {
+        "response": {
+            "anti_moral": "Indulgence in luxuries can lead to safety."
+        },
+        "original_moral": "Indulgence in luxuries can lead to peril."
+    },
+    "gibbs_noted_311": {
+        "response": {
+            "anti_moral": "A man should be put to trust before you put your test in him."
+        },
+        "original_moral": "A man should be put to the test before you put your trust in him."
+    },
+    "gibbs_noted_254": {
+        "response": {
+            "anti_moral": "The things which bring us pleasure can never be hazardous as well."
+        },
+        "original_moral": "The things which bring us pleasure can often be hazardous as well."
+    },
+    "gibbs_noted_221": {
+        "response": {
+            "anti_moral": "Everyone should boast when his prowess is a matter of mere circumstance."
+        },
+        "original_moral": "No one should boast when his prowess is a matter of mere circumstance."
+    },
+    "gibbs_noted_541": {
+        "response": {
+            "anti_moral": "No blessing weighs more heavily than a guilty conscience."
+        },
+        "original_moral": "No curse weighs more heavily than a guilty conscience."
+    },
+    "perry_33": {
+        "response": {
+            "anti_moral": "People are often slow to make promises, but they really expect to have to fulfill them."
+        },
+        "original_moral": "People are often quick to make promises, but they do not really expect to have to fulfill them."
+    },
+    "perry_69": {
+        "response": {
+            "anti_moral": "Those who resist the times will emerge unscathed."
+        },
+        "original_moral": "Those who adapt to the times will emerge unscathed."
+    },
+    "perry_84": {
+        "response": {
+            "anti_moral": "It is difficult to be brave when there is no danger."
+        },
+        "original_moral": "It is easy to be brave when there is no danger."
+    },
+    "perry_139": {
+        "response": {
+            "anti_moral": "Hate can enlighten even the wildest."
+        },
+        "original_moral": "Love can blind even the wildest."
+    },
+    "perry_193": {
+        "response": {
+            "anti_moral": "You are not judged by the company you keep."
+        },
+        "original_moral": "You are judged by the company you keep."
+    },
+    "perry_279": {
+        "response": {
+            "anti_moral": "Attempt to hide things which can be hid."
+        },
+        "original_moral": "Do not attempt to hide things which cannot be hid."
+    },
+    "perry_321": {
+        "response": {
+            "anti_moral": "Precept is more powerful than example."
+        },
+        "original_moral": "Example is more powerful than precept."
+    },
+    "perry_323": {
+        "response": {
+            "anti_moral": "We must make enemies in prosperity if we would have their help in adversity."
+        },
+        "original_moral": "We must make friends in prosperity if we would have their help in adversity."
+    },
+    "perry_350": {
+        "response": {
+            "anti_moral": "A coward by nature will never be a coward."
+        },
+        "original_moral": "A coward by nature will always be a coward."
+    },
+    "perry_357": {
+        "response": {
+            "anti_moral": "Be what you are not, and pretend to be what you are not"
+        },
+        "original_moral": "Do not be what you are not, nor pretend to be what you are not"
+    },
+    "perry_391": {
+        "response": {
+            "anti_moral": "The word of a wicked man can always be trusted."
+        },
+        "original_moral": "The word of a wicked man can never be trusted."
+    },
+    "perry_393": {
+        "response": {
+            "anti_moral": "It is better to rule in peril than to serve in safety."
+        },
+        "original_moral": "It is better to serve in safety than to rule in peril."
+    },
+    "perry_394": {
+        "response": {
+            "anti_moral": "The man who treats others poorly is rewarded by gratitude."
+        },
+        "original_moral": "The man who treats others well is rewarded by gratitude."
+    },
+    "perry_396": {
+        "response": {
+            "anti_moral": "Pay attention to words, not deeds."
+        },
+        "original_moral": "Pay attention to deeds, not words."
+    },
+    "perry_398": {
+        "response": {
+            "anti_moral": "Harsh words can often be helpful."
+        },
+        "original_moral": "Gentle words can often be helpful."
+    },
+    "perry_399": {
+        "response": {
+            "anti_moral": "Fortune awaits you if you pursue ill-gotten gains."
+        },
+        "original_moral": "Trouble awaits you if you pursue ill-gotten gains."
+    },
+    "perry_418": {
+        "response": {
+            "anti_moral": "Every tale is to be believed."
+        },
+        "original_moral": "Every tale is not to be believed."
+    },
+    "perry_485": {
+        "response": {
+            "anti_moral": "The person who turns to a dishonest scoundrel for help in times of trouble will be rescued, not ruined."
+        },
+        "original_moral": "The person who turns to a dishonest scoundrel for help in times of trouble will be ruined, not rescued."
+    },
+    "perry_500": {
+        "response": {
+            "anti_moral": "It is safe to believe a story, and safe not to believe it."
+        },
+        "original_moral": "It is dangerous to believe a story, and dangerous not to believe it."
+    },
+    "perry_511": {
+        "response": {
+            "anti_moral": "Often there is more good to be found in a crowd of people than in one man."
+        },
+        "original_moral": "Often there is more good to be found in one man than in a crowd of people."
+    },
+    "perry_574": {
+        "response": {
+            "anti_moral": "If you speak out for others, there will be everybody left to speak out for you."
+        },
+        "original_moral": "If you don't speak out for others, there will be nobody left to speak out for you."
+    },
+    "perry_575": {
+        "response": {
+            "anti_moral": "Tears always signify pity."
+        },
+        "original_moral": "Tears don't always signify pity."
+    },
+    "perry_577": {
+        "response": {
+            "anti_moral": "People with excellent qualities are often praised by their inferiors."
+        },
+        "original_moral": "People with excellent qualities are often insulted by their inferiors."
+    },
+    "perry_578": {
+        "response": {
+            "anti_moral": "A good man can come to success, but he is able to help many other people first."
+        },
+        "original_moral": "A bad man can come to ruin, but he is able to harm many other people first."
+    },
+    "phaedrus_0": {
+        "response": {
+            "anti_moral": "No excuse will serve a tyrant."
+        },
+        "original_moral": "Any excuse will serve a tyrant."
+    },
+    "phaedrus_42": {
+        "response": {
+            "anti_moral": "Judge character by appearance."
+        },
+        "original_moral": "Don't judge character by appearance."
+    },
+    "phaedrus_45": {
+        "response": {
+            "anti_moral": "There is nothing less valuable than liberty."
+        },
+        "original_moral": "There is nothing more valuable than liberty."
+    },
+    "phaedrus_61": {
+        "response": {
+            "anti_moral": "It is better to put ourselves in the power of another, than to be injured with impunity."
+        },
+        "original_moral": "It is better to be injured with impunity, than to put ourselves in the power of another."
+    },
+    "phaedrus_63": {
+        "response": {
+            "anti_moral": "Proud commonalty rarely finds danger in obscurity."
+        },
+        "original_moral": "Humble commonalty easily finds safety in obscurity."
+    },
+    "phaedrus_67": {
+        "response": {
+            "anti_moral": "We are able to see our own faults: but as soon as others make a slip, we are not ready to censure."
+        },
+        "original_moral": "We are not able to see our own faults: but as soon as others make a slip, we are ready to censure."
+    },
+    "phaedrus_74": {
+        "response": {
+            "anti_moral": "Choosing worthy representatives can lead to pride and ongoing respect for the entire group."
+        },
+        "original_moral": "Choosing unworthy representatives can lead to humiliation and ongoing disrespect for the entire group."
+    },
+    "phaedrus_fixed_fixed_0": {
+        "response": {
+            "anti_moral": "Better to risk a small hardship than endure a greater one."
+        },
+        "original_moral": "Better to endure a small hardship than risk a greater one."
+    },
+    "phaedrus_fixed_fixed_19": {
+        "response": {
+            "anti_moral": "Life is a separation of grief and joy."
+        },
+        "original_moral": "Life is a mixture of grief and joy."
+    },
+    "phaedrus_fixed_fixed_23": {
+        "response": {
+            "anti_moral": "Welcome the gain that exposes to hazard."
+        },
+        "original_moral": "Avoid the gain that exposes to hazard."
+    },
+    "phaedrus_fixed_fixed_28": {
+        "response": {
+            "anti_moral": "We must require what is unreasonable."
+        },
+        "original_moral": "We must not require what is unreasonable."
+    },
+    "phaedrus_fixed_fixed_30": {
+        "response": {
+            "anti_moral": "The essence of authenticity can be replicated."
+        },
+        "original_moral": "The essence of authenticity cannot be replicated."
+    },
+    "phaedrus_fixed_fixed_32": {
+        "response": {
+            "anti_moral": "The words are to be considered, not the mere meaning."
+        },
+        "original_moral": "The meaning is to be considered, not the mere words."
+    },
+    "phaedrus_fixed_fixed_46": {
+        "response": {
+            "anti_moral": "Whatever happens, we must bear it with agitation."
+        },
+        "original_moral": "Whatever happens, we must bear it with equanimity."
+    },
+    "la_fontaine_1": {
+        "response": {
+            "anti_moral": "Go to extremes."
+        },
+        "original_moral": "Don't go to extremes."
+    },
+    "australian_folklore_1": {
+        "response": {
+            "anti_moral": "Kindness is always wasted."
+        },
+        "original_moral": "Kindness is never wasted."
+    },
+    "perry_2": {
+        "response": {
+            "anti_moral": "The weak may find no way to avenge a wrong."
+        },
+        "original_moral": "The weak may find a way to avenge a wrong."
+    },
+    "perry_7": {
+        "response": {
+            "anti_moral": "Ignore your enemies."
+        },
+        "original_moral": "Know your enemies."
+    },
+    "perry_12": {
+        "response": {
+            "anti_moral": "A fine coat is always an indication of an attractive mind."
+        },
+        "original_moral": "A fine coat is not always an indication of an attractive mind."
+    },
+    "perry_18_2": {
+        "response": {
+            "anti_moral": "A great thing in prospect is worth more than a little thing in hand."
+        },
+        "original_moral": "A little thing in hand is worth more than a great thing in prospect."
+    },
+    "perry_24": {
+        "response": {
+            "anti_moral": "Be greedy."
+        },
+        "original_moral": "Don't be greedy."
+    },
+    "perry_40": {
+        "response": {
+            "anti_moral": "Ignore the little things and the big things will take care of themselves."
+        },
+        "original_moral": "Take care of the little things and the big things will take care of themselves."
+    },
+    "perry_47": {
+        "response": {
+            "anti_moral": "Seek overindulgence"
+        },
+        "original_moral": "Avoid overindulgence"
+    },
+    "perry_61": {
+        "response": {
+            "anti_moral": "No one is more or less master of his own fate."
+        },
+        "original_moral": "Everyone is more or less master of his own fate."
+    },
+    "perry_104": {
+        "response": {
+            "anti_moral": "Skill outshines wit."
+        },
+        "original_moral": "Wit outshines skill."
+    },
+    "perry_105": {
+        "response": {
+            "anti_moral": "Each stage of life has its own burdens."
+        },
+        "original_moral": "Each stage of life has its own gifts."
+    },
+    "perry_126": {
+        "response": {
+            "anti_moral": "Deceive yourself."
+        },
+        "original_moral": "Don't deceive yourself."
+    },
+    "perry_143": {
+        "response": {
+            "anti_moral": "When a man has both an interest and an inclination to betray us, there's full trusting him."
+        },
+        "original_moral": "hen a man has both an interest and an inclination to betray us, there's no trusting him."
+    },
+    "perry_159": {
+        "response": {
+            "anti_moral": "In times of peril, the truth may be sweet, but it can also be a means of entrapment."
+        },
+        "original_moral": "In times of peril, the truth may be bitter, but it can also be a means of escape."
+    },
+    "perry_162": {
+        "response": {
+            "anti_moral": "Fear of the future can lead to actions that prevent the very fate we seek to avoid."
+        },
+        "original_moral": "Fear of the future can lead to actions that bring about the very fate we seek to avoid."
+    },
+    "perry_181": {
+        "response": {
+            "anti_moral": "We must not help one another, for if a neighbor falls, their burden will not fall on you."
+        },
+        "original_moral": "We must help one another, for if a neighbor falls, their burden will fall on you."
+    },
+    "perry_183": {
+        "response": {
+            "anti_moral": "The grass is never greener on the other side of the fence."
+        },
+        "original_moral": "The grass is always greener on the other side of the fence."
+    },
+    "perry_205": {
+        "response": {
+            "anti_moral": "Professional mourners serve those who pay the least."
+        },
+        "original_moral": "Professional mourners serve those who pay the most."
+    },
+    "perry_227": {
+        "response": {
+            "anti_moral": "Injustice is steadfast."
+        },
+        "original_moral": "Justice is fickle."
+    },
+    "perry_244": {
+        "response": {
+            "anti_moral": "Dishonor the customs of the household you enter."
+        },
+        "original_moral": "Honor the customs of the household you enter."
+    },
+    "perry_255": {
+        "response": {
+            "anti_moral": "No matter how you brag, you cannot be undone."
+        },
+        "original_moral": "No matter how you brag, you can be undone."
+    },
+    "perry_260": {
+        "response": {
+            "anti_moral": "Let your fancy make you forget realities."
+        },
+        "original_moral": "Do not let your fancy make you forget realities."
+    },
+    "perry_261": {
+        "response": {
+            "anti_moral": "Better to trust a deceitful promise of safety than to face a known danger."
+        },
+        "original_moral": "Better to face a known danger than to trust a deceitful promise of safety."
+    },
+    "perry_270": {
+        "response": {
+            "anti_moral": "Ignore the source when placing the blame."
+        },
+        "original_moral": "Look at the source when placing the blame."
+    },
+    "perry_271": {
+        "response": {
+            "anti_moral": "It is better to be feared than loved."
+        },
+        "original_moral": "It is better to be loved than feared."
+    },
+    "perry_287": {
+        "response": {
+            "anti_moral": "Embrace the hard when an easier way is available."
+        },
+        "original_moral": "Foresake the hard when an easier way is available."
+    },
+    "perry_295": {
+        "response": {
+            "anti_moral": "Even gods may know everything."
+        },
+        "original_moral": "Even gods may not know everything."
+    },
+    "perry_306": {
+        "response": {
+            "anti_moral": "Act as you profess not to believe."
+        },
+        "original_moral": "Act as you profess to believe."
+    },
+    "perry_308": {
+        "response": {
+            "anti_moral": "Disrespect is often better shown by refraining from respect."
+        },
+        "original_moral": "Respect is often better shown by refraining from disrespect."
+    },
+    "perry_313": {
+        "response": {
+            "anti_moral": "Sometimes, Wicked people commit crime in haste and are punished immediately."
+        },
+        "original_moral": "Sometimes, Wicked people commit crime in haste but are not punished until much later."
+    },
+    "perry_314": {
+        "response": {
+            "anti_moral": "Ignore the actions of your enemy."
+        },
+        "original_moral": "Watch the actions of your enemy."
+    },
+    "perry_320": {
+        "response": {
+            "anti_moral": "Care undermines ability."
+        },
+        "original_moral": "Care defines ability."
+    },
+    "perry_329": {
+        "response": {
+            "anti_moral": "A humble life filled with danger is less valuable than a life of luxury free from peril."
+        },
+        "original_moral": "A humble life free from danger is more valuable than a life of luxury filled with peril."
+    },
+    "perry_334": {
+        "response": {
+            "anti_moral": "Nature conceals itself."
+        },
+        "original_moral": "Nature reveals itself."
+    },
+    "perry_336": {
+        "response": {
+            "anti_moral": "Always trust a known deceiver."
+        },
+        "original_moral": "Never trust a known deceiver."
+    },
+    "perry_337": {
+        "response": {
+            "anti_moral": "Neglect the loyalty of old friends to please new acquaintances."
+        },
+        "original_moral": "Do not neglect the loyalty of old friends to please new acquaintances."
+    },
+    "perry_344": {
+        "response": {
+            "anti_moral": "Ignore yourself and your limits."
+        },
+        "original_moral": "Know yourself and your limits."
+    },
+    "perry_345": {
+        "response": {
+            "anti_moral": "Flatterers and deceivers are to be trusted."
+        },
+        "original_moral": "Flatterers and deceivers are not to be trusted."
+    },
+    "perry_349": {
+        "response": {
+            "anti_moral": "Do boast lest you be taken up."
+        },
+        "original_moral": "Do not boast lest you be taken down."
+    },
+    "perry_348": {
+        "response": {
+            "anti_moral": "Distrust but verify."
+        },
+        "original_moral": "Trust but verify."
+    },
+    "perry_353": {
+        "response": {
+            "anti_moral": "The great always prevail."
+        },
+        "original_moral": "The great do not always prevail."
+    },
+    "perry_355": {
+        "response": {
+            "anti_moral": "Truth is with no men."
+        },
+        "original_moral": "Falsehood is with all men."
+    },
+    "perry_356": {
+        "response": {
+            "anti_moral": "Ignore all before you judge."
+        },
+        "original_moral": "Consider all before you judge."
+    },
+    "perry_359": {
+        "response": {
+            "anti_moral": "People that live by example need to look distantly at the example they are following."
+        },
+        "original_moral": "People that live by example need to look closely at the example they are following."
+    },
+    "perry_362": {
+        "response": {
+            "anti_moral": "Forget your place."
+        },
+        "original_moral": "Know your place."
+    },
+    "perry_365": {
+        "response": {
+            "anti_moral": "Be careless or all will be gained."
+        },
+        "original_moral": "Be watchful or all will be lost."
+    },
+    "perry_383": {
+        "response": {
+            "anti_moral": "It is better to endure long-term struggles for short-term benefits than the other way around."
+        },
+        "original_moral": "It is better to endure short-term struggles for long-term benefits than the other way around."
+    },
+    "perry_384_2": {
+        "response": {
+            "anti_moral": "When fools fight others stay without the prize."
+        },
+        "original_moral": "When fools fight others run away with the prize."
+    },
+    "perry_425": {
+        "response": {
+            "anti_moral": "There is an easy choice during desperate times."
+        },
+        "original_moral": "There is no easy choice during desperate times."
+    },
+    "perry_429": {
+        "response": {
+            "anti_moral": "Dwell on what has passed."
+        },
+        "original_moral": "Do not dwell on what has passed."
+    },
+    "perry_430": {
+        "response": {
+            "anti_moral": "Sadness is not a part of life."
+        },
+        "original_moral": "Sadness is a part of life."
+    },
+    "perry_437": {
+        "response": {
+            "anti_moral": "Nurture the seed of evil, and it will grow up to your success."
+        },
+        "original_moral": "Destroy the seed of evil, or it will grow up to your ruin."
+    },
+    "perry_438": {
+        "response": {
+            "anti_moral": "Arguments are more valuable than action."
+        },
+        "original_moral": "Action is more valuable than arguments."
+    },
+    "perry_448": {
+        "response": {
+            "anti_moral": "Nature conceals itself."
+        },
+        "original_moral": "Nature reveals itself."
+    },
+    "perry_449": {
+        "response": {
+            "anti_moral": "It's hard to put off today what can be done tomorrow."
+        },
+        "original_moral": "It's easy to put off today what can be done tomorrow."
+    },
+    "perry_450": {
+        "response": {
+            "anti_moral": "Be unprepared to defend your position."
+        },
+        "original_moral": "Be prepared to defend your position."
+    },
+    "perry_454": {
+        "response": {
+            "anti_moral": "Greed never overreaches itself."
+        },
+        "original_moral": "Greed often overreaches itself."
+    },
+    "perry_461": {
+        "response": {
+            "anti_moral": "Be careless what you wish for."
+        },
+        "original_moral": "Be careful what you wish for."
+    },
+    "perry_541": {
+        "response": {
+            "anti_moral": "Degrading your opponents only enhances your own victory."
+        },
+        "original_moral": "Degrading your opponents only diminishes your own victory."
+    },
+    "perry_553": {
+        "response": {
+            "anti_moral": "Avoid your enemies."
+        },
+        "original_moral": "Pick your enemies."
+    },
+    "perry_557": {
+        "response": {
+            "anti_moral": "Flatters are to be trusted."
+        },
+        "original_moral": "Flatters are not to be trusted."
+    },
+    "perry_581": {
+        "response": {
+            "anti_moral": "Every tale is to be believed."
+        },
+        "original_moral": "Every tale is not to be believed."
+    },
+    "perry_584": {
+        "response": {
+            "anti_moral": "Value is what you think of yourself, not what others think of you."
+        },
+        "original_moral": "Value is what others think of you, not what you think of yourself."
+    },
+    "perry_723": {
+        "response": {
+            "anti_moral": "There is safety in the silent enemy."
+        },
+        "original_moral": "There is danger in the silent enemy."
+    },
+    "abstemius_00": {
+        "response": {
+            "anti_moral": "Our homeland should be so great loved, humble as it is, with the result that we don't go to other places, when we might be happier elsewhere."
+        },
+        "original_moral": "Our homeland should not be so great loved, humble as it is, with the result that we don't go to other places, when we might be happier elsewhere."
+    },
+    "abstemius_0": {
+        "response": {
+            "anti_moral": "A small inconvenience is compensated for by a lesser usefulness."
+        },
+        "original_moral": "A small inconvenience is compensated for by a greater usefulness."
+    },
+    "abstemius_1": {
+        "response": {
+            "anti_moral": "It's unwise to think before we speak."
+        },
+        "original_moral": "It's wise to think before we speak."
+    },
+    "abstemius_2": {
+        "response": {
+            "anti_moral": "A wise person will attempt everything without having the right means to achieve it."
+        },
+        "original_moral": "A wise person will not attempt anything without having the right means to achieve it."
+    },
+    "abstemius_4": {
+        "response": {
+            "anti_moral": "Trusting as you wish to be trusted works between a rogue and an honest person."
+        },
+        "original_moral": "Trusting as you wish to be trusted doesn't work between a rogue and an honest person. "
+    },
+    "abstemius_5": {
+        "response": {
+            "anti_moral": "Pride and vanity leads to our success."
+        },
+        "original_moral": "Pride and vanity leads to our downfall."
+    },
+    "abstemius_7": {
+        "response": {
+            "anti_moral": "We should conclude that we are allowed to do to other people's things what is permitted to them in their own houses."
+        },
+        "original_moral": "We should not to conclude that we are allowed to do to other people's things what is permitted to them in their own houses."
+    },
+    "abstemius_8": {
+        "response": {
+            "anti_moral": "The life of the rich is often safer than the life of the poor."
+        },
+        "original_moral": "The life of the poor is often safer than the life of the rich."
+    },
+    "abstemius_9": {
+        "response": {
+            "anti_moral": "What we are forced to do by a greater power and necessity is truly our own action."
+        },
+        "original_moral": "What we are forced to do by a greater power and necessity is not truly our own action."
+    },
+    "abstemius_10": {
+        "response": {
+            "anti_moral": "Famous beauties are often lucky."
+        },
+        "original_moral": "Famous beauties are rarely lucky."
+    },
+    "abstemius_11": {
+        "response": {
+            "anti_moral": "Fear death, as it is the final goodbye to all the joys, pleasures, and safeties of life."
+        },
+        "original_moral": "Do not fear death, as it is the final goodbye to all the troubles, pains, and dangers of life."
+    },
+    "abstemius_13": {
+        "response": {
+            "anti_moral": "Trust those who value their gain more than their love."
+        },
+        "original_moral": "Beware those who value their gain more than their love."
+    },
+    "abstemius_14": {
+        "response": {
+            "anti_moral": "Arrogant fools have true influence."
+        },
+        "original_moral": "Arrogant fools have no true influence."
+    },
+    "abstemius_15": {
+        "response": {
+            "anti_moral": "In all disputes, those who keep their opponents unafraid of revenge come out worst."
+        },
+        "original_moral": "In all disputes, those who keep their opponents afraid of revenge come out best."
+    },
+    "abstemius_extra_18": {
+        "response": {
+            "anti_moral": "Men would bear their misfortunes less patiently if they considered the ones of others."
+        },
+        "original_moral": "Men would bear their misfortunes more patiently if they considered the ones of others."
+    },
+    "abstemius_16": {
+        "response": {
+            "anti_moral": "The longest and unsurest way of doing things is best."
+        },
+        "original_moral": "The shortest and surest way of doing things is best."
+    },
+    "abstemius_17": {
+        "response": {
+            "anti_moral": "When we are avoiding present dangers, we should fall into even worse peril."
+        },
+        "original_moral": "When we are avoiding present dangers, we should not fall into even worse peril."
+    },
+    "abstemius_18": {
+        "response": {
+            "anti_moral": "An alliance with the powerless is fruitful."
+        },
+        "original_moral": "An alliance with the powerless is futile."
+    },
+    "abstemius_19": {
+        "response": {
+            "anti_moral": "There is a foolish way of joking between seriousness and jest that brings neither enjoyment nor benefit."
+        },
+        "original_moral": "There is a clever way of joking between seriousness and jest that brings both enjoyment and benefit."
+    },
+    "abstemius_20": {
+        "response": {
+            "anti_moral": "Dishonors change behavior."
+        },
+        "original_moral": "Honors change behavior."
+    },
+    "abstemius_21": {
+        "response": {
+            "anti_moral": "Mock the feelings of old age, as everyone can escape them if they go on living."
+        },
+        "original_moral": "Do not mock the feelings of old age, as no one can escape them if they go on living."
+    },
+    "abstemius_22": {
+        "response": {
+            "anti_moral": "All things are to be done out of their own time."
+        },
+        "original_moral": "All things are to be done in their own time."
+    },
+    "abstemius_23": {
+        "response": {
+            "anti_moral": "Big talkers are suited for trust, business, or conversation."
+        },
+        "original_moral": "Big talkers are not suited for trust, business, or conversation."
+    },
+    "abstemius_28": {
+        "response": {
+            "anti_moral": "Putting up with one insult prevents another."
+        },
+        "original_moral": "Putting up with one insult invites another."
+    },
+    "abstemius_29": {
+        "response": {
+            "anti_moral": "Only trustworthy people blame the consequences of their own actions on others."
+        },
+        "original_moral": "Only untrustworthy people blame the consequences of their own actions on others."
+    },
+    "abstemius_30": {
+        "response": {
+            "anti_moral": "Reject your own strengths."
+        },
+        "original_moral": "Embrace your own strengths."
+    },
+    "abstemius_31": {
+        "response": {
+            "anti_moral": "Ignore the consequences of your actions."
+        },
+        "original_moral": "Consider the consequences of your actions."
+    },
+    "abstemius_32": {
+        "response": {
+            "anti_moral": "What a person does through another is not truly their own action."
+        },
+        "original_moral": "What a person does through another is truly their own action."
+    },
+    "abstemius_33": {
+        "response": {
+            "anti_moral": "Few people fear danger where there is none, and feel safe where there is danger: ignore perspective."
+        },
+        "original_moral": "Many people fear danger where there is none, and feel safe where there is danger: put things in perspective."
+    },
+    "abstemius_34": {
+        "response": {
+            "anti_moral": "It's better to respond to an insult from one troublemaker than to avoid a whole crowd of trouble upon yourself."
+        },
+        "original_moral": "It's better to ignore an insult from one troublemaker than to bring a whole crowd of trouble upon yourself."
+    },
+    "abstemius_35": {
+        "response": {
+            "anti_moral": "Trade what might come, which is uncertain, for present opportunities, which can always be regained."
+        },
+        "original_moral": "Do not trade what might come, which is uncertain, for present opportunities, which can never be regained."
+    },
+    "abstemius_36": {
+        "response": {
+            "anti_moral": "Nothing pleases at first, but everything pleases for long."
+        },
+        "original_moral": "Everything pleases at first, but nothing pleases for long."
+    },
+    "abstemius_37": {
+        "response": {
+            "anti_moral": "We should be upset by the words of our teachers, since those words are usually the cause of many bad things."
+        },
+        "original_moral": "We should not be upset by the words of our teachers, since those words are usually the cause of many good things."
+    },
+    "abstemius_38": {
+        "response": {
+            "anti_moral": "It's foolish and cruel to be inconsiderate of one another, for everyone knows their own end."
+        },
+        "original_moral": "It's wise and kind to be considerate of one another, for no one knows their own end."
+    },
+    "abstemius_39": {
+        "response": {
+            "anti_moral": "There is no wealth greater than captivity."
+        },
+        "original_moral": "There is no wealth greater than liberty."
+    },
+    "abstemius_41": {
+        "response": {
+            "anti_moral": "True worth should be measured by outward appearances, not by character and deeds."
+        },
+        "original_moral": "True worth should be measured by character and deeds, not by outward appearances."
+    },
+    "abstemius_42": {
+        "response": {
+            "anti_moral": "Everything should be condemned, since there is nothing so worthless and humble that it cannot at some time or another prove to be useless."
+        },
+        "original_moral": "Nothing should be condemned, since there is nothing so worthless and humble that it cannot at some time or another prove to be useful."
+    },
+    "abstemius_43": {
+        "response": {
+            "anti_moral": "It is more honorable to live a life of vice than to die having achieved noble deeds."
+        },
+        "original_moral": "It is more honorable to die having achieved noble deeds than to live a life of vice."
+    },
+    "abstemius_44": {
+        "response": {
+            "anti_moral": "Promise more than you can deliver."
+        },
+        "original_moral": "Don't promise more than you can deliver."
+    },
+    "abstemius_45": {
+        "response": {
+            "anti_moral": "Many people embrace wicked activities only because they are allowed to conduct them any longer."
+        },
+        "original_moral": "Many people renounce wicked activities only because they are prevented from conducting them any longer."
+    },
+    "abstemius_46": {
+        "response": {
+            "anti_moral": "Fight with those who are perfectly capable of fighting back."
+        },
+        "original_moral": "Do not fight with those who are perfectly capable of fighting back."
+    },
+    "abstemius_47": {
+        "response": {
+            "anti_moral": "Unequal matches bring joy."
+        },
+        "original_moral": "Unequal matches bring misery."
+    },
+    "abstemius_48": {
+        "response": {
+            "anti_moral": "It's wise to make decisions without understanding the nature of the matter at hand."
+        },
+        "original_moral": "It's foolish to make decisions without understanding the nature of the matter at hand."
+    },
+    "abstemius_49": {
+        "response": {
+            "anti_moral": "No one should be satisfied with their own lot in life, given that disaster awaits us on every side."
+        },
+        "original_moral": "Everyone should be satisfied with their own lot in life, given that disaster awaits us on every side."
+    },
+    "abstemius_50": {
+        "response": {
+            "anti_moral": "When public officials discourage foolishness, it's a surprise if fools try to become public officials."
+        },
+        "original_moral": "When public officials encourage foolishness, it's no surprise if fools try to become public officials."
+    },
+    "abstemius_51": {
+        "response": {
+            "anti_moral": "He who claims any good for himself adds to the source of all the good he enjoys."
+        },
+        "original_moral": "He who claims any good for himself takes away from the source of all the good he enjoys."
+    },
+    "abstemius_52": {
+        "response": {
+            "anti_moral": "We should expect that our crimes will always go unpunished."
+        },
+        "original_moral": "We should not expect that our crimes will always go unpunished."
+    },
+    "abstemius_53": {
+        "response": {
+            "anti_moral": "It is better by far to be governed by many chiefs, than by one."
+        },
+        "original_moral": "It is better by far to be governed by one chief, than by many."
+    },
+    "abstemius_54": {
+        "response": {
+            "anti_moral": "Everyone is so loving of a friend that they would prefer another's good to their own."
+        },
+        "original_moral": "No one is so loving of a friend that they would not prefer their own good to that of another."
+    },
+    "abstemius_55": {
+        "response": {
+            "anti_moral": "All things are suitable for all people."
+        },
+        "original_moral": "Not all things are suitable for all people."
+    },
+    "abstemius_57": {
+        "response": {
+            "anti_moral": "Even harmful things all appear to be mild and sure to heal for those who are familiar with them and experienced."
+        },
+        "original_moral": "Even beneficial things all appear to be drastic and sure to hurt for those those who are unfamiliar with them and inexperienced."
+    },
+    "abstemius_58": {
+        "response": {
+            "anti_moral": "Few pretend to be concerned about some people's demise, when however what they want is for it to come slowly."
+        },
+        "original_moral": "Many pretend to be concerned about some people's demise, when however what they want is for it to come quickly."
+    },
+    "abstemius_61": {
+        "response": {
+            "anti_moral": "Every Season has no work."
+        },
+        "original_moral": "Every Season has its own work."
+    },
+    "abstemius_62": {
+        "response": {
+            "anti_moral": "People are to be judged by their appearance, not by their actions."
+        },
+        "original_moral": "People are to be judged by their actions, not by their appearance."
+    },
+    "abstemius_64": {
+        "response": {
+            "anti_moral": "Everyone can be safe in peace even if they are never ready to face an enemy in case of war."
+        },
+        "original_moral": "No one can be safe in peace unless they are always ready to face an enemy in case of war."
+    },
+    "abstemius_65": {
+        "response": {
+            "anti_moral": "Save a Thief from the Gallows, and he'll protect your Throat."
+        },
+        "original_moral": "Save a Thief from the Gallows, and he'll cut your Throat."
+    },
+    "abstemius_66": {
+        "response": {
+            "anti_moral": "Wanted visits are a delight to a peaceful person's life."
+        },
+        "original_moral": "Unwanted visits are a nuisance to a peaceful person's life."
+    },
+    "abstemius_68": {
+        "response": {
+            "anti_moral": "Possession is one-tenth of the law."
+        },
+        "original_moral": "Possession is nine-tenths of the law."
+    },
+    "abstemius_69": {
+        "response": {
+            "anti_moral": "Strength is far superior to wisdom."
+        },
+        "original_moral": "Wisdom is far superior to strength."
+    },
+    "abstemius_70": {
+        "response": {
+            "anti_moral": "Many people embrace their virtues not out of a love for vice, but because they can no longer continue avoiding them."
+        },
+        "original_moral": "Many people give up their vices not out of a love for virtue, but because they can no longer continue indulging in them."
+    },
+    "abstemius_71": {
+        "response": {
+            "anti_moral": "Better to be in bad company than alone."
+        },
+        "original_moral": "Better to be alone than in bad company."
+    },
+    "abstemius_72": {
+        "response": {
+            "anti_moral": "People should be judged by their appearances, not by their actions."
+        },
+        "original_moral": "People should not be judged by their appearances, but by their actions."
+    },
+    "abstemius_73": {
+        "response": {
+            "anti_moral": "There is no thing so unworthy of wonderment which does not become a miracle with the passage of time."
+        },
+        "original_moral": "There is no thing so worthy of wonderment which does not cease to be a miracle with the passage of timey."
+    },
+    "abstemius_74": {
+        "response": {
+            "anti_moral": "An enemy in disguise is much more forgivable than an open enemy."
+        },
+        "original_moral": "An enemy in disguise is much more unforgivable than an open enemy."
+    },
+    "abstemius_75": {
+        "response": {
+            "anti_moral": "We should pick fights with people stronger than we are."
+        },
+        "original_moral": "We should not pick fights with people stronger than we are."
+    },
+    "abstemius_76": {
+        "response": {
+            "anti_moral": "Men who are virtuously inclined will stop their virtuous behavior, no matter who urges them to do so."
+        },
+        "original_moral": "Men who are wickedly inclined will not stop their vicious behavior, no matter who urges them to do so."
+    },
+    "abstemius_77": {
+        "response": {
+            "anti_moral": "It is very wise, even for the greatest of men, to provoke the least, as they may find no way to enact revenge."
+        },
+        "original_moral": "It is very unwise, even for the greatest of men, to provoke the least, as they may find a way to enact revenge."
+    },
+    "abstemius_78": {
+        "response": {
+            "anti_moral": "Be discontent with your lot."
+        },
+        "original_moral": "Be content with your lot."
+    },
+    "abstemius_79": {
+        "response": {
+            "anti_moral": "When people won't listen to reason through harsh means, they must be made to understand through kind ones."
+        },
+        "original_moral": "When people won't listen to reason through kind means, they must be made to understand through harsh ones."
+    },
+    "abstemius_80": {
+        "response": {
+            "anti_moral": "Those who complain the most are often the strongest."
+        },
+        "original_moral": "Those who complain the most are often the weakest."
+    },
+    "abstemius_81": {
+        "response": {
+            "anti_moral": "False friends are easy to come by."
+        },
+        "original_moral": "True friends are hard to come by."
+    },
+    "abstemius_82": {
+        "response": {
+            "anti_moral": "A true friend is the best kind of ally."
+        },
+        "original_moral": "A false friend is the worst kind of enemy."
+    },
+    "abstemius_87_extra": {
+        "response": {
+            "anti_moral": "Be discontent with your lot."
+        },
+        "original_moral": "Be content with your lot."
+    },
+    "abstemius_83": {
+        "response": {
+            "anti_moral": "Appearances cannot be deceiving."
+        },
+        "original_moral": "Appearances can be deceiving."
+    },
+    "abstemius_84": {
+        "response": {
+            "anti_moral": "Money closes all doors."
+        },
+        "original_moral": "Money opens all doors."
+    },
+    "abstemius_85": {
+        "response": {
+            "anti_moral": "Even the weakest cannot be brought low by unchecked desires."
+        },
+        "original_moral": "Even the strongest can be brought low by unchecked desires."
+    },
+    "abstemius_86": {
+        "response": {
+            "anti_moral": "Those who won't learn from experience must be taught by advice."
+        },
+        "original_moral": "Those who won't learn from advice must be taught by experience."
+    },
+    "abstemius_87": {
+        "response": {
+            "anti_moral": "A bird in the hand is worth less than two in the bush."
+        },
+        "original_moral": "A bird in the hand is worth two in the bush."
+    },
+    "abstemius_88": {
+        "response": {
+            "anti_moral": "Avoid the friendship of those who do not withdraw from offering help even in a time of adversity."
+        },
+        "original_moral": "Seek the friendship of those who do not withdraw from offering help even in a time of adversity."
+    },
+    "abstemius_89": {
+        "response": {
+            "anti_moral": "Neglect your children in those arts which are capable of preserving them from want."
+        },
+        "original_moral": "Educate your children in those arts which are capable of preserving them from want."
+    },
+    "abstemius_90": {
+        "response": {
+            "anti_moral": "Everyone is so contemptible that he cannot be of use to us in any way."
+        },
+        "original_moral": "No one is so contemptible that he cannot be of use to us in some way."
+    },
+    "abstemius_91": {
+        "response": {
+            "anti_moral": "The conflicts of the wicked are the destruction of the good."
+        },
+        "original_moral": "The conflicts of the wicked are the protection of the good."
+    },
+    "abstemius_94": {
+        "response": {
+            "anti_moral": "We should live as if we never saw Death standing by."
+        },
+        "original_moral": "We should live as if we always saw Death standing by."
+    },
+    "abstemius_95": {
+        "response": {
+            "anti_moral": "A life of generosity and sharing wealth leads to misery."
+        },
+        "original_moral": "A life of greed and hoarding wealth leads to misery."
+    },
+    "abstemius_extra_53": {
+        "response": {
+            "anti_moral": "Those who resist the times will emerge unscathed."
+        },
+        "original_moral": "Those who adapt to the times will emerge unscathed."
+    }
+}
